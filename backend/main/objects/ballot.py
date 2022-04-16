@@ -1,3 +1,9 @@
+import uuid
+from Cryptodome.Cipher import AES
+from Crypto.Random import get_random_bytes
+from base64 import b64encode, b64decode
+
+
 class Ballot:
     """
     A ballot that exists in a specific, secret manner
@@ -8,8 +14,8 @@ class Ballot:
         self.voter_comments = voter_comments
 
 
-def generate_ballot_number() -> str:
-    """
+def generate_ballot_number(national_id: str) -> str:
+   """
     Produces a ballot number. Feel free to add parameters to this method, if you feel those are necessary.
 
     Remember that ballot numbers must respect the following conditions:
@@ -22,7 +28,21 @@ def generate_ballot_number() -> str:
     3. In order to minimize the risk of fraud, a nefarious actor should not be able to tell that two different ballots
        are associated with the same voter.
 
+
+    SOLUTION: using a non-deterministic and symmetric cipher in value (nation id + uuid) to get a unique
+    and secret value
+
     :return: A string representing a ballot number that satisfies the conditions above
-    """
-    # TODO: Implement this! Feel free to add parameters to this method, if necessary
-    raise NotImplementedError()
+   """
+   id = str(uuid.uuid4())
+   try:
+      id = national_id + id
+      cipher = AES.new(
+         b'12345678901234567890123456789012', 
+         mode=AES.MODE_EAX
+      )
+      ciphertext = cipher.encrypt(id.encode("utf-8"))
+      ciphertext = b64encode(ciphertext).decode("utf-8")
+      return ciphertext
+   except Exception as e:
+      raise e
