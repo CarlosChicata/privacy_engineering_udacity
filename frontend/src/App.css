@@ -1,0 +1,35 @@
+@import "~normalize.css";
+@import "~@blueprintjs/core/lib/css/blueprint.css";
+@import "~@blueprintjs/icons/lib/css/blueprint-icons.css";
+
+.app {
+  min-height: 100vh;
+  display: grid;
+  grid-template-areas: 
+  "a a a a a a"
+  "a a a a a a"
+  "b b b b b b"
+  "b b b b b b"
+  "b b b b b b";
+  justify-content: center;
+  flex-direction: column;
+  color: white;
+  background-color: #282c34;
+}
+
+.white-text {
+  color: white;
+}
+
+.app-header {
+  margin-top: 30px;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  grid-area: a;
+}
+
+.form {
+  grid-area: b;
+}
+
