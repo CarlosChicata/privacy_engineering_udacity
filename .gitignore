@@ -1,0 +1,5 @@
+./frontend/node_modules/~
+./backend/env/~
+*.pyc
+./backend/__pychache__
+.directory
