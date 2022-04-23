@@ -5,8 +5,10 @@
 import sqlite3
 from sqlite3 import Connection
 
+from datetime import datetime
 from typing import List
 
+from backend.main.objects.voter import Voter, VoterStatus
 from backend.main.objects.candidate import Candidate
 
 
@@ -60,7 +62,19 @@ class VotingStore:
         """
         self.connection.execute(
             """CREATE TABLE candidates (candidate_id integer primary key autoincrement, name text)""")
-        # TODO: Add additional tables here, as you see fit
+        self.connection.execute(
+            """
+            CREATE TABLE voter(
+                voter_id integer primary key autoincrement,
+                first_name text,
+                last_name text,
+                national_id text,
+                status text null,
+                creation text,
+                deleted boolean default false
+            )
+            """
+        )
         self.connection.commit()
 
     def add_candidate(self, candidate_name: str):
@@ -93,6 +107,75 @@ class VotingStore:
         self.connection.commit()
 
         return all_candidates
+    
+    # NEW METHOD
+    def add_voter(self, voter: Voter) -> bool:
+        try:
+            cursor = self.connection.cursor()
+            cursor.execute("""SELECT count(*) FROM voter WHERE national_id=?""", (voter.national_id,))
+            status_voter = cursor.fetchone()
+            count_voter = int(status_voter[0]) if status_voter else 0
+
+            if count_voter == 0:
+                today = datetime.now().strftime("%m/%d/%Y, %H:%M:%S")
+                statusVoted = VoterStatus.REGISTERED_NOT_VOTED.value
+                self.connection.execute("""
+                    INSERT INTO voter (
+                        first_name, 
+                        last_name, 
+                        national_id, 
+                        status, 
+                        creation)
+                    values (?,?,?, ?, ?)
+                """, (voter.first_name , 
+                    voter.last_name, 
+                    voter.national_id, 
+                    str(statusVoted), 
+                    today))
+                self.connection.commit()
+                return True
+            else: 
+                return False
+        except Exception as e:
+            raise e 
+
+    def get_voter(self, national_id:str) -> Voter:
+        cursor = self.connection.cursor()
+        cursor.execute("""SELECT first_name, last_name, national_id FROM voter WHERE national_id=?""", (national_id,))
+        voter_row = cursor.fetchone()
+        voter = Voter(voter_row[0], voter_row[1], voter_row[2]) if voter_row else None
+        self.connection.commit()
+
+        return voter
+
+    def get_status_voter(self, national_id: str) -> str:
+        cursor = self.connection.cursor()
+        cursor.execute("""SELECT status FROM voter WHERE national_id=?""", (national_id,))
+        status_voter = cursor.fetchone()
+        status_voter = status_voter[0] if status_voter else None
+        self.connection.commit()
+
+        return status_voter
+
+    def delete_voter(self, national_id: str) -> bool:
+        try:
+            cursor = self.connection.cursor()
+            cursor.execute("""SELECT count(*) FROM voter WHERE national_id=?""", (national_id,))
+            status_voter = cursor.fetchone()
+            count_voter = int(status_voter[0]) if status_voter else 0
+
+            if count_voter > 0:
+                self.connection.execute("""
+                    DELETE FROM voter 
+                    WHERE national_id=?
+                """, (national_id,))
+                self.connection.commit()
+                return True
+            else:
+                return False
+        except Exception as e:
+            raise e
+
 
     # TODO: If you create more tables in the create_tables method, feel free to add more methods here to make accessing
     #       data from those tables easier. See get_all_candidates, get_candidates and add_candidate for examples of how

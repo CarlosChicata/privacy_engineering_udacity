@@ -22,7 +22,16 @@ def register_voter(voter: Voter) -> bool:
               (based on their National ID)
     """
     # TODO: Implement this!
-    raise NotImplementedError()
+    try:
+        store = VotingStore.get_instance()
+        national_id = voter.national_id.replace("-", "").replace(" ", "").strip()
+        first_name = voter.first_name.lower()
+        last_name = voter.last_name.lower()
+        proxy_voter = Voter(first_name, last_name, national_id)
+        return store.add_voter(proxy_voter)
+    except Exception as e:
+        raise e
+
 
 
 def get_voter_status(voter_national_id: str) -> VoterStatus:
@@ -32,6 +41,20 @@ def get_voter_status(voter_national_id: str) -> VoterStatus:
     :param: voter_national_id The sensitive ID of the voter to check the registration status of.
     :returns: The status of the voter that best describes their situation
     """
+    try:
+        store = VotingStore.get_instance()
+        status = store.get_status_voter(voter_national_id.replace("-", "").replace(" ", "").strip())
+        if status is None or str(VoterStatus.NOT_REGISTERED.value) == status:
+            return VoterStatus.NOT_REGISTERED
+        elif str(VoterStatus.BALLOT_COUNTED.value) == status:
+            return VoterStatus.BALLOT_COUNTED
+        elif str(VoterStatus.FRAUD_COMMITTED.value) == status:
+            return VoterStatus.FRAUD_COMMITTED
+        elif str(VoterStatus.REGISTERED_NOT_VOTED.value) == status:
+            return VoterStatus.REGISTERED_NOT_VOTED
+        else: return status
+    except Exception as e:
+        raise e
     # TODO: Implement this!
     raise NotImplementedError()
 
@@ -45,8 +68,16 @@ def de_register_voter(voter_national_id: str) -> bool:
     :param: voter_national_id The sensitive ID of the voter to de-register.
     :returns: Boolean TRUE if de-registration was successful. Boolean FALSE otherwise.
     """
-    # TODO: Implement this!
-    raise NotImplementedError()
+    try:
+        store = VotingStore.get_instance()
+        clean_national_id = voter_national_id.replace("-", "").replace(" ", "").strip()
+        status = store.get_status_voter(clean_national_id)
+        if str(VoterStatus.FRAUD_COMMITTED.value) == status:
+            return False
+        else:
+            return store.delete_voter(clean_national_id)
+    except Exception as e:
+        raise e
 
 
 #
