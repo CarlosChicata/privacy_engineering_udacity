@@ -10,6 +10,7 @@ from typing import List
 
 from backend.main.objects.voter import Voter, VoterStatus
 from backend.main.objects.candidate import Candidate
+from backend.main.objects.ballot import Ballot
 
 
 class VotingStore:
@@ -71,6 +72,21 @@ class VotingStore:
                 national_id text,
                 status text null,
                 creation text,
+                deleted boolean default false
+            )
+            """
+        )
+        self.connection.execute(
+            """
+            CREATE TABLE ballot(
+                ballot_id integer primary key autoincrement,
+                ballot_number text,
+                chosen_candidate_id text null,
+                voter_comments text null,
+                voter_id text null,
+                voter_national_id text,
+                is_validated boolean default true,
+                is_used boolean default false,
                 deleted boolean default false
             )
             """
@@ -157,6 +173,14 @@ class VotingStore:
 
         return status_voter
 
+    def update_status_voter(self, national_id: str, new_status: str):
+        cursor = self.connection.cursor()
+        cursor.execute("""
+        UPDATE voter
+        SET  status =?
+        WHERE national_id=?""", (new_status, national_id))
+        self.connection.commit()
+
     def delete_voter(self, national_id: str) -> bool:
         try:
             cursor = self.connection.cursor()
@@ -176,6 +200,107 @@ class VotingStore:
         except Exception as e:
             raise e
 
+    def add_ballot(self, national_id: str, ballot_number: str):
+        self.connection.execute("""INSERT INTO ballot (ballot_number, voter_national_id) VALUES (?, ?)""", (ballot_number,national_id ))
+        self.connection.commit()
+
+    def count_specified_validated_ballot(self,voter_national_id : str, ballot_number: str ) -> int:
+        cursor = self.connection.cursor()
+        cursor.execute(
+            """SELECT count(*) FROM ballot WHERE voter_national_id=? AND ballot_number=? AND is_validated=true AND deleted=false""", 
+            (voter_national_id, ballot_number))
+        all_ballots_count = cursor.fetchone()
+        self.connection.commit()
+
+        return all_ballots_count[0]
+
+    def is_ballont_to_voter(self,voter_national_id : str, ballot_number: str ) -> int:
+        cursor = self.connection.cursor()
+        cursor.execute(
+            """SELECT count(*) FROM ballot WHERE voter_national_id=? AND ballot_number=?""", 
+            (voter_national_id, ballot_number))
+        all_ballots_count = cursor.fetchone()
+        self.connection.commit()
+
+        return all_ballots_count[0]
+
+    def is_invalitated_ballot(self, ballot_number: str ) -> int:
+        cursor = self.connection.cursor()
+        cursor.execute(
+            """SELECT count(*) 
+            FROM ballot 
+            WHERE ballot_number=? AND is_validated=false""", 
+            (ballot_number,))
+        all_ballots_count = cursor.fetchone()
+        self.connection.commit()
+
+        return all_ballots_count[0]
+
+    def is_existed_ballot(self, ballot_number: str ) -> int:
+        cursor = self.connection.cursor()
+        cursor.execute(
+            """SELECT count(*) FROM ballot WHERE ballot_number=?""", 
+            (ballot_number,))
+        all_ballots_count = cursor.fetchone()
+        self.connection.commit()
+
+        return all_ballots_count[0]
+    
+    def count_casted_ballot(self, voter_national_id: str ) -> int:
+        cursor = self.connection.cursor()
+        cursor.execute(
+            """SELECT count(*) FROM ballot 
+            WHERE voter_national_id=? AND deleted=false 
+            AND is_used=true
+            AND is_validated=true""", 
+            (voter_national_id,))
+        all_ballots_count = cursor.fetchone()
+        self.connection.commit()
+
+        return all_ballots_count[0]
+    
+    def invalidated_ballot(self, ballot_number: str):
+        cursor = self.connection.cursor()
+        cursor.execute("""
+        UPDATE ballot
+        SET  is_validated = false,
+            is_used = true
+        WHERE ballot_number=?""", (ballot_number, ))
+        self.connection.commit()    
+    
+    def validated_ballot(self, ballot_number: str):
+        cursor = self.connection.cursor()
+        cursor.execute("""
+        UPDATE ballot
+        SET is_used = true
+        WHERE ballot_number=?""", (ballot_number, ))
+        self.connection.commit()
+
+    def update_content_ballot(self, ballot_number: str, candidate_id: str, coment: str):
+        cursor = self.connection.cursor()
+        cursor.execute("""
+        UPDATE ballot
+        SET chosen_candidate_id =?,
+            voter_comments =?
+        WHERE ballot_number=?""", (candidate_id, coment, ballot_number))
+        self.connection.commit()
+
+    def get_most_voted(self) -> List[str]:
+        cursor = self.connection.cursor()
+        cursor.execute(
+            """
+            SELECT chosen_candidate_id, count(*) as voter
+            FROM ballot 
+            WHERE chosen_candidate_id is not null
+            GROUP BY chosen_candidate_id
+            ORDER BY 2 DESC
+            """, 
+        )
+        all_candidate_rows = cursor.fetchall()
+        all_ballots_count = [(str(candidate_row[0]), int(candidate_row[1])) for candidate_row in all_candidate_rows]
+        self.connection.commit()
+
+        return all_ballots_count
 
     # TODO: If you create more tables in the create_tables method, feel free to add more methods here to make accessing
     #       data from those tables easier. See get_all_candidates, get_candidates and add_candidate for examples of how
