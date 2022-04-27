@@ -9,27 +9,27 @@ def redact_free_text(free_text: str, first_name_voter: str, last_name_voter: str
         email_regex = r"\b\S+@\S+.\S+\b"
         nation_id_regex = r"\d{3}(-| )?\d{2}(-| )?\d+"
         phone_regex = r"\(?\d{3}(\) | |-)?\d{3}-?\d{4}"
-        free_text = re.sub(email_regex, "[EMAIL REDACTED]" , free_text)
+        free_text = re.sub(email_regex, "[REDACTED EMAIL]" , free_text)
         free_text = re.sub(
             last_name_voter,
-            "[NAME REDACTED]",
+            "[REDACTED NAME]",
             free_text,
             flags=re.IGNORECASE
         )
         free_text = re.sub(
             first_name_voter,
-            "[NAME REDACTED]",
+            "[REDACTED NAME]",
             free_text,
             flags=re.IGNORECASE
         )
         free_text = re.sub(
             phone_regex,
-            "[PHONE REDACTED]",
+            "[REDACTED PHONE]",
             free_text
         )
         free_text = re.sub(
             nation_id_regex,
-            "[NATION ID REDACTED]",
+            "[REDACTED NATIONAL ID]",
             free_text
         )
         return free_text
