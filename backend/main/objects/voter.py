@@ -2,6 +2,7 @@
 # This file contains classes that correspond to voters
 #
 
+from random import shuffle
 from enum import Enum
 from Cryptodome.Cipher import AES
 from Crypto.Random import get_random_bytes
@@ -21,6 +22,9 @@ def obfuscate_national_id(national_id: str) -> str:
     """
     sanitized_national_id = national_id.replace("-", "").replace(" ", "").strip()
     try:
+        sanitized_national_id = list(sanitized_national_id)
+        shuffle(sanitized_national_id)
+        sanitized_national_id = "".join(sanitized_national_id)
         if len(sanitized_national_id) >= 5:
             return sanitized_national_id[0] + "***" + sanitized_national_id[-1]
         else:
