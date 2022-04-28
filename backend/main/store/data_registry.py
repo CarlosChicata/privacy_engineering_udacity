@@ -200,6 +200,19 @@ class VotingStore:
         except Exception as e:
             raise e
 
+    def get_fraudulent_voters(self ) -> List[Voter]:
+        cursor = self.connection.cursor()
+        cursor.execute("""
+            SELECT first_name, last_name, national_id
+            FROM voter
+            WHERE status=?
+        """, (str(VoterStatus.FRAUD_COMMITTED.value),))
+        all_voter_rows = cursor.fetchall()
+        all_voters = [Voter(str(voter_row[0]), str(voter_row[1]), str(voter_row[2])) for voter_row in all_voter_rows]
+        self.connection.commit()
+        print(all_voters)
+        return all_voters
+
     def add_ballot(self, national_id: str, ballot_number: str):
         self.connection.execute("""INSERT INTO ballot (ballot_number, voter_national_id) VALUES (?, ?)""", (ballot_number,national_id ))
         self.connection.commit()
@@ -230,6 +243,19 @@ class VotingStore:
             """SELECT count(*) 
             FROM ballot 
             WHERE ballot_number=? AND is_validated=false""", 
+            (ballot_number,))
+        all_ballots_count = cursor.fetchone()
+        self.connection.commit()
+
+        return all_ballots_count[0]
+
+    def is_used_ballot(self, ballot_number: str ) -> int:
+        cursor = self.connection.cursor()
+        cursor.execute(
+            """SELECT count(*) 
+            FROM ballot 
+            WHERE ballot_number=? AND is_validated=true
+            AND is_used=true""", 
             (ballot_number,))
         all_ballots_count = cursor.fetchone()
         self.connection.commit()
@@ -301,6 +327,22 @@ class VotingStore:
         self.connection.commit()
 
         return all_ballots_count
+
+    def get_comments(self) -> List[str]:
+        cursor = self.connection.cursor()
+        cursor.execute(
+            """
+            SELECT voter_comments
+            FROM ballot 
+            WHERE deleted = false
+            AND is_validated = true
+            """, 
+        )
+        all_comments_rows = cursor.fetchall()
+        all_comment = [ str(comment_row[0]) for comment_row in all_comments_rows]
+        self.connection.commit()
+
+        return all_comment
 
     # TODO: If you create more tables in the create_tables method, feel free to add more methods here to make accessing
     #       data from those tables easier. See get_all_candidates, get_candidates and add_candidate for examples of how

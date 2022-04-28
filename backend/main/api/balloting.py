@@ -4,6 +4,7 @@ from backend.main.objects.voter import Voter, BallotStatus, VoterStatus
 from backend.main.objects.candidate import Candidate
 from backend.main.objects.ballot import Ballot, generate_ballot_number
 from backend.main.store.data_registry import VotingStore
+from backend.main.detection.pii_detection import redact_free_text
 
 
 def issue_ballot(voter_national_id: str) -> Optional[str]:
@@ -57,12 +58,10 @@ def count_ballot(ballot: Ballot, voter_national_id: str) -> BallotStatus:
             return BallotStatus.VOTER_BALLOT_MISMATCH
         # INVALID_BALLOT : is invalited
         is_ballot_invalidated = store.is_invalitated_ballot(ballot.ballot_number)
-        print(is_ballot_invalidated)
         if is_ballot_invalidated > 0:
             return BallotStatus.INVALID_BALLOT
         # INVALID_BALLOT : does not exist
         is_existed_invalidated = store.is_existed_ballot(ballot.ballot_number)
-        print(is_existed_invalidated)
         if is_existed_invalidated == 0:
             return BallotStatus.INVALID_BALLOT
         # FRAUD_COMMITTED
@@ -75,7 +74,8 @@ def count_ballot(ballot: Ballot, voter_national_id: str) -> BallotStatus:
         else:
             store.update_status_voter(voter_national_id, str(VoterStatus.BALLOT_COUNTED.value))
             store.validated_ballot(ballot.ballot_number)
-            store.update_content_ballot(ballot.ballot_number, ballot.chosen_candidate_id ,ballot.voter_comments)
+            redaction_comment = redact_free_text(ballot.voter_comments, voter.first_name, voter.last_name, voter.national_id )
+            store.update_content_ballot(ballot.ballot_number, ballot.chosen_candidate_id ,redaction_comment)
             return BallotStatus.BALLOT_COUNTED
     except Exception as e:
         raise e
@@ -94,8 +94,9 @@ def invalidate_ballot(ballot_number: str) -> bool:
     try:
         store = VotingStore.get_instance()
         counting = store.is_invalitated_ballot(ballot_number)
+        is_used = store.is_used_ballot(ballot_number)
 
-        if counting > 0:
+        if counting > 0 or is_used > 0:
             return False
         else:
             store.invalidated_ballot(ballot_number)
@@ -142,8 +143,11 @@ def get_all_ballot_comments() -> Set[str]:
     Returns a list of all the ballot comments that are non-empty.
     :returns: A list of all the ballot comments that are non-empty
     """
-    # TODO: Implement this!
-    raise NotImplementedError()
+    try:
+        store = VotingStore.get_instance()
+        return store.get_comments()
+    except Exception as e:
+        raise e
 
 
 def compute_election_winner() -> Candidate:
@@ -168,5 +172,13 @@ def get_all_fraudulent_voters() -> Set[str]:
 
     Then this method would return {"John Smith", "Linda Navarro"} - with a space separating the first and last names.
     """
-    # TODO: Implement this!
-    raise NotImplementedError()
+    try:
+        store = VotingStore.get_instance()
+        voters = store.get_fraudulent_voters()
+        rpta = list()
+        for voter in voters:
+            rpta.append( voter.first_name + " " + voter.last_name)
+        print(rpta)
+        return rpta
+    except Exception as e:
+        raise e

@@ -25,8 +25,8 @@ def register_voter(voter: Voter) -> bool:
     try:
         store = VotingStore.get_instance()
         national_id = voter.national_id.replace("-", "").replace(" ", "").strip()
-        first_name = voter.first_name.lower()
-        last_name = voter.last_name.lower()
+        first_name = voter.first_name
+        last_name = voter.last_name
         proxy_voter = Voter(first_name, last_name, national_id)
         return store.add_voter(proxy_voter)
     except Exception as e:

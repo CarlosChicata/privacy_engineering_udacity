@@ -35,6 +35,7 @@ def generate_ballot_number(national_id: str) -> str:
     :return: A string representing a ballot number that satisfies the conditions above
    """
    id = str(uuid.uuid4())
+   national_id = national_id.replace("-", "").replace(" ", "").strip()
    try:
       id = national_id + id
       cipher = AES.new(

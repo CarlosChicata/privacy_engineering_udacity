@@ -24,7 +24,7 @@ def redact_free_text(free_text: str, first_name_voter: str, last_name_voter: str
         )
         free_text = re.sub(
             phone_regex,
-            "[REDACTED PHONE]",
+            "[REDACTED PHONE NUMBER]",
             free_text
         )
         free_text = re.sub(
