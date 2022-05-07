@@ -1,5 +1,5 @@
 import React from 'react';
-import { H5, FormGroup, InputGroup, RadioGroup, Radio, TextArea, Button, Intent, Toaster, IToaster } from "@blueprintjs/core";
+import { H5, FormGroup, InputGroup, RadioGroup, Radio, TextArea, Button, Intent, Toaster, IToaster, Text, H3 } from "@blueprintjs/core";
 import { IconNames } from "@blueprintjs/icons";
 
 
@@ -53,6 +53,12 @@ export class IBallotForm extends React.PureComponent<{}, IBallotFormState> {
      */ 
     return (
     <>
+        <H3 className="white-text">Rules of election</H3>
+        <Text>Your vote is used in this election, so it's will be counting anonymously way after verify your identity.</Text>
+        <Text>2) Don't write personal information (like name, or phone number) in your comment.</Text>
+        <Text>3) You can de-register your vote after your casted.</Text>
+        <Text>4) If you vote twice or more, they won't de-register and will be flagged for fraud.</Text>
+        <br />
       <FormGroup>
         <H5 className="white-text">Enter your voter information</H5>
         <InputGroup onChange={this.onNationalIdUpdate} value={voterNationalId} large={true} leftIcon={IconNames.PERSON} placeholder="Your National ID" />
@@ -133,7 +139,7 @@ export class IBallotForm extends React.PureComponent<{}, IBallotFormState> {
       headers: {'Content-Type': 'application/json'}
     });
 
-    /* If we got a generic bad response, show a danger toast */
+    /* If we got a generic bad response, show a danger toast*/
     if (!response.ok) {
       response.json().then((res) => {
         toaster.show({
@@ -144,6 +150,10 @@ export class IBallotForm extends React.PureComponent<{}, IBallotFormState> {
     } else {
       // TODO: Since the ballot was successfully counted, inform the user, and inform the user 
       //       about deleting their voter details (see example in the if-statement above)
+      toaster.show({
+        message: "Your vote was successfully casting. Remember that you can de-register yourself!.",
+        intent: Intent.SUCCESS
+      });
       this.clearEnteredState();
     }
   }
