@@ -1,0 +1,44 @@
+Privacy Self-Evaluation
+--------------------
+1) Proactive not Reactive; Preventative, not Remedial:
+    1.- What does this application do to address this PbD principle?
+        its first time to build this software, the team thought in privacy in all aspect. 
+    2.- How can we improve this application to better address this PbD principle?
+        Document those initial consideration to check and improve continually in life cycle of proyect.
+--------------------
+2) Privacy as the Default Setting
+    1.- What does this application do to address this PbD principle?
+        The system put the privacy opt in in all operation. The message of use this data is clear and give options how the user can work this data inside of system.
+    2.- How can we improve this application to better address this PbD principle?
+        the system should give the opt-out option. This message can be shorter.
+--------------------
+3) Privacy Embedded into Design
+    1.- What does this application do to address this PbD principle?
+        there are embedded messages all system to assist the operation and this get out when you need.
+    2.- How can we improve this application to better address this PbD principle?
+        better Text of message: more friendly.
+--------------------
+4) Full Functionality
+    1.- What does this application do to address this PbD principle?
+        We have a positive-sum in implemented functionality in workflow. I don't have problem to tradeoff with functionality.
+    2.- How can we improve this application to better address this PbD principle?
+        better modeling DB to improve performance.
+--------------------
+5) End-to-End Security
+    1.- What does this application do to address this PbD principle?
+        all operation of the casting vote, all privacy-based security practices are aplicated in backend.
+    2.- How can we improve this application to better address this PbD principle?
+        we can encrypt the protocol (HTTPS) and message of front-backend-communication
+--------------------
+6) Visibility and Transparency
+    1.- What does this application do to address this PbD principle?
+        He knows his vote is anonymized and used in this election. The system uses only data for this election and then apply minimization techniques in all data by security issues.
+    2.- How can we improve this application to better address this PbD principle?
+        Document about policy of sharing data and specification of used minimization techniques inside system.
+    
+--------------------
+7) Respect for User Privacy
+    1.- What does this application do to address this PbD principle?
+        the user can de-register his vote and know the vote will be anonymized.
+    2.- How can we improve this application to better address this PbD principle?
+        get a page to de-register into user.
