@@ -1,0 +1,181 @@
+﻿START,STOP,PATIENT,ENCOUNTER,CODE,DESCRIPTION,FIRST NAME,LAST NAME
+11/28/02,,71ba0469-f0cc-4177-ac70-ea07cb01c8b8,27b42ec0-346b-4635-ad7e-c2fed719357d,232353008,Perennial allergic rhinitis with seasonal variation,Carmelia328,Konopelski743
+5/11/03,5/20/03,71ba0469-f0cc-4177-ac70-ea07cb01c8b8,a0faeceb-1e3d-4715-b637-78dcb134fca9,43878008,Streptococcal sore throat (disorder),Carmelia328,Konopelski743
+8/8/03,10/28/03,71ba0469-f0cc-4177-ac70-ea07cb01c8b8,9ec26a4a-f52e-4fd6-a2fc-92a8a4f28914,65363002,Otitis media,Carmelia328,Konopelski743
+7/3/04,8/2/04,71ba0469-f0cc-4177-ac70-ea07cb01c8b8,323fca87-817f-4d58-8486-ba92ea739399,58150001,Fracture of clavicle,Carmelia328,Konopelski743
+10/6/04,10/27/04,71ba0469-f0cc-4177-ac70-ea07cb01c8b8,9150ab97-11e6-4ef6-83b5-39038aa3c8c9,444814009,Viral sinusitis (disorder),Carmelia328,Konopelski743
+11/27/04,,71ba0469-f0cc-4177-ac70-ea07cb01c8b8,eb31cc94-4020-463a-880a-370e368768f0,233678006,Childhood asthma,Carmelia328,Konopelski743
+10/17/05,10/31/05,71ba0469-f0cc-4177-ac70-ea07cb01c8b8,182c10fc-8a61-45a2-a006-03c5c2eab422,65363002,Otitis media,Carmelia328,Konopelski743
+8/27/06,11/7/06,71ba0469-f0cc-4177-ac70-ea07cb01c8b8,ae5afd99-4556-4abe-a4d8-109456461690,65363002,Otitis media,Carmelia328,Konopelski743
+4/26/08,5/3/08,71ba0469-f0cc-4177-ac70-ea07cb01c8b8,db982d47-77ac-4955-92e5-360f4a1b550f,195662009,Acute viral pharyngitis (disorder),Carmelia328,Konopelski743
+5/13/08,5/27/08,71ba0469-f0cc-4177-ac70-ea07cb01c8b8,fa736e9b-a224-4fe1-a7b9-0fd7a2d9f113,370247008,Facial laceration,Carmelia328,Konopelski743
+11/19/10,,71ba0469-f0cc-4177-ac70-ea07cb01c8b8,741efff2-532f-43c5-866f-043fdb520e43,254837009,Malignant neoplasm of breast (disorder),Carmelia328,Konopelski743
+7/31/11,8/7/11,71ba0469-f0cc-4177-ac70-ea07cb01c8b8,282d8b55-693a-4c50-ac76-04f378bd97d2,444814009,Viral sinusitis (disorder),Carmelia328,Konopelski743
+2/18/99,,4b414e31-2791-4942-9c28-46a299805848,99df43dd-c10a-4409-a667-d2000f68eb83,19169002,Miscarriage in first trimester,Muoi890,Nolan344
+12/15/05,,4b414e31-2791-4942-9c28-46a299805848,c2055325-8f8a-4be8-ac89-c1e29521bc08,162864005,Body mass index 30+ - obesity (finding),Muoi890,Nolan344
+5/12/10,7/21/10,4b414e31-2791-4942-9c28-46a299805848,b81e84de-d540-4e8b-90d5-80674e79d9dd,36971009,Sinusitis (disorder),Muoi890,Nolan344
+7/14/10,,4b414e31-2791-4942-9c28-46a299805848,727051c1-e2e4-416b-ac8e-ac1011ef4ba0,40055000,Chronic sinusitis (disorder),Muoi890,Nolan344
+11/22/12,1/1/13,4b414e31-2791-4942-9c28-46a299805848,11ecceed-3cd2-456c-b713-d3c72f9b05e8,301011002,Escherichia coli urinary tract infection,Muoi890,Nolan344
+12/15/13,12/29/13,4b414e31-2791-4942-9c28-46a299805848,310160b0-8d06-4e26-b736-aae323b2e8c7,10509002,Acute bronchitis (disorder),Muoi890,Nolan344
+3/1/69,,cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9,f9d7d327-8c75-4fb1-9b5c-152b226a49db,162864005,Body mass index 30+ - obesity (finding),Isiah14,Fritsch593
+3/13/76,,cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9,53b3194e-342a-47a0-bacf-8e24491c2892,44054006,Diabetes,Isiah14,Fritsch593
+3/19/77,,cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9,ee5898a0-7865-442a-a004-56db5d81a67e,302870006,Hypertriglyceridemia (disorder),Isiah14,Fritsch593
+3/19/77,,cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9,ee5898a0-7865-442a-a004-56db5d81a67e,237602007,Metabolic syndrome X (disorder),Isiah14,Fritsch593
+3/19/77,,cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9,ee5898a0-7865-442a-a004-56db5d81a67e,15777000,Prediabetes,Isiah14,Fritsch593
+3/19/77,,cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9,ee5898a0-7865-442a-a004-56db5d81a67e,431855005,Chronic kidney disease stage 1 (disorder),Isiah14,Fritsch593
+3/19/77,,cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9,ee5898a0-7865-442a-a004-56db5d81a67e,127013003,Diabetic renal disease (disorder),Isiah14,Fritsch593
+12/31/77,,cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9,0b637bf5-6cb1-4fdc-9c5a-6e9d4fdaadfc,431856006,Chronic kidney disease stage 2 (disorder),Isiah14,Fritsch593
+12/31/77,,cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9,0b637bf5-6cb1-4fdc-9c5a-6e9d4fdaadfc,9.08E+13,Microalbuminuria due to type 2 diabetes mellitus (disorder),Isiah14,Fritsch593
+6/9/12,6/23/12,cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9,352e57d1-b8aa-4e1b-84dd-85753751f641,444814009,Viral sinusitis (disorder),Isiah14,Fritsch593
+12/16/14,1/6/15,cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9,fd12a003-1059-470c-a470-b1dd971d9389,444814009,Viral sinusitis (disorder),Isiah14,Fritsch593
+1/14/17,1/21/17,cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9,f6d2aeb7-7a0f-405b-b790-32cc01ec7caa,10509002,Acute bronchitis (disorder),Isiah14,Fritsch593
+12/13/17,1/3/18,cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9,00fb7a97-0182-467a-8632-138ef16d649d,39848009,Whiplash injury to neck,Isiah14,Fritsch593
+3/17/20,4/7/20,cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9,1eef6d92-11fd-4a05-a745-4a2f07c6358b,444814009,Viral sinusitis (disorder),Isiah14,Fritsch593
+7/27/70,,fdb2a2ee-09c2-499b-b324-d998d5226f19,1d20181d-9e63-4fba-b376-71624f11b7b3,19169002,Miscarriage in first trimester,Shaun461,Graham902
+10/3/88,,fdb2a2ee-09c2-499b-b324-d998d5226f19,9f231b74-f34a-4855-b80a-1ee20a676297,162864005,Body mass index 30+ - obesity (finding),Shaun461,Graham902
+9/12/89,,fdb2a2ee-09c2-499b-b324-d998d5226f19,08cc8985-09d0-4764-b85c-0fbac553f579,239873007,Osteoarthritis of knee,Shaun461,Graham902
+9/29/97,,fdb2a2ee-09c2-499b-b324-d998d5226f19,cd32b722-d7a8-4ec3-b64d-0341a2cb8ca8,15777000,Prediabetes,Shaun461,Graham902
+7/24/10,8/5/10,fdb2a2ee-09c2-499b-b324-d998d5226f19,1387da3d-273b-4bb2-87c2-c8362fb7d163,195662009,Acute viral pharyngitis (disorder),Shaun461,Graham902
+1/3/11,1/16/11,fdb2a2ee-09c2-499b-b324-d998d5226f19,104fbdb8-b119-4695-a373-c654f6058fe4,195662009,Acute viral pharyngitis (disorder),Shaun461,Graham902
+10/31/15,11/14/15,fdb2a2ee-09c2-499b-b324-d998d5226f19,1e4b41ec-70ad-4d17-93b7-81d9246740c5,283385000,Laceration of thigh,Shaun461,Graham902
+11/24/15,12/1/15,fdb2a2ee-09c2-499b-b324-d998d5226f19,cca2ec68-ccbe-4dee-b326-71465ea62339,444814009,Viral sinusitis (disorder),Shaun461,Graham902
+8/15/10,9/12/10,383da7a1-916b-41ce-8223-43afa899c86e,5cdfb442-d2ba-4e74-915e-fef446c5ee54,39848009,Whiplash injury to neck,Al123,Metz686
+5/13/11,5/20/11,383da7a1-916b-41ce-8223-43afa899c86e,48270143-f137-4d0c-bac4-0de3d581782c,43878008,Streptococcal sore throat (disorder),Al123,Metz686
+3/7/12,3/28/12,383da7a1-916b-41ce-8223-43afa899c86e,20fe8d6c-4d96-40f1-a67e-1659e44187a8,444814009,Viral sinusitis (disorder),Al123,Metz686
+6/5/12,9/20/12,383da7a1-916b-41ce-8223-43afa899c86e,5d1eb9c0-8df1-4b11-8ed8-4501129bfbd0,65363002,Otitis media,Al123,Metz686
+12/3/02,,851275c6-bc90-4e95-a9a7-6f42111be448,de6335fe-cc99-4a04-8fd1-9a9a5b4c88af,162864005,Body mass index 30+ - obesity (finding),Ignacio928,Regalado83
+12/9/08,,851275c6-bc90-4e95-a9a7-6f42111be448,d58ddadc-91ac-45ba-9be3-2458ac4c21e9,15777000,Prediabetes,Ignacio928,Regalado83
+12/9/08,,851275c6-bc90-4e95-a9a7-6f42111be448,d58ddadc-91ac-45ba-9be3-2458ac4c21e9,271737000,Anemia (disorder),Ignacio928,Regalado83
+1/26/12,2/16/12,851275c6-bc90-4e95-a9a7-6f42111be448,1700b112-670a-4d83-9551-79c6ee5e6949,444814009,Viral sinusitis (disorder),Ignacio928,Regalado83
+10/9/16,10/20/16,851275c6-bc90-4e95-a9a7-6f42111be448,5701e9aa-1f94-4a33-bf7f-7a1c9297f25f,43878008,Streptococcal sore throat (disorder),Ignacio928,Regalado83
+2/8/69,,fa1b3cf1-5443-48c4-b663-ca38914a0e91,97d53539-1764-443e-aaa8-f1c4eb04a356,15777000,Prediabetes,Taisha184,Balistreri607
+11/24/96,,fa1b3cf1-5443-48c4-b663-ca38914a0e91,d9fcf5c2-c544-4e03-86c3-3687f17dc752,239872002,Osteoarthritis of hip,Taisha184,Balistreri607
+12/7/96,,fa1b3cf1-5443-48c4-b663-ca38914a0e91,9229ed43-44c3-4f5b-b929-aa44696d8bc5,68496003,Polyp of colon,Taisha184,Balistreri607
+1/31/13,2/8/13,fa1b3cf1-5443-48c4-b663-ca38914a0e91,eb5222bc-14bd-451e-8f55-a548fa90b379,43878008,Streptococcal sore throat (disorder),Taisha184,Balistreri607
+9/18/14,10/9/14,fa1b3cf1-5443-48c4-b663-ca38914a0e91,2d68c409-bc6d-420b-9a21-3748035ac835,444814009,Viral sinusitis (disorder),Taisha184,Balistreri607
+8/1/14,8/8/14,f00be2a4-f2c6-4cca-bbd7-4e6ce7b0033a,1e8bb383-d1d1-4208-8f16-ce0f2e90b3db,10509002,Acute bronchitis (disorder),Lindsay928,Greenholt190
+1/5/18,1/12/18,f00be2a4-f2c6-4cca-bbd7-4e6ce7b0033a,c762e03f-405c-49d6-9d9d-55893036c9a3,43878008,Streptococcal sore throat (disorder),Lindsay928,Greenholt190
+9/6/00,,fd3be685-fa44-4ccd-836a-f4a47b2d4d34,cd714d13-af79-4025-bc6c-ecd5941c4c64,15777000,Prediabetes,Augustine565,Bruen238
+9/26/01,,fd3be685-fa44-4ccd-836a-f4a47b2d4d34,ed368738-7354-4c62-9fe4-d9c453884332,40055000,Chronic sinusitis (disorder),Augustine565,Bruen238
+4/27/05,,fd3be685-fa44-4ccd-836a-f4a47b2d4d34,7c118b12-b1b8-4074-9686-80ddd155d252,44054006,Diabetes,Augustine565,Bruen238
+9/13/06,,fd3be685-fa44-4ccd-836a-f4a47b2d4d34,f7093a11-3252-4a1f-8f57-9b944042245e,302870006,Hypertriglyceridemia (disorder),Augustine565,Bruen238
+9/13/06,,fd3be685-fa44-4ccd-836a-f4a47b2d4d34,f7093a11-3252-4a1f-8f57-9b944042245e,271737000,Anemia (disorder),Augustine565,Bruen238
+4/4/07,,fd3be685-fa44-4ccd-836a-f4a47b2d4d34,c54ab54d-b857-4ebd-8c76-cbeacc93d6d5,237602007,Metabolic syndrome X (disorder),Augustine565,Bruen238
+10/12/11,,fd3be685-fa44-4ccd-836a-f4a47b2d4d34,677fdd4c-7455-4a2e-badc-4d2f10ddc785,431855005,Chronic kidney disease stage 1 (disorder),Augustine565,Bruen238
+10/12/11,,fd3be685-fa44-4ccd-836a-f4a47b2d4d34,677fdd4c-7455-4a2e-badc-4d2f10ddc785,127013003,Diabetic renal disease (disorder),Augustine565,Bruen238
+10/12/11,,fd3be685-fa44-4ccd-836a-f4a47b2d4d34,677fdd4c-7455-4a2e-badc-4d2f10ddc785,3.69E+14,Neuropathy due to type 2 diabetes mellitus (disorder),Augustine565,Bruen238
+4/18/12,5/2/12,fd3be685-fa44-4ccd-836a-f4a47b2d4d34,ebc82ddf-a538-4ec6-bc56-ccfdc0067026,10509002,Acute bronchitis (disorder),Augustine565,Bruen238
+10/30/16,11/6/16,fd3be685-fa44-4ccd-836a-f4a47b2d4d34,a2c5f427-5903-4307-b5a3-2e56223dd599,195662009,Acute viral pharyngitis (disorder),Augustine565,Bruen238
+10/22/10,11/2/10,c2910dc6-102b-44fe-8f7a-900d875ccb14,c38a1324-08c4-4c2c-aa10-02c9fb4b9c18,195662009,Acute viral pharyngitis (disorder),Eugenio846,Rippin620
+11/22/11,12/13/11,c2910dc6-102b-44fe-8f7a-900d875ccb14,67549385-2ffe-4fec-a5a4-d6c42bd6c01b,444814009,Viral sinusitis (disorder),Eugenio846,Rippin620
+1/9/13,1/23/13,c2910dc6-102b-44fe-8f7a-900d875ccb14,11f9677b-7282-4593-9c1c-31555c14845e,10509002,Acute bronchitis (disorder),Eugenio846,Rippin620
+5/7/13,,c2910dc6-102b-44fe-8f7a-900d875ccb14,df2b2386-2edb-47e4-8600-7cc84f105cc2,59621000,Hypertension,Eugenio846,Rippin620
+1/3/16,2/2/16,c2910dc6-102b-44fe-8f7a-900d875ccb14,751a5ac2-a9ca-4347-93a3-f743a4e31bb6,263102004,Fracture subluxation of wrist,Eugenio846,Rippin620
+1/2/15,1/9/15,8fdd7aa6-b33c-429e-bcf9-b15fb189ee3c,abdfd599-569f-40e1-8534-5d758214dc98,195662009,Acute viral pharyngitis (disorder),Agustin437,Schmidt332
+10/30/17,12/29/17,8fdd7aa6-b33c-429e-bcf9-b15fb189ee3c,46902e6f-b969-4c61-bbe6-d9951c7e5e15,110030002,Concussion injury of brain,Agustin437,Schmidt332
+10/30/17,,8fdd7aa6-b33c-429e-bcf9-b15fb189ee3c,46902e6f-b969-4c61-bbe6-d9951c7e5e15,275272006,Brain damage - traumatic,Agustin437,Schmidt332
+9/2/18,9/16/18,8fdd7aa6-b33c-429e-bcf9-b15fb189ee3c,3b99f1a0-45e8-4a2f-a923-14bf390e0711,444814009,Viral sinusitis (disorder),Agustin437,Schmidt332
+11/28/18,,8fdd7aa6-b33c-429e-bcf9-b15fb189ee3c,15aed1c5-f487-4b45-b327-a500dede12a4,162864005,Body mass index 30+ - obesity (finding),Agustin437,Schmidt332
+7/31/43,,fd1e9a6d-5b50-4a6f-bd61-c884ab89f5c6,9ea1cfb9-73c5-4771-bcd0-02d661293134,53741008,Coronary Heart Disease,Benton624,Morissette863
+5/29/44,5/27/61,fd1e9a6d-5b50-4a6f-bd61-c884ab89f5c6,8c1bf2b4-e3c4-4e7b-9339-9a02df5b6664,446096008,Perennial allergic rhinitis,Benton624,Morissette863
+5/25/57,6/15/57,fd1e9a6d-5b50-4a6f-bd61-c884ab89f5c6,6268d9e4-1046-4a17-a634-71c77318b65c,39848009,Whiplash injury to neck,Benton624,Morissette863
+5/27/61,,fd1e9a6d-5b50-4a6f-bd61-c884ab89f5c6,0564a9a0-b4fd-4fc3-bbc8-dc3b58e73945,22298006,Myocardial Infarction,Benton624,Morissette863
+5/27/61,,fd1e9a6d-5b50-4a6f-bd61-c884ab89f5c6,0564a9a0-b4fd-4fc3-bbc8-dc3b58e73945,399211009,History of myocardial infarction (situation),Benton624,Morissette863
+5/30/61,6/11/61,fd1e9a6d-5b50-4a6f-bd61-c884ab89f5c6,4014ef80-d34f-46d6-b8c9-77af16d1597d,195662009,Acute viral pharyngitis (disorder),Benton624,Morissette863
+8/31/62,9/21/62,fd1e9a6d-5b50-4a6f-bd61-c884ab89f5c6,a511f74e-a8c5-4bb4-9369-a21ad8891c77,444814009,Viral sinusitis (disorder),Benton624,Morissette863
+12/23/64,8/14/65,fd1e9a6d-5b50-4a6f-bd61-c884ab89f5c6,ab91b9e0-c6f3-4e57-ba55-7d15b562c4b7,65363002,Otitis media,Benton624,Morissette863
+12/4/65,12/11/65,fd1e9a6d-5b50-4a6f-bd61-c884ab89f5c6,9fab9661-b74b-439f-9f52-4b09b90f3ba0,10509002,Acute bronchitis (disorder),Benton624,Morissette863
+1/7/67,,fd1e9a6d-5b50-4a6f-bd61-c884ab89f5c6,a01ee256-3106-452f-940b-4e7334e6b71c,410429000,Cardiac Arrest,Benton624,Morissette863
+1/7/67,,fd1e9a6d-5b50-4a6f-bd61-c884ab89f5c6,a01ee256-3106-452f-940b-4e7334e6b71c,429007001,History of cardiac arrest (situation),Benton624,Morissette863
+2/17/04,,143a7c79-21b9-4240-b8ec-dbeb600699ea,ef0ed5a2-3b94-4b7f-b508-713209c68230,15777000,Prediabetes,Francisco472,Burgos636
+2/17/04,,143a7c79-21b9-4240-b8ec-dbeb600699ea,ef0ed5a2-3b94-4b7f-b508-713209c68230,271737000,Anemia (disorder),Francisco472,Burgos636
+7/8/13,7/29/13,143a7c79-21b9-4240-b8ec-dbeb600699ea,e6bfa1d2-7c91-4096-81d3-d08f149441ea,284551006,Laceration of foot,Francisco472,Burgos636
+5/27/14,6/8/14,143a7c79-21b9-4240-b8ec-dbeb600699ea,24084143-e8b4-40f6-a231-dc4ba3991f1f,43878008,Streptococcal sore throat (disorder),Francisco472,Burgos636
+6/18/16,6/25/16,143a7c79-21b9-4240-b8ec-dbeb600699ea,0f229c06-feef-444e-8b84-0ad16feb5c44,10509002,Acute bronchitis (disorder),Francisco472,Burgos636
+4/5/20,,dfc7b1ae-1583-4d88-970d-02712d55070c,b586bb97-e05d-4bbf-ab5b-b93decfc6cda,65363002,Otitis media,Exie255,Smitham825
+7/15/74,,b69c21d3-2a19-4833-b3a9-37bd30b64e2d,76090c63-d7ea-4c5f-800f-63d5fd5f9267,59621000,Hypertension,Trenton748,Nicolas769
+10/9/89,,b69c21d3-2a19-4833-b3a9-37bd30b64e2d,7b0536e0-d40c-4881-995b-a944920f29fd,162864005,Body mass index 30+ - obesity (finding),Trenton748,Nicolas769
+11/18/96,,b69c21d3-2a19-4833-b3a9-37bd30b64e2d,1b49bf6c-88f6-4e81-8924-a29d3bd946c8,15777000,Prediabetes,Trenton748,Nicolas769
+11/24/97,,b69c21d3-2a19-4833-b3a9-37bd30b64e2d,8ff6d0d3-1041-4c24-b553-de6cf257906b,271737000,Anemia (disorder),Trenton748,Nicolas769
+12/18/14,12/26/14,b69c21d3-2a19-4833-b3a9-37bd30b64e2d,7e501cc6-5446-4297-b7ee-f1bae30bd330,43878008,Streptococcal sore throat (disorder),Trenton748,Nicolas769
+5/7/15,,b69c21d3-2a19-4833-b3a9-37bd30b64e2d,e169becd-981d-4a0a-ba6b-985096c4f2ef,239873007,Osteoarthritis of knee,Trenton748,Nicolas769
+2/1/18,2/22/18,b69c21d3-2a19-4833-b3a9-37bd30b64e2d,34891baa-c92e-489b-8105-73b7865f4dee,284551006,Laceration of foot,Trenton748,Nicolas769
+6/1/82,,ff6948b7-3d62-4bfc-bc7d-dbb6748ed0be,f9461573-39f6-42cf-a33f-bafae52b5172,40055000,Chronic sinusitis (disorder),Kris249,Champlin946
+7/31/91,,ff6948b7-3d62-4bfc-bc7d-dbb6748ed0be,6bbe31f5-1a33-40d2-9634-2da0dacbdcea,196416002,Impacted molars,Kris249,Champlin946
+10/13/91,,ff6948b7-3d62-4bfc-bc7d-dbb6748ed0be,2a86f205-db88-4020-9746-74cf7248053e,1.24E+14,Chronic intractable migraine without aura,Kris249,Champlin946
+12/3/91,,ff6948b7-3d62-4bfc-bc7d-dbb6748ed0be,bfbb682f-72e5-438a-b473-38e34afd3259,82423001,Chronic pain,Kris249,Champlin946
+2/25/02,,ff6948b7-3d62-4bfc-bc7d-dbb6748ed0be,f5af6754-3eb3-440f-8b87-3cfa2f6f0121,19169002,Miscarriage in first trimester,Kris249,Champlin946
+4/5/08,,ff6948b7-3d62-4bfc-bc7d-dbb6748ed0be,c0b7a655-de81-418d-a27d-85f8bd9fd88e,55680006,Drug overdose,Kris249,Champlin946
+9/23/13,4/21/14,ff6948b7-3d62-4bfc-bc7d-dbb6748ed0be,0f50789a-63de-4ea7-95de-6636597ab819,72892002,Normal pregnancy,Kris249,Champlin946
+5/14/14,6/13/14,ff6948b7-3d62-4bfc-bc7d-dbb6748ed0be,bfc1f2fa-fc31-4091-92ee-db222ce882bc,62106007,Concussion with no loss of consciousness,Kris249,Champlin946
+9/23/14,10/3/14,ff6948b7-3d62-4bfc-bc7d-dbb6748ed0be,5c0265f4-1446-4810-ae9c-8f4d4c0bed13,195662009,Acute viral pharyngitis (disorder),Kris249,Champlin946
+11/3/14,6/1/15,ff6948b7-3d62-4bfc-bc7d-dbb6748ed0be,cba000d2-0fec-486d-ae55-dfa9a7b20b65,72892002,Normal pregnancy,Kris249,Champlin946
+6/1/15,6/12/15,ff6948b7-3d62-4bfc-bc7d-dbb6748ed0be,4ff0ac91-dff9-4832-8c7d-653b784f1e5c,195662009,Acute viral pharyngitis (disorder),Kris249,Champlin946
+6/15/17,6/22/17,ff6948b7-3d62-4bfc-bc7d-dbb6748ed0be,26924bda-34e1-4c65-b865-a41ca4c6e4fd,10509002,Acute bronchitis (disorder),Kris249,Champlin946
+3/24/18,4/14/18,ff6948b7-3d62-4bfc-bc7d-dbb6748ed0be,fdd65e7f-127d-4404-93e7-18fccf420be4,370247008,Facial laceration,Kris249,Champlin946
+7/8/19,,ff6948b7-3d62-4bfc-bc7d-dbb6748ed0be,4858788a-9890-4fa3-a45c-81c2d2ab878f,162864005,Body mass index 30+ - obesity (finding),Kris249,Champlin946
+7/25/19,8/6/19,ff6948b7-3d62-4bfc-bc7d-dbb6748ed0be,4fa5ad18-873a-400e-a0e0-aa0ed5e4e4a2,43878008,Streptococcal sore throat (disorder),Kris249,Champlin946
+8/8/47,,2c71dd97-7085-416a-aa07-d675bbe3adf2,981bb191-fdee-4d32-878e-fc379fcb66fd,410429000,Cardiac Arrest,Samatha845,Mueller846
+8/8/47,,2c71dd97-7085-416a-aa07-d675bbe3adf2,981bb191-fdee-4d32-878e-fc379fcb66fd,429007001,History of cardiac arrest (situation),Samatha845,Mueller846
+3/23/56,,2c71dd97-7085-416a-aa07-d675bbe3adf2,b7cc4b60-378f-4510-8749-5257ca7bb722,162864005,Body mass index 30+ - obesity (finding),Samatha845,Mueller846
+3/29/57,,2c71dd97-7085-416a-aa07-d675bbe3adf2,c57a224c-946e-4f30-a64d-98cad958525c,408512008,Body mass index 40+ - severely obese (finding),Samatha845,Mueller846
+4/10/59,,2c71dd97-7085-416a-aa07-d675bbe3adf2,8cdce088-10a5-4f10-a2c1-041ed485f2e7,59621000,Hypertension,Samatha845,Mueller846
+6/6/69,,2c71dd97-7085-416a-aa07-d675bbe3adf2,b4c484b0-3b89-4233-be63-1712e6a404f2,44054006,Diabetes,Samatha845,Mueller846
+6/6/69,,2c71dd97-7085-416a-aa07-d675bbe3adf2,b4c484b0-3b89-4233-be63-1712e6a404f2,271737000,Anemia (disorder),Samatha845,Mueller846
+6/12/70,,2c71dd97-7085-416a-aa07-d675bbe3adf2,e4ac84b9-a8a9-4337-a3dc-514403b5df3b,302870006,Hypertriglyceridemia (disorder),Samatha845,Mueller846
+6/12/70,,2c71dd97-7085-416a-aa07-d675bbe3adf2,e4ac84b9-a8a9-4337-a3dc-514403b5df3b,237602007,Metabolic syndrome X (disorder),Samatha845,Mueller846
+6/18/71,,2c71dd97-7085-416a-aa07-d675bbe3adf2,f47b9642-dac5-4f4f-a2ab-aecfe601805d,80394007,Hyperglycemia (disorder),Samatha845,Mueller846
+8/8/80,,2c71dd97-7085-416a-aa07-d675bbe3adf2,c7080b20-fffa-48e3-8626-7532436a0dc5,3.69E+14,Neuropathy due to type 2 diabetes mellitus (disorder),Samatha845,Mueller846
+3/19/82,,2c71dd97-7085-416a-aa07-d675bbe3adf2,5374c3a5-0d97-48dd-81ec-1326254678f4,431855005,Chronic kidney disease stage 1 (disorder),Samatha845,Mueller846
+3/19/82,,2c71dd97-7085-416a-aa07-d675bbe3adf2,5374c3a5-0d97-48dd-81ec-1326254678f4,127013003,Diabetic renal disease (disorder),Samatha845,Mueller846
+5/3/96,,2c71dd97-7085-416a-aa07-d675bbe3adf2,69145a18-28de-42f5-b7bc-dcce4664b404,49436004,Atrial Fibrillation,Samatha845,Mueller846
+5/1/09,,2c71dd97-7085-416a-aa07-d675bbe3adf2,1d08069e-f2ad-4738-acfc-330200bada89,53741008,Coronary Heart Disease,Samatha845,Mueller846
+12/16/10,12/28/10,2c71dd97-7085-416a-aa07-d675bbe3adf2,6fbbd7e3-c2a9-48ab-8d06-ae2fde0f7d8d,195662009,Acute viral pharyngitis (disorder),Samatha845,Mueller846
+12/13/11,12/20/11,2c71dd97-7085-416a-aa07-d675bbe3adf2,b6b83dff-f5c7-4a42-b169-6c4d3f0106d0,10509002,Acute bronchitis (disorder),Samatha845,Mueller846
+2/21/14,4/11/14,2c71dd97-7085-416a-aa07-d675bbe3adf2,340cdd98-7d2a-4db9-912e-9484edf62ad4,65363002,Otitis media,Samatha845,Mueller846
+6/6/15,6/27/15,2c71dd97-7085-416a-aa07-d675bbe3adf2,736b05d8-0626-4c6a-a189-78967642e775,444814009,Viral sinusitis (disorder),Samatha845,Mueller846
+10/13/16,1/11/17,2c71dd97-7085-416a-aa07-d675bbe3adf2,c5005121-94b1-45e6-bee8-14a2c663ecbe,65966004,Fracture of forearm,Samatha845,Mueller846
+3/30/19,4/13/19,2c71dd97-7085-416a-aa07-d675bbe3adf2,fed2a50f-abcb-40a6-bf49-6eabfcbe584e,10509002,Acute bronchitis (disorder),Samatha845,Mueller846
+5/25/57,,5cb510f1-244d-4f02-a82b-3631e998fad1,b3d23e21-b157-4eb3-97f5-e8a26157118e,59621000,Hypertension,Chi716,Johnston597
+8/25/73,,5cb510f1-244d-4f02-a82b-3631e998fad1,cbd04981-a058-47c8-8109-e06045aba913,162864005,Body mass index 30+ - obesity (finding),Chi716,Johnston597
+9/23/78,,5cb510f1-244d-4f02-a82b-3631e998fad1,104fcfd1-3d40-4d4c-8c1a-ae52f42e5e7d,15777000,Prediabetes,Chi716,Johnston597
+10/22/83,,5cb510f1-244d-4f02-a82b-3631e998fad1,d831c3d3-a7c2-45d8-95bd-ba78987b9b5b,271737000,Anemia (disorder),Chi716,Johnston597
+11/19/88,,5cb510f1-244d-4f02-a82b-3631e998fad1,5360ac7b-486f-4b4d-a3ce-2b2e85017669,7200002,Alcoholism,Chi716,Johnston597
+11/25/89,,5cb510f1-244d-4f02-a82b-3631e998fad1,74b2b4db-9c44-4cd8-890c-014becd56546,55822004,Hyperlipidemia,Chi716,Johnston597
+3/19/90,,5cb510f1-244d-4f02-a82b-3631e998fad1,cec7b7f5-e4b6-434e-b04b-75278cda6ba4,201834006,Localized  primary osteoarthritis of the hand,Chi716,Johnston597
+4/7/90,,5cb510f1-244d-4f02-a82b-3631e998fad1,7072ee79-cc68-4792-ae04-49b42e47af49,87433001,Pulmonary emphysema (disorder),Chi716,Johnston597
+2/2/02,,5cb510f1-244d-4f02-a82b-3631e998fad1,112009a8-28b6-4f64-b9ef-dff4f9803a7b,49436004,Atrial Fibrillation,Chi716,Johnston597
+5/27/05,6/10/05,5cb510f1-244d-4f02-a82b-3631e998fad1,4e417518-bc38-4d0d-badb-07519fd2039f,10509002,Acute bronchitis (disorder),Chi716,Johnston597
+2/25/06,,5cb510f1-244d-4f02-a82b-3631e998fad1,8a3a36ec-980e-449e-b21c-2b73c8980cd3,126906006,Neoplasm of prostate,Chi716,Johnston597
+2/25/06,,5cb510f1-244d-4f02-a82b-3631e998fad1,8a3a36ec-980e-449e-b21c-2b73c8980cd3,92691004,Carcinoma in situ of prostate (disorder),Chi716,Johnston597
+1/13/08,1/20/08,5cb510f1-244d-4f02-a82b-3631e998fad1,b44fbf83-f2c2-4541-a557-8fa6ed1677cd,195662009,Acute viral pharyngitis (disorder),Chi716,Johnston597
+5/20/08,,5cb510f1-244d-4f02-a82b-3631e998fad1,b4089d6f-235d-424b-8466-833281522211,162573006,Suspected lung cancer (situation),Chi716,Johnston597
+5/28/08,,5cb510f1-244d-4f02-a82b-3631e998fad1,8f508947-60d0-4330-8ad6-b3a9ddee0b01,254637007,Non-small cell lung cancer (disorder),Chi716,Johnston597
+5/30/08,,5cb510f1-244d-4f02-a82b-3631e998fad1,c6e344b7-5b6f-4d48-89fa-4b4c72d39719,424132000,Non-small cell carcinoma of lung  TNM stage 1 (disorder),Chi716,Johnston597
+4/13/10,4/20/10,5cb510f1-244d-4f02-a82b-3631e998fad1,47d0f88b-0674-4d7a-b3d6-5938a66ace12,444814009,Viral sinusitis (disorder),Chi716,Johnston597
+8/20/28,,a7f102bb-e1ba-4417-a0c5-75dec6473034,b0e75355-8c78-4927-bd2d-ffbe06d21d84,40055000,Chronic sinusitis (disorder),Williams176,Hintz995
+10/30/32,,a7f102bb-e1ba-4417-a0c5-75dec6473034,4394872b-f294-4038-bb0c-536042cd4747,59621000,Hypertension,Williams176,Hintz995
+1/25/48,,a7f102bb-e1ba-4417-a0c5-75dec6473034,e7425992-5d7a-4bf7-863a-7f645eb7781d,162864005,Body mass index 30+ - obesity (finding),Williams176,Hintz995
+1/30/49,,a7f102bb-e1ba-4417-a0c5-75dec6473034,084fdc83-5d23-455f-8534-4ca0bc94e0c4,15777000,Prediabetes,Williams176,Hintz995
+1/30/49,,a7f102bb-e1ba-4417-a0c5-75dec6473034,084fdc83-5d23-455f-8534-4ca0bc94e0c4,271737000,Anemia (disorder),Williams176,Hintz995
+3/17/57,,a7f102bb-e1ba-4417-a0c5-75dec6473034,18819f16-c137-4178-a0f1-92c62d49dc5c,55822004,Hyperlipidemia,Williams176,Hintz995
+8/13/84,,a7f102bb-e1ba-4417-a0c5-75dec6473034,8c012dca-4465-482f-814a-76ca1f9a46c6,126906006,Neoplasm of prostate,Williams176,Hintz995
+8/13/84,,a7f102bb-e1ba-4417-a0c5-75dec6473034,8c012dca-4465-482f-814a-76ca1f9a46c6,92691004,Carcinoma in situ of prostate (disorder),Williams176,Hintz995
+2/21/11,3/14/11,a7f102bb-e1ba-4417-a0c5-75dec6473034,ba63cbde-0436-4a51-a0ee-268cb6da907b,370247008,Facial laceration,Williams176,Hintz995
+4/2/13,5/2/13,a7f102bb-e1ba-4417-a0c5-75dec6473034,efceb86c-3185-45b0-a51f-94fb917b2b7a,62564004,Concussion with loss of consciousness,Williams176,Hintz995
+10/7/15,10/15/15,a7f102bb-e1ba-4417-a0c5-75dec6473034,54d03bd4-5856-43b2-aa00-5188d2fae1a1,195662009,Acute viral pharyngitis (disorder),Williams176,Hintz995
+6/19/18,7/3/18,a7f102bb-e1ba-4417-a0c5-75dec6473034,3faf8cd7-4211-4993-800f-a9218ce98eef,10509002,Acute bronchitis (disorder),Williams176,Hintz995
+9/28/19,11/27/19,a7f102bb-e1ba-4417-a0c5-75dec6473034,71223f20-315f-4803-8c9d-32b80fd21e76,58150001,Fracture of clavicle,Williams176,Hintz995
+10/18/30,,1d996507-b0e3-4ef8-ab62-9db3bd808105,782d0402-d307-4bb7-8ffe-19069e66e800,162864005,Body mass index 30+ - obesity (finding),Valentina258,Marvin195
+10/29/32,,1d996507-b0e3-4ef8-ab62-9db3bd808105,e0e13400-d91b-4ede-b7c9-99873c1f33b5,59621000,Hypertension,Valentina258,Marvin195
+10/26/35,,1d996507-b0e3-4ef8-ab62-9db3bd808105,b86c3066-00ca-41e4-8d21-0bc2d14d780f,19169002,Miscarriage in first trimester,Valentina258,Marvin195
+11/6/43,,1d996507-b0e3-4ef8-ab62-9db3bd808105,9d1f72b1-887b-41db-b28c-fcbe0ee74622,79586000,Tubal pregnancy,Valentina258,Marvin195
+8/20/76,,1d996507-b0e3-4ef8-ab62-9db3bd808105,e25c9496-2f50-47fc-a078-a98240800a8e,254837009,Malignant neoplasm of breast (disorder),Valentina258,Marvin195
+8/18/85,,1d996507-b0e3-4ef8-ab62-9db3bd808105,3f60c938-e941-4542-b6b1-02bc7ae78c51,55822004,Hyperlipidemia,Valentina258,Marvin195
+6/23/90,7/7/90,1d996507-b0e3-4ef8-ab62-9db3bd808105,6d9e0942-4ac9-411a-95a4-d7c0ac55829b,444814009,Viral sinusitis (disorder),Valentina258,Marvin195
+8/22/94,8/29/94,1d996507-b0e3-4ef8-ab62-9db3bd808105,c6637445-efce-46d0-906d-4d3cf1063e06,10509002,Acute bronchitis (disorder),Valentina258,Marvin195
+10/15/94,,1d996507-b0e3-4ef8-ab62-9db3bd808105,77fa6f99-1476-45c6-94d0-3b282edd6591,64859006,Osteoporosis (disorder),Valentina258,Marvin195
+1/6/96,2/5/96,1d996507-b0e3-4ef8-ab62-9db3bd808105,a47974ff-d1cd-427a-b56a-6113e175b9d8,65966004,Fracture of forearm,Valentina258,Marvin195
+1/6/96,2/5/96,1d996507-b0e3-4ef8-ab62-9db3bd808105,a47974ff-d1cd-427a-b56a-6113e175b9d8,443165006,Pathological fracture due to osteoporosis (disorder),Valentina258,Marvin195
+9/3/97,,1d996507-b0e3-4ef8-ab62-9db3bd808105,bf2bcba1-c9b3-4a8e-b070-b6116e7eef81,88805009,Chronic congestive heart failure (disorder),Valentina258,Marvin195
+3/2/98,3/23/98,1d996507-b0e3-4ef8-ab62-9db3bd808105,2e7678e1-467f-4e85-be3b-8f7bc5c4e603,444814009,Viral sinusitis (disorder),Valentina258,Marvin195

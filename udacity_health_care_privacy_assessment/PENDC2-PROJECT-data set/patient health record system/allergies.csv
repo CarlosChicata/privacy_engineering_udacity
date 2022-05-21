@@ -1,0 +1,598 @@
+START,STOP,PATIENT,ENCOUNTER,CODE,DESCRIPTION,,FIRST,LAST
+10/25/82,,76982e06-f8b8-4509-9ca3-65a99c8650fe,b896bf40-8b72-42b7-b205-142ee3a56b55,300916003,Latex allergy,,Christal240,Brown30
+10/25/82,,76982e06-f8b8-4509-9ca3-65a99c8650fe,b896bf40-8b72-42b7-b205-142ee3a56b55,300913006,Shellfish allergy,,Christal240,Brown30
+1/25/02,,71ba0469-f0cc-4177-ac70-ea07cb01c8b8,7be1a590-4239-4826-9872-031327f3c368,419474003,Allergy to mould,,Carmelia328,Konopelski743
+1/25/02,,71ba0469-f0cc-4177-ac70-ea07cb01c8b8,7be1a590-4239-4826-9872-031327f3c368,232347008,Dander (animal) allergy,,Carmelia328,Konopelski743
+1/25/02,,71ba0469-f0cc-4177-ac70-ea07cb01c8b8,7be1a590-4239-4826-9872-031327f3c368,418689008,Allergy to grass pollen,,Carmelia328,Konopelski743
+1/25/02,,71ba0469-f0cc-4177-ac70-ea07cb01c8b8,7be1a590-4239-4826-9872-031327f3c368,419263009,Allergy to tree pollen,,Carmelia328,Konopelski743
+1/25/02,,71ba0469-f0cc-4177-ac70-ea07cb01c8b8,7be1a590-4239-4826-9872-031327f3c368,714035009,Allergy to soya,,Carmelia328,Konopelski743
+1/25/02,,71ba0469-f0cc-4177-ac70-ea07cb01c8b8,7be1a590-4239-4826-9872-031327f3c368,417532002,Allergy to fish,,Carmelia328,Konopelski743
+7/30/18,,2f43a131-a43a-4c8c-a723-cc261adb9cc6,dbbace5a-29c8-458d-805b-2c3f7cbed818,419474003,Allergy to mould,,María Soledad68,Aparicio848
+7/30/18,,2f43a131-a43a-4c8c-a723-cc261adb9cc6,dbbace5a-29c8-458d-805b-2c3f7cbed818,232350006,House dust mite allergy,,María Soledad68,Aparicio848
+7/30/18,,2f43a131-a43a-4c8c-a723-cc261adb9cc6,dbbace5a-29c8-458d-805b-2c3f7cbed818,232347008,Dander (animal) allergy,,María Soledad68,Aparicio848
+7/30/18,,2f43a131-a43a-4c8c-a723-cc261adb9cc6,dbbace5a-29c8-458d-805b-2c3f7cbed818,418689008,Allergy to grass pollen,,María Soledad68,Aparicio848
+7/30/18,,2f43a131-a43a-4c8c-a723-cc261adb9cc6,dbbace5a-29c8-458d-805b-2c3f7cbed818,419263009,Allergy to tree pollen,,María Soledad68,Aparicio848
+7/30/18,,2f43a131-a43a-4c8c-a723-cc261adb9cc6,dbbace5a-29c8-458d-805b-2c3f7cbed818,91930004,Allergy to eggs,,María Soledad68,Aparicio848
+1/24/02,,bf35e4fa-ea4f-40a4-8fe6-1f2f26e0aa45,a61f97fa-70c3-4366-90e1-7c6fdcba5cbb,300916003,Latex allergy,,Cecila397,Feil794
+1/24/02,,bf35e4fa-ea4f-40a4-8fe6-1f2f26e0aa45,a61f97fa-70c3-4366-90e1-7c6fdcba5cbb,419474003,Allergy to mould,,Cecila397,Feil794
+1/24/02,,bf35e4fa-ea4f-40a4-8fe6-1f2f26e0aa45,a61f97fa-70c3-4366-90e1-7c6fdcba5cbb,232350006,House dust mite allergy,,Cecila397,Feil794
+1/24/02,,bf35e4fa-ea4f-40a4-8fe6-1f2f26e0aa45,a61f97fa-70c3-4366-90e1-7c6fdcba5cbb,232347008,Dander (animal) allergy,,Cecila397,Feil794
+1/24/02,,bf35e4fa-ea4f-40a4-8fe6-1f2f26e0aa45,a61f97fa-70c3-4366-90e1-7c6fdcba5cbb,418689008,Allergy to grass pollen,,Cecila397,Feil794
+1/24/02,,bf35e4fa-ea4f-40a4-8fe6-1f2f26e0aa45,a61f97fa-70c3-4366-90e1-7c6fdcba5cbb,419263009,Allergy to tree pollen,,Cecila397,Feil794
+1/24/02,,bf35e4fa-ea4f-40a4-8fe6-1f2f26e0aa45,a61f97fa-70c3-4366-90e1-7c6fdcba5cbb,420174000,Allergy to wheat,,Cecila397,Feil794
+1/24/02,,bf35e4fa-ea4f-40a4-8fe6-1f2f26e0aa45,a61f97fa-70c3-4366-90e1-7c6fdcba5cbb,300913006,Shellfish allergy,,Cecila397,Feil794
+1/24/02,,bf35e4fa-ea4f-40a4-8fe6-1f2f26e0aa45,a61f97fa-70c3-4366-90e1-7c6fdcba5cbb,417532002,Allergy to fish,,Cecila397,Feil794
+1/24/02,,bf35e4fa-ea4f-40a4-8fe6-1f2f26e0aa45,a61f97fa-70c3-4366-90e1-7c6fdcba5cbb,91935009,Allergy to peanuts,,Cecila397,Feil794
+10/14/88,,ad7c452d-c8e9-40ae-a5ed-90b7bd93d2ac,4c7ed821-8753-40f3-a18e-31feef7074ef,419474003,Allergy to mould,,Erwin847,Weimann465
+10/14/88,,ad7c452d-c8e9-40ae-a5ed-90b7bd93d2ac,4c7ed821-8753-40f3-a18e-31feef7074ef,232350006,House dust mite allergy,,Erwin847,Weimann465
+10/14/88,,ad7c452d-c8e9-40ae-a5ed-90b7bd93d2ac,4c7ed821-8753-40f3-a18e-31feef7074ef,232347008,Dander (animal) allergy,,Erwin847,Weimann465
+10/14/88,,ad7c452d-c8e9-40ae-a5ed-90b7bd93d2ac,4c7ed821-8753-40f3-a18e-31feef7074ef,418689008,Allergy to grass pollen,,Erwin847,Weimann465
+10/14/88,,ad7c452d-c8e9-40ae-a5ed-90b7bd93d2ac,4c7ed821-8753-40f3-a18e-31feef7074ef,419263009,Allergy to tree pollen,,Erwin847,Weimann465
+5/22/06,,e20fb002-6dc6-4cea-ba4b-7f528ccf6572,43456878-fc63-45d1-a24f-629aab9752e2,300916003,Latex allergy,,Victor265,Dickinson688
+5/22/06,,e20fb002-6dc6-4cea-ba4b-7f528ccf6572,43456878-fc63-45d1-a24f-629aab9752e2,419474003,Allergy to mould,,Victor265,Dickinson688
+5/22/06,,e20fb002-6dc6-4cea-ba4b-7f528ccf6572,43456878-fc63-45d1-a24f-629aab9752e2,232350006,House dust mite allergy,,Victor265,Dickinson688
+5/22/06,,e20fb002-6dc6-4cea-ba4b-7f528ccf6572,43456878-fc63-45d1-a24f-629aab9752e2,232347008,Dander (animal) allergy,,Victor265,Dickinson688
+5/22/06,,e20fb002-6dc6-4cea-ba4b-7f528ccf6572,43456878-fc63-45d1-a24f-629aab9752e2,418689008,Allergy to grass pollen,,Victor265,Dickinson688
+5/22/06,,e20fb002-6dc6-4cea-ba4b-7f528ccf6572,43456878-fc63-45d1-a24f-629aab9752e2,419263009,Allergy to tree pollen,,Victor265,Dickinson688
+12/4/14,,e3af2463-f4c9-4dbb-a8d2-d6a08c5b1460,469fbd8a-ec48-4da9-9165-027144ccf9a0,300916003,Latex allergy,,Lorrie905,Leannon79
+12/4/14,,e3af2463-f4c9-4dbb-a8d2-d6a08c5b1460,469fbd8a-ec48-4da9-9165-027144ccf9a0,419474003,Allergy to mould,,Lorrie905,Leannon79
+12/4/14,,e3af2463-f4c9-4dbb-a8d2-d6a08c5b1460,469fbd8a-ec48-4da9-9165-027144ccf9a0,232350006,House dust mite allergy,,Lorrie905,Leannon79
+12/4/14,,e3af2463-f4c9-4dbb-a8d2-d6a08c5b1460,469fbd8a-ec48-4da9-9165-027144ccf9a0,232347008,Dander (animal) allergy,,Lorrie905,Leannon79
+12/4/14,,e3af2463-f4c9-4dbb-a8d2-d6a08c5b1460,469fbd8a-ec48-4da9-9165-027144ccf9a0,418689008,Allergy to grass pollen,,Lorrie905,Leannon79
+12/4/14,,e3af2463-f4c9-4dbb-a8d2-d6a08c5b1460,469fbd8a-ec48-4da9-9165-027144ccf9a0,419263009,Allergy to tree pollen,,Lorrie905,Leannon79
+12/4/14,,e3af2463-f4c9-4dbb-a8d2-d6a08c5b1460,469fbd8a-ec48-4da9-9165-027144ccf9a0,420174000,Allergy to wheat,,Lorrie905,Leannon79
+12/4/14,,e3af2463-f4c9-4dbb-a8d2-d6a08c5b1460,469fbd8a-ec48-4da9-9165-027144ccf9a0,417532002,Allergy to fish,,Lorrie905,Leannon79
+12/4/14,,e3af2463-f4c9-4dbb-a8d2-d6a08c5b1460,469fbd8a-ec48-4da9-9165-027144ccf9a0,91935009,Allergy to peanuts,,Lorrie905,Leannon79
+8/3/02,,ddfa05a6-b8a6-4208-b609-28f9a6a8d79e,5c63f72a-7af4-4bde-b416-f8f22a36239f,300913006,Shellfish allergy,,Joleen561,Quitzon246
+3/30/63,,47a91815-0dca-49df-b1dc-8bb88d8c1b38,dbad793d-adf7-42e2-a134-c3e1eaeeea70,419474003,Allergy to mould,,Evia329,Graham902
+2/13/76,,28f36cfa-7696-4f73-ac4f-427e802199d9,cb11409c-e981-4e91-922f-c242b8d0405b,232350006,House dust mite allergy,,Hermila490,Wilkinson796
+11/30/09,,df91aedf-3e17-44c3-b273-62e35f518475,e171e3c8-3543-40cc-8946-9918e044fb36,419474003,Allergy to mould,,Sean831,Casper496
+11/30/09,,df91aedf-3e17-44c3-b273-62e35f518475,e171e3c8-3543-40cc-8946-9918e044fb36,232350006,House dust mite allergy,,Sean831,Casper496
+11/30/09,,df91aedf-3e17-44c3-b273-62e35f518475,e171e3c8-3543-40cc-8946-9918e044fb36,232347008,Dander (animal) allergy,,Sean831,Casper496
+11/30/09,,df91aedf-3e17-44c3-b273-62e35f518475,e171e3c8-3543-40cc-8946-9918e044fb36,418689008,Allergy to grass pollen,,Sean831,Casper496
+11/30/09,,df91aedf-3e17-44c3-b273-62e35f518475,e171e3c8-3543-40cc-8946-9918e044fb36,300913006,Shellfish allergy,,Sean831,Casper496
+8/29/13,,d1639077-59f3-401f-a058-2ad70502f93f,c13ea48d-deaa-4b51-b47a-8e950d65b131,425525006,Allergy to dairy product,,Gerald181,Gorczany269
+11/28/85,,0c5aa52a-3b1d-4289-af16-29f7a2d07fec,bdccf0d7-f3c2-4fc2-97df-9f0d41ae84f2,419474003,Allergy to mould,,Elvira561,Navarro863
+11/28/85,,0c5aa52a-3b1d-4289-af16-29f7a2d07fec,bdccf0d7-f3c2-4fc2-97df-9f0d41ae84f2,232350006,House dust mite allergy,,Elvira561,Navarro863
+11/28/85,,0c5aa52a-3b1d-4289-af16-29f7a2d07fec,bdccf0d7-f3c2-4fc2-97df-9f0d41ae84f2,232347008,Dander (animal) allergy,,Elvira561,Navarro863
+11/28/85,,0c5aa52a-3b1d-4289-af16-29f7a2d07fec,bdccf0d7-f3c2-4fc2-97df-9f0d41ae84f2,419263009,Allergy to tree pollen,,Elvira561,Navarro863
+11/28/85,,0c5aa52a-3b1d-4289-af16-29f7a2d07fec,bdccf0d7-f3c2-4fc2-97df-9f0d41ae84f2,300913006,Shellfish allergy,,Elvira561,Navarro863
+11/28/85,,0c5aa52a-3b1d-4289-af16-29f7a2d07fec,bdccf0d7-f3c2-4fc2-97df-9f0d41ae84f2,417532002,Allergy to fish,,Elvira561,Navarro863
+11/28/85,,0c5aa52a-3b1d-4289-af16-29f7a2d07fec,bdccf0d7-f3c2-4fc2-97df-9f0d41ae84f2,91934008,Allergy to nut,,Elvira561,Navarro863
+5/31/19,,2a88cb57-86fa-4259-93bf-3956e91b07f4,647eb0bb-5a2d-4617-9c00-fc97f8111994,424213003,Allergy to bee venom,,Mateo562,Palacios784
+5/31/19,,2a88cb57-86fa-4259-93bf-3956e91b07f4,647eb0bb-5a2d-4617-9c00-fc97f8111994,419474003,Allergy to mould,,Mateo562,Palacios784
+5/31/19,,2a88cb57-86fa-4259-93bf-3956e91b07f4,647eb0bb-5a2d-4617-9c00-fc97f8111994,232347008,Dander (animal) allergy,,Mateo562,Palacios784
+5/31/19,,2a88cb57-86fa-4259-93bf-3956e91b07f4,647eb0bb-5a2d-4617-9c00-fc97f8111994,418689008,Allergy to grass pollen,,Mateo562,Palacios784
+5/31/19,,2a88cb57-86fa-4259-93bf-3956e91b07f4,647eb0bb-5a2d-4617-9c00-fc97f8111994,300913006,Shellfish allergy,,Mateo562,Palacios784
+7/19/98,3/20/14,e061409e-4b85-4ec1-b1f7-02677d51f763,022ad487-e41c-43ba-90f3-eb2d6711f4d3,419474003,Allergy to mould,,Tabetha269,O'Hara248
+7/19/98,3/20/14,e061409e-4b85-4ec1-b1f7-02677d51f763,022ad487-e41c-43ba-90f3-eb2d6711f4d3,232347008,Dander (animal) allergy,,Tabetha269,O'Hara248
+7/19/98,,e061409e-4b85-4ec1-b1f7-02677d51f763,022ad487-e41c-43ba-90f3-eb2d6711f4d3,418689008,Allergy to grass pollen,,Tabetha269,O'Hara248
+7/19/98,,e061409e-4b85-4ec1-b1f7-02677d51f763,022ad487-e41c-43ba-90f3-eb2d6711f4d3,91935009,Allergy to peanuts,,Tabetha269,O'Hara248
+5/17/74,,71e13815-55fb-4734-bcac-6079160d82a0,9607667e-4c98-4087-9c59-0fd5b6331078,419263009,Allergy to tree pollen,,Laticia649,Flatley871
+5/17/74,,71e13815-55fb-4734-bcac-6079160d82a0,9607667e-4c98-4087-9c59-0fd5b6331078,417532002,Allergy to fish,,Laticia649,Flatley871
+5/17/74,,71e13815-55fb-4734-bcac-6079160d82a0,9607667e-4c98-4087-9c59-0fd5b6331078,91935009,Allergy to peanuts,,Laticia649,Flatley871
+6/6/57,,852f4588-ba8f-4eeb-94fe-5c3c974ab114,aa997e7e-3421-4f40-8216-394f407de8c2,300913006,Shellfish allergy,,Keren761,Kiehn525
+8/21/03,1/30/18,6ca038f1-a3f6-4c2d-848e-bab8e7ae7101,648c58a1-13b0-4c4b-b3cb-f3472da37acc,419474003,Allergy to mould,,Erwin847,Lehner980
+8/21/03,1/30/18,6ca038f1-a3f6-4c2d-848e-bab8e7ae7101,648c58a1-13b0-4c4b-b3cb-f3472da37acc,232350006,House dust mite allergy,,Erwin847,Lehner980
+8/21/03,1/30/18,6ca038f1-a3f6-4c2d-848e-bab8e7ae7101,648c58a1-13b0-4c4b-b3cb-f3472da37acc,232347008,Dander (animal) allergy,,Erwin847,Lehner980
+8/21/03,1/30/18,6ca038f1-a3f6-4c2d-848e-bab8e7ae7101,648c58a1-13b0-4c4b-b3cb-f3472da37acc,418689008,Allergy to grass pollen,,Erwin847,Lehner980
+8/21/03,,6ca038f1-a3f6-4c2d-848e-bab8e7ae7101,648c58a1-13b0-4c4b-b3cb-f3472da37acc,419263009,Allergy to tree pollen,,Erwin847,Lehner980
+4/10/08,,cd900636-aee9-41b1-acf1-557efa0fd9cd,1d7366f7-4e58-4561-959d-1c339db8b53b,419474003,Allergy to mould,,Carlie972,Rath779
+4/10/08,,cd900636-aee9-41b1-acf1-557efa0fd9cd,1d7366f7-4e58-4561-959d-1c339db8b53b,232350006,House dust mite allergy,,Carlie972,Rath779
+4/10/08,,cd900636-aee9-41b1-acf1-557efa0fd9cd,1d7366f7-4e58-4561-959d-1c339db8b53b,232347008,Dander (animal) allergy,,Carlie972,Rath779
+4/10/08,,cd900636-aee9-41b1-acf1-557efa0fd9cd,1d7366f7-4e58-4561-959d-1c339db8b53b,418689008,Allergy to grass pollen,,Carlie972,Rath779
+4/10/08,,cd900636-aee9-41b1-acf1-557efa0fd9cd,1d7366f7-4e58-4561-959d-1c339db8b53b,419263009,Allergy to tree pollen,,Carlie972,Rath779
+4/10/08,,cd900636-aee9-41b1-acf1-557efa0fd9cd,1d7366f7-4e58-4561-959d-1c339db8b53b,425525006,Allergy to dairy product,,Carlie972,Rath779
+3/21/54,,09616ead-22c8-4210-8cb9-2fdc28e043ca,09e77dbd-a408-4459-9c75-8996d28bf972,300913006,Shellfish allergy,,Christena299,Lang846
+12/18/04,,33454fc9-b2ea-407a-9a9d-64897cf44093,e7256f48-b271-4c0c-b7b5-b2e47db970a2,419474003,Allergy to mould,,Albert312,Reynolds644
+12/18/04,,33454fc9-b2ea-407a-9a9d-64897cf44093,e7256f48-b271-4c0c-b7b5-b2e47db970a2,232350006,House dust mite allergy,,Albert312,Reynolds644
+12/18/04,,33454fc9-b2ea-407a-9a9d-64897cf44093,e7256f48-b271-4c0c-b7b5-b2e47db970a2,232347008,Dander (animal) allergy,,Albert312,Reynolds644
+12/18/04,,33454fc9-b2ea-407a-9a9d-64897cf44093,e7256f48-b271-4c0c-b7b5-b2e47db970a2,419263009,Allergy to tree pollen,,Albert312,Reynolds644
+12/18/04,,33454fc9-b2ea-407a-9a9d-64897cf44093,e7256f48-b271-4c0c-b7b5-b2e47db970a2,425525006,Allergy to dairy product,,Albert312,Reynolds644
+12/18/04,,33454fc9-b2ea-407a-9a9d-64897cf44093,e7256f48-b271-4c0c-b7b5-b2e47db970a2,91934008,Allergy to nut,,Albert312,Reynolds644
+3/28/18,,1fd5b5d7-4514-44b8-a06b-767d1be8fb97,b19aa787-6885-4cfa-a8cf-05480ddc669d,714035009,Allergy to soya,,Leroy603,Heller342
+3/25/04,,10c64243-1b39-4f8d-8add-6c767a2f2e50,6d9b747d-0b23-4d75-9e92-dce7ec8cfc7f,232350006,House dust mite allergy,,Laurence43,Hermiston71
+12/23/75,,f7d7b580-e670-4921-bc67-550ec468d506,0e201aa3-271d-4fa0-b6db-d73aa17f776d,300913006,Shellfish allergy,,Micki733,Witting912
+7/3/04,,ca3330c5-bbbc-47e7-addb-302f2e069986,d8f2b92b-5971-455f-a0b9-99da66d03899,424213003,Allergy to bee venom,,Golden321,Pollich983
+7/3/04,12/30/19,ca3330c5-bbbc-47e7-addb-302f2e069986,d8f2b92b-5971-455f-a0b9-99da66d03899,419474003,Allergy to mould,,Golden321,Pollich983
+7/3/04,,ca3330c5-bbbc-47e7-addb-302f2e069986,d8f2b92b-5971-455f-a0b9-99da66d03899,232350006,House dust mite allergy,,Golden321,Pollich983
+7/3/04,,ca3330c5-bbbc-47e7-addb-302f2e069986,d8f2b92b-5971-455f-a0b9-99da66d03899,232347008,Dander (animal) allergy,,Golden321,Pollich983
+7/3/04,,ca3330c5-bbbc-47e7-addb-302f2e069986,d8f2b92b-5971-455f-a0b9-99da66d03899,419263009,Allergy to tree pollen,,Golden321,Pollich983
+7/3/04,,ca3330c5-bbbc-47e7-addb-302f2e069986,d8f2b92b-5971-455f-a0b9-99da66d03899,425525006,Allergy to dairy product,,Golden321,Pollich983
+7/3/04,,ca3330c5-bbbc-47e7-addb-302f2e069986,d8f2b92b-5971-455f-a0b9-99da66d03899,91934008,Allergy to nut,,Golden321,Pollich983
+7/3/04,,ca3330c5-bbbc-47e7-addb-302f2e069986,d8f2b92b-5971-455f-a0b9-99da66d03899,91935009,Allergy to peanuts,,Golden321,Pollich983
+11/4/78,,24bca5cf-ba55-457f-8e80-49690202443c,1d475126-f3c0-41c9-a9ed-f4a0c9a955c4,419474003,Allergy to mould,,Lionel365,Fadel536
+11/4/78,,24bca5cf-ba55-457f-8e80-49690202443c,1d475126-f3c0-41c9-a9ed-f4a0c9a955c4,232347008,Dander (animal) allergy,,Lionel365,Fadel536
+11/4/78,,24bca5cf-ba55-457f-8e80-49690202443c,1d475126-f3c0-41c9-a9ed-f4a0c9a955c4,417532002,Allergy to fish,,Lionel365,Fadel536
+11/4/78,,24bca5cf-ba55-457f-8e80-49690202443c,1d475126-f3c0-41c9-a9ed-f4a0c9a955c4,91935009,Allergy to peanuts,,Lionel365,Fadel536
+4/29/09,,f36775e8-bf5a-40a2-a223-679c05b46004,bed7bbbf-9d73-4840-ae9a-039af0918b91,419474003,Allergy to mould,,Scott935,Boyer713
+4/29/09,,f36775e8-bf5a-40a2-a223-679c05b46004,bed7bbbf-9d73-4840-ae9a-039af0918b91,232350006,House dust mite allergy,,Scott935,Boyer713
+4/29/09,,f36775e8-bf5a-40a2-a223-679c05b46004,bed7bbbf-9d73-4840-ae9a-039af0918b91,232347008,Dander (animal) allergy,,Scott935,Boyer713
+4/29/09,,f36775e8-bf5a-40a2-a223-679c05b46004,bed7bbbf-9d73-4840-ae9a-039af0918b91,418689008,Allergy to grass pollen,,Scott935,Boyer713
+4/29/09,,f36775e8-bf5a-40a2-a223-679c05b46004,bed7bbbf-9d73-4840-ae9a-039af0918b91,419263009,Allergy to tree pollen,,Scott935,Boyer713
+4/29/09,,f36775e8-bf5a-40a2-a223-679c05b46004,bed7bbbf-9d73-4840-ae9a-039af0918b91,417532002,Allergy to fish,,Scott935,Boyer713
+3/9/94,9/1/10,e6a843e8-10db-454b-a39c-d133a7a75a62,2037da0f-ea62-4a7b-9a3d-2c5b4add6162,714035009,Allergy to soya,,Brian582,Metz686
+2/22/89,,8be68b2d-8054-4882-8715-65297d36767a,d7d1a76c-65a9-499d-8a9f-5f65f1a3d797,424213003,Allergy to bee venom,,James276,McClure239
+2/22/89,,8be68b2d-8054-4882-8715-65297d36767a,d7d1a76c-65a9-499d-8a9f-5f65f1a3d797,300913006,Shellfish allergy,,James276,McClure239
+6/26/97,6/25/13,2335bebd-0843-4322-9585-8ab90f49def3,6022c98e-5336-4d92-9abd-d5f38feab3f4,419474003,Allergy to mould,,Sandra485,Hoppe518
+6/26/97,6/25/13,2335bebd-0843-4322-9585-8ab90f49def3,6022c98e-5336-4d92-9abd-d5f38feab3f4,232350006,House dust mite allergy,,Sandra485,Hoppe518
+6/26/97,6/25/13,2335bebd-0843-4322-9585-8ab90f49def3,6022c98e-5336-4d92-9abd-d5f38feab3f4,232347008,Dander (animal) allergy,,Sandra485,Hoppe518
+6/26/97,6/25/13,2335bebd-0843-4322-9585-8ab90f49def3,6022c98e-5336-4d92-9abd-d5f38feab3f4,419263009,Allergy to tree pollen,,Sandra485,Hoppe518
+6/26/97,12/18/13,2335bebd-0843-4322-9585-8ab90f49def3,6022c98e-5336-4d92-9abd-d5f38feab3f4,425525006,Allergy to dairy product,,Sandra485,Hoppe518
+6/26/97,12/18/13,2335bebd-0843-4322-9585-8ab90f49def3,6022c98e-5336-4d92-9abd-d5f38feab3f4,420174000,Allergy to wheat,,Sandra485,Hoppe518
+6/26/97,,2335bebd-0843-4322-9585-8ab90f49def3,6022c98e-5336-4d92-9abd-d5f38feab3f4,91934008,Allergy to nut,,Sandra485,Hoppe518
+7/8/08,,45ad6c75-7808-4f70-9c80-0db44f681e55,caf832a7-74d6-4500-83ce-5abbfc5268ca,420174000,Allergy to wheat,,José Eduardo181,Meraz691
+12/9/86,,59669e7c-0190-4cbf-9e27-4898f1a35d03,d19a6b59-77a3-46ee-b8fd-4f59e8cee292,424213003,Allergy to bee venom,,Julio255,Juárez383
+12/9/86,,59669e7c-0190-4cbf-9e27-4898f1a35d03,d19a6b59-77a3-46ee-b8fd-4f59e8cee292,419474003,Allergy to mould,,Julio255,Juárez383
+12/9/86,,59669e7c-0190-4cbf-9e27-4898f1a35d03,d19a6b59-77a3-46ee-b8fd-4f59e8cee292,232350006,House dust mite allergy,,Julio255,Juárez383
+12/9/86,,59669e7c-0190-4cbf-9e27-4898f1a35d03,d19a6b59-77a3-46ee-b8fd-4f59e8cee292,232347008,Dander (animal) allergy,,Julio255,Juárez383
+12/9/86,,59669e7c-0190-4cbf-9e27-4898f1a35d03,d19a6b59-77a3-46ee-b8fd-4f59e8cee292,418689008,Allergy to grass pollen,,Julio255,Juárez383
+12/9/86,,59669e7c-0190-4cbf-9e27-4898f1a35d03,d19a6b59-77a3-46ee-b8fd-4f59e8cee292,419263009,Allergy to tree pollen,,Julio255,Juárez383
+12/9/86,,59669e7c-0190-4cbf-9e27-4898f1a35d03,d19a6b59-77a3-46ee-b8fd-4f59e8cee292,417532002,Allergy to fish,,Julio255,Juárez383
+4/25/16,,4b92e3f1-b92b-48ec-9baa-2905409d1743,afb2659d-c3de-4ff9-aad0-b4283ff08443,424213003,Allergy to bee venom,,Demetrice140,Zieme486
+4/25/16,,4b92e3f1-b92b-48ec-9baa-2905409d1743,afb2659d-c3de-4ff9-aad0-b4283ff08443,419474003,Allergy to mould,,Demetrice140,Zieme486
+4/25/16,,4b92e3f1-b92b-48ec-9baa-2905409d1743,afb2659d-c3de-4ff9-aad0-b4283ff08443,232350006,House dust mite allergy,,Demetrice140,Zieme486
+4/25/16,,4b92e3f1-b92b-48ec-9baa-2905409d1743,afb2659d-c3de-4ff9-aad0-b4283ff08443,232347008,Dander (animal) allergy,,Demetrice140,Zieme486
+4/25/16,,4b92e3f1-b92b-48ec-9baa-2905409d1743,afb2659d-c3de-4ff9-aad0-b4283ff08443,418689008,Allergy to grass pollen,,Demetrice140,Zieme486
+4/25/16,,4b92e3f1-b92b-48ec-9baa-2905409d1743,afb2659d-c3de-4ff9-aad0-b4283ff08443,419263009,Allergy to tree pollen,,Demetrice140,Zieme486
+4/25/16,,4b92e3f1-b92b-48ec-9baa-2905409d1743,afb2659d-c3de-4ff9-aad0-b4283ff08443,91930004,Allergy to eggs,,Demetrice140,Zieme486
+4/25/16,,4b92e3f1-b92b-48ec-9baa-2905409d1743,afb2659d-c3de-4ff9-aad0-b4283ff08443,420174000,Allergy to wheat,,Demetrice140,Zieme486
+4/25/16,,4b92e3f1-b92b-48ec-9baa-2905409d1743,afb2659d-c3de-4ff9-aad0-b4283ff08443,417532002,Allergy to fish,,Demetrice140,Zieme486
+3/10/00,11/30/15,9fda53d4-6fcc-4ef5-a1fe-16e007182ec2,da2fa819-307a-410d-9b95-6ea21a2f19ae,419474003,Allergy to mould,,Ardath226,Spinka232
+3/10/00,11/30/15,9fda53d4-6fcc-4ef5-a1fe-16e007182ec2,da2fa819-307a-410d-9b95-6ea21a2f19ae,232350006,House dust mite allergy,,Ardath226,Spinka232
+3/10/00,11/30/15,9fda53d4-6fcc-4ef5-a1fe-16e007182ec2,da2fa819-307a-410d-9b95-6ea21a2f19ae,232347008,Dander (animal) allergy,,Ardath226,Spinka232
+3/10/00,11/30/15,9fda53d4-6fcc-4ef5-a1fe-16e007182ec2,da2fa819-307a-410d-9b95-6ea21a2f19ae,418689008,Allergy to grass pollen,,Ardath226,Spinka232
+3/10/00,11/30/15,9fda53d4-6fcc-4ef5-a1fe-16e007182ec2,da2fa819-307a-410d-9b95-6ea21a2f19ae,419263009,Allergy to tree pollen,,Ardath226,Spinka232
+3/10/00,,9fda53d4-6fcc-4ef5-a1fe-16e007182ec2,da2fa819-307a-410d-9b95-6ea21a2f19ae,91930004,Allergy to eggs,,Ardath226,Spinka232
+3/10/00,,9fda53d4-6fcc-4ef5-a1fe-16e007182ec2,da2fa819-307a-410d-9b95-6ea21a2f19ae,300913006,Shellfish allergy,,Ardath226,Spinka232
+3/10/00,,9fda53d4-6fcc-4ef5-a1fe-16e007182ec2,da2fa819-307a-410d-9b95-6ea21a2f19ae,417532002,Allergy to fish,,Ardath226,Spinka232
+1/27/28,,de767c9e-3131-4d1a-9eed-fdd86a15d459,48266520-84c9-4a0c-9288-59712b0059ed,419474003,Allergy to mould,,Eura647,Ferry570
+12/27/02,9/12/19,affb8a9e-4a9a-46e7-a94b-e9c90b25f444,ad8b3be1-166c-44c9-abe4-dc5a0fc633e3,91930004,Allergy to eggs,,Phil587,Mante251
+5/15/16,,8ba79a69-6f3f-4aa5-be2a-dfbd0119d3ea,64599133-2dd7-4b23-b2eb-2e94a887a266,419474003,Allergy to mould,,Latonia966,Watsica258
+5/15/16,,8ba79a69-6f3f-4aa5-be2a-dfbd0119d3ea,64599133-2dd7-4b23-b2eb-2e94a887a266,232350006,House dust mite allergy,,Latonia966,Watsica258
+5/15/16,,8ba79a69-6f3f-4aa5-be2a-dfbd0119d3ea,64599133-2dd7-4b23-b2eb-2e94a887a266,232347008,Dander (animal) allergy,,Latonia966,Watsica258
+5/15/16,,8ba79a69-6f3f-4aa5-be2a-dfbd0119d3ea,64599133-2dd7-4b23-b2eb-2e94a887a266,418689008,Allergy to grass pollen,,Latonia966,Watsica258
+5/15/16,,8ba79a69-6f3f-4aa5-be2a-dfbd0119d3ea,64599133-2dd7-4b23-b2eb-2e94a887a266,419263009,Allergy to tree pollen,,Latonia966,Watsica258
+5/15/16,,8ba79a69-6f3f-4aa5-be2a-dfbd0119d3ea,64599133-2dd7-4b23-b2eb-2e94a887a266,300913006,Shellfish allergy,,Latonia966,Watsica258
+4/12/16,,128d5c93-dfce-49a1-8d08-e9b24abcb4db,0a61339f-5663-4af2-a674-0ed5bcee8129,300913006,Shellfish allergy,,Tifany477,Wilderman619
+3/16/08,,eba0f292-1951-4af9-9f14-9d6e9db8e480,3a7465cc-5b2f-4e96-934c-7e74c9537cf8,419474003,Allergy to mould,,Eugena417,Kris249
+3/16/08,,eba0f292-1951-4af9-9f14-9d6e9db8e480,3a7465cc-5b2f-4e96-934c-7e74c9537cf8,232350006,House dust mite allergy,,Eugena417,Kris249
+3/16/08,,eba0f292-1951-4af9-9f14-9d6e9db8e480,3a7465cc-5b2f-4e96-934c-7e74c9537cf8,232347008,Dander (animal) allergy,,Eugena417,Kris249
+3/16/08,,eba0f292-1951-4af9-9f14-9d6e9db8e480,3a7465cc-5b2f-4e96-934c-7e74c9537cf8,418689008,Allergy to grass pollen,,Eugena417,Kris249
+3/16/08,,eba0f292-1951-4af9-9f14-9d6e9db8e480,3a7465cc-5b2f-4e96-934c-7e74c9537cf8,419263009,Allergy to tree pollen,,Eugena417,Kris249
+3/16/08,,eba0f292-1951-4af9-9f14-9d6e9db8e480,3a7465cc-5b2f-4e96-934c-7e74c9537cf8,417532002,Allergy to fish,,Eugena417,Kris249
+3/16/08,,eba0f292-1951-4af9-9f14-9d6e9db8e480,3a7465cc-5b2f-4e96-934c-7e74c9537cf8,91934008,Allergy to nut,,Eugena417,Kris249
+10/12/09,,5846c531-ad71-4b34-9607-3a1022cddffa,3e655890-c6c1-47c7-8aa0-378936645135,417532002,Allergy to fish,,Marty115,Abshire638
+1/29/04,,d00fc5dd-be0e-47aa-a52a-5cf9ee3a78b5,6eb061c1-d1f6-4109-8da9-397e102f5e7c,419263009,Allergy to tree pollen,,Maxwell782,Reichel38
+1/29/04,,d00fc5dd-be0e-47aa-a52a-5cf9ee3a78b5,6eb061c1-d1f6-4109-8da9-397e102f5e7c,417532002,Allergy to fish,,Maxwell782,Reichel38
+4/22/64,,7e4e6d32-15cd-4d5f-a4cc-e5c95ab35eb0,479131ac-4344-4846-b8ca-71b4745224ef,418689008,Allergy to grass pollen,,Ellamae709,Bins636
+4/22/64,,7e4e6d32-15cd-4d5f-a4cc-e5c95ab35eb0,479131ac-4344-4846-b8ca-71b4745224ef,417532002,Allergy to fish,,Ellamae709,Bins636
+3/20/18,,841095eb-d29f-4492-8f0e-08011321e85d,32622f63-734e-4433-8628-942ce1585e6a,419474003,Allergy to mould,,Carlton317,Leffler128
+3/20/18,,841095eb-d29f-4492-8f0e-08011321e85d,32622f63-734e-4433-8628-942ce1585e6a,232350006,House dust mite allergy,,Carlton317,Leffler128
+3/20/18,,841095eb-d29f-4492-8f0e-08011321e85d,32622f63-734e-4433-8628-942ce1585e6a,232347008,Dander (animal) allergy,,Carlton317,Leffler128
+3/20/18,,841095eb-d29f-4492-8f0e-08011321e85d,32622f63-734e-4433-8628-942ce1585e6a,418689008,Allergy to grass pollen,,Carlton317,Leffler128
+3/20/18,,841095eb-d29f-4492-8f0e-08011321e85d,32622f63-734e-4433-8628-942ce1585e6a,419263009,Allergy to tree pollen,,Carlton317,Leffler128
+3/20/18,,841095eb-d29f-4492-8f0e-08011321e85d,32622f63-734e-4433-8628-942ce1585e6a,300913006,Shellfish allergy,,Carlton317,Leffler128
+3/20/18,,841095eb-d29f-4492-8f0e-08011321e85d,32622f63-734e-4433-8628-942ce1585e6a,91934008,Allergy to nut,,Carlton317,Leffler128
+3/20/18,,841095eb-d29f-4492-8f0e-08011321e85d,32622f63-734e-4433-8628-942ce1585e6a,91935009,Allergy to peanuts,,Carlton317,Leffler128
+10/4/59,,171508e4-8de0-4f33-b7d0-87b7ac4a8008,2ce6da4d-7032-4bf7-b0bf-1873d9d015bb,424213003,Allergy to bee venom,,Gary33,Zulauf375
+10/4/59,,171508e4-8de0-4f33-b7d0-87b7ac4a8008,2ce6da4d-7032-4bf7-b0bf-1873d9d015bb,91934008,Allergy to nut,,Gary33,Zulauf375
+4/21/51,,ee7f6c74-a8ed-4147-b8e2-4879c8657b0f,0b7d2e65-a9df-4b74-84ed-25feffc23f62,424213003,Allergy to bee venom,,Kelvin159,Powlowski563
+4/21/51,,ee7f6c74-a8ed-4147-b8e2-4879c8657b0f,0b7d2e65-a9df-4b74-84ed-25feffc23f62,91935009,Allergy to peanuts,,Kelvin159,Powlowski563
+4/24/14,,e112cedd-a98e-489e-abb0-875420d40397,d47a0669-53b1-4914-b18d-dd593f7e1767,300916003,Latex allergy,,Bobby524,Robel940
+4/24/14,,e112cedd-a98e-489e-abb0-875420d40397,d47a0669-53b1-4914-b18d-dd593f7e1767,424213003,Allergy to bee venom,,Bobby524,Robel940
+4/24/14,,e112cedd-a98e-489e-abb0-875420d40397,d47a0669-53b1-4914-b18d-dd593f7e1767,419474003,Allergy to mould,,Bobby524,Robel940
+4/24/14,,e112cedd-a98e-489e-abb0-875420d40397,d47a0669-53b1-4914-b18d-dd593f7e1767,232350006,House dust mite allergy,,Bobby524,Robel940
+4/24/14,,e112cedd-a98e-489e-abb0-875420d40397,d47a0669-53b1-4914-b18d-dd593f7e1767,232347008,Dander (animal) allergy,,Bobby524,Robel940
+4/24/14,,e112cedd-a98e-489e-abb0-875420d40397,d47a0669-53b1-4914-b18d-dd593f7e1767,418689008,Allergy to grass pollen,,Bobby524,Robel940
+4/24/14,,e112cedd-a98e-489e-abb0-875420d40397,d47a0669-53b1-4914-b18d-dd593f7e1767,419263009,Allergy to tree pollen,,Bobby524,Robel940
+4/24/14,,e112cedd-a98e-489e-abb0-875420d40397,d47a0669-53b1-4914-b18d-dd593f7e1767,91930004,Allergy to eggs,,Bobby524,Robel940
+4/24/14,,e112cedd-a98e-489e-abb0-875420d40397,d47a0669-53b1-4914-b18d-dd593f7e1767,417532002,Allergy to fish,,Bobby524,Robel940
+4/24/14,,e112cedd-a98e-489e-abb0-875420d40397,d47a0669-53b1-4914-b18d-dd593f7e1767,91934008,Allergy to nut,,Bobby524,Robel940
+4/4/88,,f1462368-c891-4ede-9a2f-782da4386bcf,3397e329-cac9-426d-9308-e6aa97472d1a,420174000,Allergy to wheat,,Leandra549,Rippin620
+3/19/14,,6e239b88-5153-4098-85ab-27bd7539cd0e,52ed3230-8f93-4927-a2ca-1945f5cbd7aa,424213003,Allergy to bee venom,,Nanci249,Beahan375
+3/19/14,,6e239b88-5153-4098-85ab-27bd7539cd0e,52ed3230-8f93-4927-a2ca-1945f5cbd7aa,419474003,Allergy to mould,,Nanci249,Beahan375
+3/19/14,,6e239b88-5153-4098-85ab-27bd7539cd0e,52ed3230-8f93-4927-a2ca-1945f5cbd7aa,232350006,House dust mite allergy,,Nanci249,Beahan375
+3/19/14,,6e239b88-5153-4098-85ab-27bd7539cd0e,52ed3230-8f93-4927-a2ca-1945f5cbd7aa,232347008,Dander (animal) allergy,,Nanci249,Beahan375
+3/19/14,,6e239b88-5153-4098-85ab-27bd7539cd0e,52ed3230-8f93-4927-a2ca-1945f5cbd7aa,418689008,Allergy to grass pollen,,Nanci249,Beahan375
+3/19/14,,6e239b88-5153-4098-85ab-27bd7539cd0e,52ed3230-8f93-4927-a2ca-1945f5cbd7aa,419263009,Allergy to tree pollen,,Nanci249,Beahan375
+3/19/14,,6e239b88-5153-4098-85ab-27bd7539cd0e,52ed3230-8f93-4927-a2ca-1945f5cbd7aa,425525006,Allergy to dairy product,,Nanci249,Beahan375
+3/19/14,,6e239b88-5153-4098-85ab-27bd7539cd0e,52ed3230-8f93-4927-a2ca-1945f5cbd7aa,420174000,Allergy to wheat,,Nanci249,Beahan375
+2/17/08,8/3/19,0c5a6873-0823-497d-b5cb-57f28a11bf62,0fcf20f2-96cd-4984-b1f5-0e57720ffd80,232350006,House dust mite allergy,,Ronald408,Brown30
+3/7/71,,ab6a2662-f6d1-4da6-b3ce-3929d68650d7,603a0692-9302-459a-84b4-af631dc3aee8,424213003,Allergy to bee venom,,Miesha237,Wyman904
+3/7/71,,ab6a2662-f6d1-4da6-b3ce-3929d68650d7,603a0692-9302-459a-84b4-af631dc3aee8,417532002,Allergy to fish,,Miesha237,Wyman904
+3/7/71,,ab6a2662-f6d1-4da6-b3ce-3929d68650d7,603a0692-9302-459a-84b4-af631dc3aee8,91934008,Allergy to nut,,Miesha237,Wyman904
+3/7/71,,ab6a2662-f6d1-4da6-b3ce-3929d68650d7,603a0692-9302-459a-84b4-af631dc3aee8,91935009,Allergy to peanuts,,Miesha237,Wyman904
+2/2/10,,f830d725-640c-4c94-972a-61207b748347,11297d65-9223-45a7-86bb-04b55f61a5a1,300916003,Latex allergy,,Quintin944,Jenkins714
+2/2/10,,f830d725-640c-4c94-972a-61207b748347,11297d65-9223-45a7-86bb-04b55f61a5a1,419474003,Allergy to mould,,Quintin944,Jenkins714
+2/2/10,,f830d725-640c-4c94-972a-61207b748347,11297d65-9223-45a7-86bb-04b55f61a5a1,232350006,House dust mite allergy,,Quintin944,Jenkins714
+2/2/10,,f830d725-640c-4c94-972a-61207b748347,11297d65-9223-45a7-86bb-04b55f61a5a1,232347008,Dander (animal) allergy,,Quintin944,Jenkins714
+2/2/10,,f830d725-640c-4c94-972a-61207b748347,11297d65-9223-45a7-86bb-04b55f61a5a1,714035009,Allergy to soya,,Quintin944,Jenkins714
+2/10/66,,c844d8ac-d5bf-45eb-b8cf-84327c9a4e97,93f2e585-25a9-447e-9037-f2acb4533af7,300916003,Latex allergy,,Dannette613,Bartoletti50
+2/10/66,,c844d8ac-d5bf-45eb-b8cf-84327c9a4e97,93f2e585-25a9-447e-9037-f2acb4533af7,419474003,Allergy to mould,,Dannette613,Bartoletti50
+2/10/66,,c844d8ac-d5bf-45eb-b8cf-84327c9a4e97,93f2e585-25a9-447e-9037-f2acb4533af7,232350006,House dust mite allergy,,Dannette613,Bartoletti50
+2/10/66,,c844d8ac-d5bf-45eb-b8cf-84327c9a4e97,93f2e585-25a9-447e-9037-f2acb4533af7,232347008,Dander (animal) allergy,,Dannette613,Bartoletti50
+2/10/66,,c844d8ac-d5bf-45eb-b8cf-84327c9a4e97,93f2e585-25a9-447e-9037-f2acb4533af7,418689008,Allergy to grass pollen,,Dannette613,Bartoletti50
+2/10/66,,c844d8ac-d5bf-45eb-b8cf-84327c9a4e97,93f2e585-25a9-447e-9037-f2acb4533af7,419263009,Allergy to tree pollen,,Dannette613,Bartoletti50
+2/10/66,,c844d8ac-d5bf-45eb-b8cf-84327c9a4e97,93f2e585-25a9-447e-9037-f2acb4533af7,417532002,Allergy to fish,,Dannette613,Bartoletti50
+10/29/43,7/10/93,ca24f616-30cc-4351-aca9-1b49297de076,d05186e3-ff58-493f-b713-a6462cdff52c,419474003,Allergy to mould,,Filiberto722,Adams676
+10/29/43,7/10/93,ca24f616-30cc-4351-aca9-1b49297de076,d05186e3-ff58-493f-b713-a6462cdff52c,232350006,House dust mite allergy,,Filiberto722,Adams676
+10/29/43,7/10/93,ca24f616-30cc-4351-aca9-1b49297de076,d05186e3-ff58-493f-b713-a6462cdff52c,232347008,Dander (animal) allergy,,Filiberto722,Adams676
+10/29/43,7/10/93,ca24f616-30cc-4351-aca9-1b49297de076,d05186e3-ff58-493f-b713-a6462cdff52c,418689008,Allergy to grass pollen,,Filiberto722,Adams676
+10/29/43,,ca24f616-30cc-4351-aca9-1b49297de076,d05186e3-ff58-493f-b713-a6462cdff52c,425525006,Allergy to dairy product,,Filiberto722,Adams676
+1/26/19,,22da6290-e240-4875-97ec-0c2372ff45e5,427a4a56-801a-41bb-b9ef-7c9cb5fe9fc7,419474003,Allergy to mould,,Mónica985,Hernandes724
+1/26/19,,22da6290-e240-4875-97ec-0c2372ff45e5,427a4a56-801a-41bb-b9ef-7c9cb5fe9fc7,232350006,House dust mite allergy,,Mónica985,Hernandes724
+1/26/19,,22da6290-e240-4875-97ec-0c2372ff45e5,427a4a56-801a-41bb-b9ef-7c9cb5fe9fc7,232347008,Dander (animal) allergy,,Mónica985,Hernandes724
+1/26/19,,22da6290-e240-4875-97ec-0c2372ff45e5,427a4a56-801a-41bb-b9ef-7c9cb5fe9fc7,418689008,Allergy to grass pollen,,Mónica985,Hernandes724
+1/26/19,,22da6290-e240-4875-97ec-0c2372ff45e5,427a4a56-801a-41bb-b9ef-7c9cb5fe9fc7,419263009,Allergy to tree pollen,,Mónica985,Hernandes724
+1/26/19,,22da6290-e240-4875-97ec-0c2372ff45e5,427a4a56-801a-41bb-b9ef-7c9cb5fe9fc7,425525006,Allergy to dairy product,,Mónica985,Hernandes724
+1/26/19,,22da6290-e240-4875-97ec-0c2372ff45e5,427a4a56-801a-41bb-b9ef-7c9cb5fe9fc7,420174000,Allergy to wheat,,Mónica985,Hernandes724
+1/26/19,,22da6290-e240-4875-97ec-0c2372ff45e5,427a4a56-801a-41bb-b9ef-7c9cb5fe9fc7,91934008,Allergy to nut,,Mónica985,Hernandes724
+6/12/67,,cbec03bf-d54a-41ec-9090-bb36a70028b0,01cb8295-b8fd-4560-98fd-0548ddffef82,420174000,Allergy to wheat,,Janean397,Keeling57
+9/24/87,,c4f221f2-611b-4cdd-a0b6-958bbbfcf346,c4bd5699-1d3f-421a-afff-b61489fc7304,300913006,Shellfish allergy,,Homero668,Reyes140
+8/1/90,,77a0cd86-92bb-4c6d-a91a-49ee66e353b9,ef0b7128-4a42-44af-b58d-4b9d79b3b949,424213003,Allergy to bee venom,,Norma469,Mayer370
+8/1/90,,77a0cd86-92bb-4c6d-a91a-49ee66e353b9,ef0b7128-4a42-44af-b58d-4b9d79b3b949,300913006,Shellfish allergy,,Norma469,Mayer370
+6/24/95,10/28/10,ea8e6623-5590-4d01-bfc1-25d86b1b4491,4d8f3b3f-c46e-464a-9298-97e713fdcbd3,418689008,Allergy to grass pollen,,Winona266,Reinger292
+6/24/95,,ea8e6623-5590-4d01-bfc1-25d86b1b4491,4d8f3b3f-c46e-464a-9298-97e713fdcbd3,300913006,Shellfish allergy,,Winona266,Reinger292
+5/31/02,,4440ff11-69ec-440b-a2bd-dc1c14105e8e,38de2a79-6bea-438e-963f-804823c1e32d,419474003,Allergy to mould,,Ona426,Dooley940
+5/31/02,,4440ff11-69ec-440b-a2bd-dc1c14105e8e,38de2a79-6bea-438e-963f-804823c1e32d,232350006,House dust mite allergy,,Ona426,Dooley940
+5/31/02,,4440ff11-69ec-440b-a2bd-dc1c14105e8e,38de2a79-6bea-438e-963f-804823c1e32d,232347008,Dander (animal) allergy,,Ona426,Dooley940
+5/31/02,,4440ff11-69ec-440b-a2bd-dc1c14105e8e,38de2a79-6bea-438e-963f-804823c1e32d,418689008,Allergy to grass pollen,,Ona426,Dooley940
+5/31/02,,4440ff11-69ec-440b-a2bd-dc1c14105e8e,38de2a79-6bea-438e-963f-804823c1e32d,419263009,Allergy to tree pollen,,Ona426,Dooley940
+5/31/02,3/21/20,4440ff11-69ec-440b-a2bd-dc1c14105e8e,38de2a79-6bea-438e-963f-804823c1e32d,91930004,Allergy to eggs,,Ona426,Dooley940
+5/31/02,3/21/20,4440ff11-69ec-440b-a2bd-dc1c14105e8e,38de2a79-6bea-438e-963f-804823c1e32d,420174000,Allergy to wheat,,Ona426,Dooley940
+5/31/02,,4440ff11-69ec-440b-a2bd-dc1c14105e8e,38de2a79-6bea-438e-963f-804823c1e32d,91935009,Allergy to peanuts,,Ona426,Dooley940
+5/12/94,2/3/11,1aa71b23-790e-4d22-92da-c689682c8993,228c992b-3877-454c-920d-fa629bb8c5d9,300916003,Latex allergy,,Jeannie478,VonRueden376
+5/12/94,,1aa71b23-790e-4d22-92da-c689682c8993,228c992b-3877-454c-920d-fa629bb8c5d9,91934008,Allergy to nut,,Jeannie478,VonRueden376
+5/12/94,,1aa71b23-790e-4d22-92da-c689682c8993,228c992b-3877-454c-920d-fa629bb8c5d9,91935009,Allergy to peanuts,,Jeannie478,VonRueden376
+1/21/77,,a263f1fb-ffb1-4913-997f-455b6c6ab81e,34aa6375-61e9-45e0-a18a-a17d38dcd4b8,425525006,Allergy to dairy product,,Monte325,Maggio310
+9/4/06,,1a289f28-b73b-4d3a-83ef-2216e8837bad,08c25a44-753e-4a0f-bd30-6bce5105bd71,419474003,Allergy to mould,,Earl438,Friesen796
+9/4/06,,1a289f28-b73b-4d3a-83ef-2216e8837bad,08c25a44-753e-4a0f-bd30-6bce5105bd71,232350006,House dust mite allergy,,Earl438,Friesen796
+9/4/06,,1a289f28-b73b-4d3a-83ef-2216e8837bad,08c25a44-753e-4a0f-bd30-6bce5105bd71,232347008,Dander (animal) allergy,,Earl438,Friesen796
+9/4/06,,1a289f28-b73b-4d3a-83ef-2216e8837bad,08c25a44-753e-4a0f-bd30-6bce5105bd71,418689008,Allergy to grass pollen,,Earl438,Friesen796
+9/4/06,,1a289f28-b73b-4d3a-83ef-2216e8837bad,08c25a44-753e-4a0f-bd30-6bce5105bd71,419263009,Allergy to tree pollen,,Earl438,Friesen796
+9/4/06,,1a289f28-b73b-4d3a-83ef-2216e8837bad,08c25a44-753e-4a0f-bd30-6bce5105bd71,714035009,Allergy to soya,,Earl438,Friesen796
+9/4/06,,1a289f28-b73b-4d3a-83ef-2216e8837bad,08c25a44-753e-4a0f-bd30-6bce5105bd71,300913006,Shellfish allergy,,Earl438,Friesen796
+9/4/06,,1a289f28-b73b-4d3a-83ef-2216e8837bad,08c25a44-753e-4a0f-bd30-6bce5105bd71,91934008,Allergy to nut,,Earl438,Friesen796
+2/18/80,,2f423855-1f84-4faa-9218-cd593bef6fe1,e35b4e12-bedc-4d8b-8b42-1926fc6b79d3,419263009,Allergy to tree pollen,,Keenan632,Hoeger474
+3/13/68,,ba2c1e9f-16e0-427b-97db-dc639daeaaee,6e245624-124e-4832-a40a-f58519b0cffc,424213003,Allergy to bee venom,,Stefania815,O'Kon634
+3/13/68,,ba2c1e9f-16e0-427b-97db-dc639daeaaee,6e245624-124e-4832-a40a-f58519b0cffc,419474003,Allergy to mould,,Stefania815,O'Kon634
+3/13/68,,ba2c1e9f-16e0-427b-97db-dc639daeaaee,6e245624-124e-4832-a40a-f58519b0cffc,232347008,Dander (animal) allergy,,Stefania815,O'Kon634
+3/13/68,,ba2c1e9f-16e0-427b-97db-dc639daeaaee,6e245624-124e-4832-a40a-f58519b0cffc,418689008,Allergy to grass pollen,,Stefania815,O'Kon634
+3/13/68,,ba2c1e9f-16e0-427b-97db-dc639daeaaee,6e245624-124e-4832-a40a-f58519b0cffc,419263009,Allergy to tree pollen,,Stefania815,O'Kon634
+3/13/68,,ba2c1e9f-16e0-427b-97db-dc639daeaaee,6e245624-124e-4832-a40a-f58519b0cffc,425525006,Allergy to dairy product,,Stefania815,O'Kon634
+12/17/87,,33c2184c-bda1-4d31-b0cb-4f18c46822da,68bee127-51d7-45a5-b750-6d816bad712e,419474003,Allergy to mould,,Karey608,Erdman779
+12/17/87,,33c2184c-bda1-4d31-b0cb-4f18c46822da,68bee127-51d7-45a5-b750-6d816bad712e,232347008,Dander (animal) allergy,,Karey608,Erdman779
+4/12/91,,5f1c9186-80b0-405f-9f74-c4e26beb1d01,4c577cc8-117e-45dc-852a-e91de2336afd,419474003,Allergy to mould,,Sheba703,Ziemann98
+4/12/91,,5f1c9186-80b0-405f-9f74-c4e26beb1d01,4c577cc8-117e-45dc-852a-e91de2336afd,91934008,Allergy to nut,,Sheba703,Ziemann98
+8/30/01,12/17/18,317ccdcf-cb9c-488c-901c-a5d61c249919,da3b04e7-b4a2-4949-a335-a560aec22203,91930004,Allergy to eggs,,Mose244,Bauch723
+3/11/81,,ca8803ac-66ef-4895-a8c4-290313fcee6f,6dae0a63-104c-468a-8796-028bd0991bcf,300916003,Latex allergy,,Rowena386,Borer986
+3/11/81,,ca8803ac-66ef-4895-a8c4-290313fcee6f,6dae0a63-104c-468a-8796-028bd0991bcf,232347008,Dander (animal) allergy,,Rowena386,Borer986
+3/11/81,,ca8803ac-66ef-4895-a8c4-290313fcee6f,6dae0a63-104c-468a-8796-028bd0991bcf,418689008,Allergy to grass pollen,,Rowena386,Borer986
+3/11/81,,ca8803ac-66ef-4895-a8c4-290313fcee6f,6dae0a63-104c-468a-8796-028bd0991bcf,419263009,Allergy to tree pollen,,Rowena386,Borer986
+3/11/81,,ca8803ac-66ef-4895-a8c4-290313fcee6f,6dae0a63-104c-468a-8796-028bd0991bcf,300913006,Shellfish allergy,,Rowena386,Borer986
+3/11/81,,ca8803ac-66ef-4895-a8c4-290313fcee6f,6dae0a63-104c-468a-8796-028bd0991bcf,91934008,Allergy to nut,,Rowena386,Borer986
+7/8/75,,ed6fb8d6-c14d-4e34-a029-2dab33855ddd,c587f354-dda9-4a55-930b-c19330ee1c49,300916003,Latex allergy,,Sara501,Arreola736
+9/4/56,,9ec6d974-df2b-44ec-acc2-77d96725f4f4,d8789ff6-c8dc-474c-98e8-8225e749a9b0,300913006,Shellfish allergy,,Shala169,Keeling57
+10/10/18,,78ddb775-9cd7-46c6-87b9-277a2a92c72b,d7975f41-c463-4522-ba1a-bea9a292d6ef,424213003,Allergy to bee venom,,Vickey217,Hermann103
+10/10/18,,78ddb775-9cd7-46c6-87b9-277a2a92c72b,d7975f41-c463-4522-ba1a-bea9a292d6ef,419474003,Allergy to mould,,Vickey217,Hermann103
+10/10/18,,78ddb775-9cd7-46c6-87b9-277a2a92c72b,d7975f41-c463-4522-ba1a-bea9a292d6ef,232350006,House dust mite allergy,,Vickey217,Hermann103
+10/10/18,,78ddb775-9cd7-46c6-87b9-277a2a92c72b,d7975f41-c463-4522-ba1a-bea9a292d6ef,232347008,Dander (animal) allergy,,Vickey217,Hermann103
+10/10/18,,78ddb775-9cd7-46c6-87b9-277a2a92c72b,d7975f41-c463-4522-ba1a-bea9a292d6ef,418689008,Allergy to grass pollen,,Vickey217,Hermann103
+10/10/18,,78ddb775-9cd7-46c6-87b9-277a2a92c72b,d7975f41-c463-4522-ba1a-bea9a292d6ef,419263009,Allergy to tree pollen,,Vickey217,Hermann103
+10/10/18,,78ddb775-9cd7-46c6-87b9-277a2a92c72b,d7975f41-c463-4522-ba1a-bea9a292d6ef,425525006,Allergy to dairy product,,Vickey217,Hermann103
+10/10/18,,78ddb775-9cd7-46c6-87b9-277a2a92c72b,d7975f41-c463-4522-ba1a-bea9a292d6ef,420174000,Allergy to wheat,,Vickey217,Hermann103
+3/9/92,,45840f9a-a735-45e4-beb0-b750fc9a712e,a90612a6-2d88-4fb8-97ac-b95e19f60c41,419474003,Allergy to mould,,Maddie576,McDermott739
+6/7/14,,bab51ea9-2945-4f8a-8015-e430f80a908e,3bf855b5-6f5a-45b6-a248-870298609636,300916003,Latex allergy,,Brooks264,Hirthe744
+6/7/14,,bab51ea9-2945-4f8a-8015-e430f80a908e,3bf855b5-6f5a-45b6-a248-870298609636,419474003,Allergy to mould,,Brooks264,Hirthe744
+6/7/14,,bab51ea9-2945-4f8a-8015-e430f80a908e,3bf855b5-6f5a-45b6-a248-870298609636,232350006,House dust mite allergy,,Brooks264,Hirthe744
+6/7/14,,bab51ea9-2945-4f8a-8015-e430f80a908e,3bf855b5-6f5a-45b6-a248-870298609636,232347008,Dander (animal) allergy,,Brooks264,Hirthe744
+6/7/14,,bab51ea9-2945-4f8a-8015-e430f80a908e,3bf855b5-6f5a-45b6-a248-870298609636,418689008,Allergy to grass pollen,,Brooks264,Hirthe744
+6/7/14,,bab51ea9-2945-4f8a-8015-e430f80a908e,3bf855b5-6f5a-45b6-a248-870298609636,419263009,Allergy to tree pollen,,Brooks264,Hirthe744
+6/7/14,,bab51ea9-2945-4f8a-8015-e430f80a908e,3bf855b5-6f5a-45b6-a248-870298609636,91930004,Allergy to eggs,,Brooks264,Hirthe744
+6/7/14,,bab51ea9-2945-4f8a-8015-e430f80a908e,3bf855b5-6f5a-45b6-a248-870298609636,420174000,Allergy to wheat,,Brooks264,Hirthe744
+6/7/14,,bab51ea9-2945-4f8a-8015-e430f80a908e,3bf855b5-6f5a-45b6-a248-870298609636,417532002,Allergy to fish,,Brooks264,Hirthe744
+1/24/16,,1d4f63d2-ddc0-47bc-b2cc-6f58068a5901,82952a6b-28a4-443a-9dcf-bee496f1256d,232347008,Dander (animal) allergy,,Imogene688,Friesen796
+1/24/16,,1d4f63d2-ddc0-47bc-b2cc-6f58068a5901,82952a6b-28a4-443a-9dcf-bee496f1256d,300913006,Shellfish allergy,,Imogene688,Friesen796
+6/26/49,,734dfbb9-6320-4fee-b21a-175d3f2f14ba,48fffc64-31f0-4043-be85-8c431deb0b53,91934008,Allergy to nut,,Cody889,Ruecker817
+3/10/82,,dc00fea9-2f95-46f9-ba8e-d382489c6e6a,dfccba0c-4fb6-442d-9d99-d32f4577112f,424213003,Allergy to bee venom,,Avery919,Murphy561
+3/10/82,,dc00fea9-2f95-46f9-ba8e-d382489c6e6a,dfccba0c-4fb6-442d-9d99-d32f4577112f,419474003,Allergy to mould,,Avery919,Murphy561
+3/10/82,,dc00fea9-2f95-46f9-ba8e-d382489c6e6a,dfccba0c-4fb6-442d-9d99-d32f4577112f,91934008,Allergy to nut,,Avery919,Murphy561
+4/3/10,,2174522f-1d23-47cf-b56c-4ce3193c5bab,89685e6f-cb99-47aa-8304-e9bc4506e7cd,300916003,Latex allergy,,Alyce744,Prohaska837
+4/3/10,,2174522f-1d23-47cf-b56c-4ce3193c5bab,89685e6f-cb99-47aa-8304-e9bc4506e7cd,424213003,Allergy to bee venom,,Alyce744,Prohaska837
+4/3/10,,2174522f-1d23-47cf-b56c-4ce3193c5bab,89685e6f-cb99-47aa-8304-e9bc4506e7cd,419474003,Allergy to mould,,Alyce744,Prohaska837
+4/3/10,,2174522f-1d23-47cf-b56c-4ce3193c5bab,89685e6f-cb99-47aa-8304-e9bc4506e7cd,232350006,House dust mite allergy,,Alyce744,Prohaska837
+4/3/10,,2174522f-1d23-47cf-b56c-4ce3193c5bab,89685e6f-cb99-47aa-8304-e9bc4506e7cd,232347008,Dander (animal) allergy,,Alyce744,Prohaska837
+4/3/10,,2174522f-1d23-47cf-b56c-4ce3193c5bab,89685e6f-cb99-47aa-8304-e9bc4506e7cd,418689008,Allergy to grass pollen,,Alyce744,Prohaska837
+4/3/10,,2174522f-1d23-47cf-b56c-4ce3193c5bab,89685e6f-cb99-47aa-8304-e9bc4506e7cd,419263009,Allergy to tree pollen,,Alyce744,Prohaska837
+4/3/10,,2174522f-1d23-47cf-b56c-4ce3193c5bab,89685e6f-cb99-47aa-8304-e9bc4506e7cd,91930004,Allergy to eggs,,Alyce744,Prohaska837
+4/3/10,,2174522f-1d23-47cf-b56c-4ce3193c5bab,89685e6f-cb99-47aa-8304-e9bc4506e7cd,417532002,Allergy to fish,,Alyce744,Prohaska837
+4/3/10,,2174522f-1d23-47cf-b56c-4ce3193c5bab,89685e6f-cb99-47aa-8304-e9bc4506e7cd,91934008,Allergy to nut,,Alyce744,Prohaska837
+6/17/09,,5c520448-6728-42cb-8cf2-457bc7c2b1f1,318437d0-9900-460a-a870-8d3b259b488a,300916003,Latex allergy,,Noble66,Pagac496
+6/17/09,,5c520448-6728-42cb-8cf2-457bc7c2b1f1,318437d0-9900-460a-a870-8d3b259b488a,419474003,Allergy to mould,,Noble66,Pagac496
+6/17/09,,5c520448-6728-42cb-8cf2-457bc7c2b1f1,318437d0-9900-460a-a870-8d3b259b488a,232350006,House dust mite allergy,,Noble66,Pagac496
+6/17/09,,5c520448-6728-42cb-8cf2-457bc7c2b1f1,318437d0-9900-460a-a870-8d3b259b488a,232347008,Dander (animal) allergy,,Noble66,Pagac496
+6/17/09,,5c520448-6728-42cb-8cf2-457bc7c2b1f1,318437d0-9900-460a-a870-8d3b259b488a,419263009,Allergy to tree pollen,,Noble66,Pagac496
+6/17/09,,5c520448-6728-42cb-8cf2-457bc7c2b1f1,318437d0-9900-460a-a870-8d3b259b488a,420174000,Allergy to wheat,,Noble66,Pagac496
+6/17/09,,5c520448-6728-42cb-8cf2-457bc7c2b1f1,318437d0-9900-460a-a870-8d3b259b488a,300913006,Shellfish allergy,,Noble66,Pagac496
+6/17/09,,5c520448-6728-42cb-8cf2-457bc7c2b1f1,318437d0-9900-460a-a870-8d3b259b488a,91934008,Allergy to nut,,Noble66,Pagac496
+12/3/19,,9b50f7b9-c67c-4044-aad0-594ee95b0c29,f54d8911-fb39-4ffc-afea-37327e08f509,424213003,Allergy to bee venom,,Eduardo902,Crona259
+12/3/19,,9b50f7b9-c67c-4044-aad0-594ee95b0c29,f54d8911-fb39-4ffc-afea-37327e08f509,419474003,Allergy to mould,,Eduardo902,Crona259
+12/3/19,,9b50f7b9-c67c-4044-aad0-594ee95b0c29,f54d8911-fb39-4ffc-afea-37327e08f509,232350006,House dust mite allergy,,Eduardo902,Crona259
+12/3/19,,9b50f7b9-c67c-4044-aad0-594ee95b0c29,f54d8911-fb39-4ffc-afea-37327e08f509,232347008,Dander (animal) allergy,,Eduardo902,Crona259
+12/3/19,,9b50f7b9-c67c-4044-aad0-594ee95b0c29,f54d8911-fb39-4ffc-afea-37327e08f509,418689008,Allergy to grass pollen,,Eduardo902,Crona259
+12/3/19,,9b50f7b9-c67c-4044-aad0-594ee95b0c29,f54d8911-fb39-4ffc-afea-37327e08f509,419263009,Allergy to tree pollen,,Eduardo902,Crona259
+12/3/19,,9b50f7b9-c67c-4044-aad0-594ee95b0c29,f54d8911-fb39-4ffc-afea-37327e08f509,91934008,Allergy to nut,,Eduardo902,Crona259
+1/21/08,,a694ecfc-e39e-46dc-876e-029b32ba0135,33d7e56a-61f4-4123-beb1-91b0fbc9727b,300916003,Latex allergy,,Teisha100,Lockman863
+1/21/08,,a694ecfc-e39e-46dc-876e-029b32ba0135,33d7e56a-61f4-4123-beb1-91b0fbc9727b,419474003,Allergy to mould,,Teisha100,Lockman863
+1/21/08,,a694ecfc-e39e-46dc-876e-029b32ba0135,33d7e56a-61f4-4123-beb1-91b0fbc9727b,232350006,House dust mite allergy,,Teisha100,Lockman863
+1/21/08,,a694ecfc-e39e-46dc-876e-029b32ba0135,33d7e56a-61f4-4123-beb1-91b0fbc9727b,232347008,Dander (animal) allergy,,Teisha100,Lockman863
+1/21/08,,a694ecfc-e39e-46dc-876e-029b32ba0135,33d7e56a-61f4-4123-beb1-91b0fbc9727b,418689008,Allergy to grass pollen,,Teisha100,Lockman863
+1/21/08,,a694ecfc-e39e-46dc-876e-029b32ba0135,33d7e56a-61f4-4123-beb1-91b0fbc9727b,419263009,Allergy to tree pollen,,Teisha100,Lockman863
+1/21/08,,a694ecfc-e39e-46dc-876e-029b32ba0135,33d7e56a-61f4-4123-beb1-91b0fbc9727b,91930004,Allergy to eggs,,Teisha100,Lockman863
+1/21/08,,a694ecfc-e39e-46dc-876e-029b32ba0135,33d7e56a-61f4-4123-beb1-91b0fbc9727b,420174000,Allergy to wheat,,Teisha100,Lockman863
+1/21/08,,a694ecfc-e39e-46dc-876e-029b32ba0135,33d7e56a-61f4-4123-beb1-91b0fbc9727b,300913006,Shellfish allergy,,Teisha100,Lockman863
+8/22/03,,b88dac97-2026-43e9-b40f-71fc0f888ce7,d102e306-8906-48ee-b8ad-574f5a61150e,419474003,Allergy to mould,,Katheryn92,Douglas31
+8/22/03,11/22/18,b88dac97-2026-43e9-b40f-71fc0f888ce7,d102e306-8906-48ee-b8ad-574f5a61150e,232350006,House dust mite allergy,,Katheryn92,Douglas31
+8/22/03,11/22/18,b88dac97-2026-43e9-b40f-71fc0f888ce7,d102e306-8906-48ee-b8ad-574f5a61150e,232347008,Dander (animal) allergy,,Katheryn92,Douglas31
+8/22/03,11/22/18,b88dac97-2026-43e9-b40f-71fc0f888ce7,d102e306-8906-48ee-b8ad-574f5a61150e,418689008,Allergy to grass pollen,,Katheryn92,Douglas31
+8/22/03,10/21/19,b88dac97-2026-43e9-b40f-71fc0f888ce7,d102e306-8906-48ee-b8ad-574f5a61150e,425525006,Allergy to dairy product,,Katheryn92,Douglas31
+8/22/03,,b88dac97-2026-43e9-b40f-71fc0f888ce7,d102e306-8906-48ee-b8ad-574f5a61150e,714035009,Allergy to soya,,Katheryn92,Douglas31
+8/22/03,10/21/19,b88dac97-2026-43e9-b40f-71fc0f888ce7,d102e306-8906-48ee-b8ad-574f5a61150e,420174000,Allergy to wheat,,Katheryn92,Douglas31
+2/20/88,,d7d1f837-a2c8-4648-b498-a02278b91a08,22f68bb1-06c5-4585-a74e-2924df8c6e93,300913006,Shellfish allergy,,Haywood675,Jast432
+5/31/01,,8b119fdd-0fea-46dd-9106-b5c7813e7260,c0779655-785c-4ee7-9f19-afe8b8c96d4c,300916003,Latex allergy,,Christian753,Williamson769
+5/31/01,1/31/17,8b119fdd-0fea-46dd-9106-b5c7813e7260,c0779655-785c-4ee7-9f19-afe8b8c96d4c,419474003,Allergy to mould,,Christian753,Williamson769
+5/31/01,1/31/17,8b119fdd-0fea-46dd-9106-b5c7813e7260,c0779655-785c-4ee7-9f19-afe8b8c96d4c,232350006,House dust mite allergy,,Christian753,Williamson769
+5/31/01,1/31/17,8b119fdd-0fea-46dd-9106-b5c7813e7260,c0779655-785c-4ee7-9f19-afe8b8c96d4c,232347008,Dander (animal) allergy,,Christian753,Williamson769
+5/31/01,1/31/17,8b119fdd-0fea-46dd-9106-b5c7813e7260,c0779655-785c-4ee7-9f19-afe8b8c96d4c,418689008,Allergy to grass pollen,,Christian753,Williamson769
+5/31/01,1/31/17,8b119fdd-0fea-46dd-9106-b5c7813e7260,c0779655-785c-4ee7-9f19-afe8b8c96d4c,419263009,Allergy to tree pollen,,Christian753,Williamson769
+5/31/01,,8b119fdd-0fea-46dd-9106-b5c7813e7260,c0779655-785c-4ee7-9f19-afe8b8c96d4c,417532002,Allergy to fish,,Christian753,Williamson769
+5/31/01,,8b119fdd-0fea-46dd-9106-b5c7813e7260,c0779655-785c-4ee7-9f19-afe8b8c96d4c,91934008,Allergy to nut,,Christian753,Williamson769
+1/7/50,,848e0227-5d5d-4bdf-8603-207cdea72e2a,77427b07-f03b-49bc-9556-d69b4feed7ef,419474003,Allergy to mould,,Alda400,Kris249
+1/7/50,,848e0227-5d5d-4bdf-8603-207cdea72e2a,77427b07-f03b-49bc-9556-d69b4feed7ef,232350006,House dust mite allergy,,Alda400,Kris249
+1/7/50,,848e0227-5d5d-4bdf-8603-207cdea72e2a,77427b07-f03b-49bc-9556-d69b4feed7ef,232347008,Dander (animal) allergy,,Alda400,Kris249
+1/7/50,,848e0227-5d5d-4bdf-8603-207cdea72e2a,77427b07-f03b-49bc-9556-d69b4feed7ef,419263009,Allergy to tree pollen,,Alda400,Kris249
+1/7/50,,848e0227-5d5d-4bdf-8603-207cdea72e2a,77427b07-f03b-49bc-9556-d69b4feed7ef,714035009,Allergy to soya,,Alda400,Kris249
+1/7/50,,848e0227-5d5d-4bdf-8603-207cdea72e2a,77427b07-f03b-49bc-9556-d69b4feed7ef,91935009,Allergy to peanuts,,Alda400,Kris249
+12/6/04,,eafd1fd3-3778-423a-ba79-4584bd310eb4,36279aee-15ff-48ad-a4a6-8ba334466278,91935009,Allergy to peanuts,,Buford910,Lynch190
+11/1/00,,25f2b770-8821-48f0-a7fe-460dfe3b15b8,41baabeb-59ef-42d5-a69b-2a070d6f9acd,424213003,Allergy to bee venom,,Winford225,Hoeger474
+11/1/00,11/21/16,25f2b770-8821-48f0-a7fe-460dfe3b15b8,41baabeb-59ef-42d5-a69b-2a070d6f9acd,419474003,Allergy to mould,,Winford225,Hoeger474
+11/1/00,,25f2b770-8821-48f0-a7fe-460dfe3b15b8,41baabeb-59ef-42d5-a69b-2a070d6f9acd,232347008,Dander (animal) allergy,,Winford225,Hoeger474
+11/1/00,11/21/16,25f2b770-8821-48f0-a7fe-460dfe3b15b8,41baabeb-59ef-42d5-a69b-2a070d6f9acd,418689008,Allergy to grass pollen,,Winford225,Hoeger474
+11/1/00,11/21/16,25f2b770-8821-48f0-a7fe-460dfe3b15b8,41baabeb-59ef-42d5-a69b-2a070d6f9acd,419263009,Allergy to tree pollen,,Winford225,Hoeger474
+11/1/00,4/11/18,25f2b770-8821-48f0-a7fe-460dfe3b15b8,41baabeb-59ef-42d5-a69b-2a070d6f9acd,91930004,Allergy to eggs,,Winford225,Hoeger474
+11/1/00,4/11/18,25f2b770-8821-48f0-a7fe-460dfe3b15b8,41baabeb-59ef-42d5-a69b-2a070d6f9acd,420174000,Allergy to wheat,,Winford225,Hoeger474
+11/1/00,,25f2b770-8821-48f0-a7fe-460dfe3b15b8,41baabeb-59ef-42d5-a69b-2a070d6f9acd,300913006,Shellfish allergy,,Winford225,Hoeger474
+3/5/64,,2e4df8c7-8b04-4165-a1fb-e4234d8aebe7,ab0c0a3f-8b18-4880-b45a-fad163b69ef3,232350006,House dust mite allergy,,Apolonia139,Bailey598
+7/28/15,,26ca976d-0b5b-4662-af41-535ff670dd5a,9ef70ad2-ee78-4685-b90f-aaae12dc2e7f,300916003,Latex allergy,,Shanti441,Lesch175
+7/28/15,,26ca976d-0b5b-4662-af41-535ff670dd5a,9ef70ad2-ee78-4685-b90f-aaae12dc2e7f,419474003,Allergy to mould,,Shanti441,Lesch175
+7/28/15,,26ca976d-0b5b-4662-af41-535ff670dd5a,9ef70ad2-ee78-4685-b90f-aaae12dc2e7f,232350006,House dust mite allergy,,Shanti441,Lesch175
+7/28/15,,26ca976d-0b5b-4662-af41-535ff670dd5a,9ef70ad2-ee78-4685-b90f-aaae12dc2e7f,232347008,Dander (animal) allergy,,Shanti441,Lesch175
+7/28/15,,26ca976d-0b5b-4662-af41-535ff670dd5a,9ef70ad2-ee78-4685-b90f-aaae12dc2e7f,418689008,Allergy to grass pollen,,Shanti441,Lesch175
+7/28/15,,26ca976d-0b5b-4662-af41-535ff670dd5a,9ef70ad2-ee78-4685-b90f-aaae12dc2e7f,300913006,Shellfish allergy,,Shanti441,Lesch175
+7/28/15,,26ca976d-0b5b-4662-af41-535ff670dd5a,9ef70ad2-ee78-4685-b90f-aaae12dc2e7f,417532002,Allergy to fish,,Shanti441,Lesch175
+7/26/91,,65243e61-da11-42a6-826e-a43d960d1e84,4bd55d09-eca0-4e6e-b04d-a81b0906f8d8,300913006,Shellfish allergy,,Anja508,Lubowitz58
+4/2/19,,199946d9-69de-43e1-9ce6-d6b646b84955,f522f250-10aa-4578-ba25-149ed036fe1c,419474003,Allergy to mould,,Lasandra232,Muller251
+4/2/19,,199946d9-69de-43e1-9ce6-d6b646b84955,f522f250-10aa-4578-ba25-149ed036fe1c,232350006,House dust mite allergy,,Lasandra232,Muller251
+4/2/19,,199946d9-69de-43e1-9ce6-d6b646b84955,f522f250-10aa-4578-ba25-149ed036fe1c,232347008,Dander (animal) allergy,,Lasandra232,Muller251
+4/2/19,,199946d9-69de-43e1-9ce6-d6b646b84955,f522f250-10aa-4578-ba25-149ed036fe1c,418689008,Allergy to grass pollen,,Lasandra232,Muller251
+4/2/19,,199946d9-69de-43e1-9ce6-d6b646b84955,f522f250-10aa-4578-ba25-149ed036fe1c,419263009,Allergy to tree pollen,,Lasandra232,Muller251
+4/2/19,,199946d9-69de-43e1-9ce6-d6b646b84955,f522f250-10aa-4578-ba25-149ed036fe1c,425525006,Allergy to dairy product,,Lasandra232,Muller251
+4/2/19,,199946d9-69de-43e1-9ce6-d6b646b84955,f522f250-10aa-4578-ba25-149ed036fe1c,91934008,Allergy to nut,,Lasandra232,Muller251
+8/7/57,,4be910c3-22ae-4868-9dbe-667aec6e5342,66b7c226-13b7-47cc-b0c2-5a3f608061d8,91934008,Allergy to nut,,Kathrine376,Ledner144
+3/31/62,,08ea9043-5f84-46ab-9815-81d90024169a,4d41baa1-4c54-4c57-be01-e67f0234d4fe,232347008,Dander (animal) allergy,,Mui729,Kihn564
+3/31/62,,08ea9043-5f84-46ab-9815-81d90024169a,4d41baa1-4c54-4c57-be01-e67f0234d4fe,300913006,Shellfish allergy,,Mui729,Kihn564
+10/25/05,,2950e244-0ba6-4afe-ac30-e0d5529d1d1b,aa90693d-c20e-4791-baa4-aab0b6400f6b,419474003,Allergy to mould,,Stewart672,Gusikowski974
+10/25/05,,2950e244-0ba6-4afe-ac30-e0d5529d1d1b,aa90693d-c20e-4791-baa4-aab0b6400f6b,232350006,House dust mite allergy,,Stewart672,Gusikowski974
+10/25/05,,2950e244-0ba6-4afe-ac30-e0d5529d1d1b,aa90693d-c20e-4791-baa4-aab0b6400f6b,232347008,Dander (animal) allergy,,Stewart672,Gusikowski974
+10/25/05,,2950e244-0ba6-4afe-ac30-e0d5529d1d1b,aa90693d-c20e-4791-baa4-aab0b6400f6b,418689008,Allergy to grass pollen,,Stewart672,Gusikowski974
+10/25/05,,2950e244-0ba6-4afe-ac30-e0d5529d1d1b,aa90693d-c20e-4791-baa4-aab0b6400f6b,419263009,Allergy to tree pollen,,Stewart672,Gusikowski974
+10/25/05,,2950e244-0ba6-4afe-ac30-e0d5529d1d1b,aa90693d-c20e-4791-baa4-aab0b6400f6b,91930004,Allergy to eggs,,Stewart672,Gusikowski974
+10/25/05,,2950e244-0ba6-4afe-ac30-e0d5529d1d1b,aa90693d-c20e-4791-baa4-aab0b6400f6b,420174000,Allergy to wheat,,Stewart672,Gusikowski974
+7/29/12,,a3abc11b-0fd1-4eb9-a69a-9075b4737612,a2e3c7b6-8c3e-4f13-8937-c41fb5a802ef,300913006,Shellfish allergy,,Irvin970,Goodwin327
+2/11/16,,f23e12d9-2ec6-4006-b041-ea78d374e9c9,236290a7-516e-403c-8f77-5198f833f968,300916003,Latex allergy,,Diana207,Vigil207
+2/11/16,,f23e12d9-2ec6-4006-b041-ea78d374e9c9,236290a7-516e-403c-8f77-5198f833f968,424213003,Allergy to bee venom,,Diana207,Vigil207
+2/11/16,,f23e12d9-2ec6-4006-b041-ea78d374e9c9,236290a7-516e-403c-8f77-5198f833f968,419474003,Allergy to mould,,Diana207,Vigil207
+2/11/16,,f23e12d9-2ec6-4006-b041-ea78d374e9c9,236290a7-516e-403c-8f77-5198f833f968,232350006,House dust mite allergy,,Diana207,Vigil207
+2/11/16,,f23e12d9-2ec6-4006-b041-ea78d374e9c9,236290a7-516e-403c-8f77-5198f833f968,232347008,Dander (animal) allergy,,Diana207,Vigil207
+2/11/16,,f23e12d9-2ec6-4006-b041-ea78d374e9c9,236290a7-516e-403c-8f77-5198f833f968,418689008,Allergy to grass pollen,,Diana207,Vigil207
+2/11/16,,f23e12d9-2ec6-4006-b041-ea78d374e9c9,236290a7-516e-403c-8f77-5198f833f968,419263009,Allergy to tree pollen,,Diana207,Vigil207
+2/11/16,,f23e12d9-2ec6-4006-b041-ea78d374e9c9,236290a7-516e-403c-8f77-5198f833f968,91934008,Allergy to nut,,Diana207,Vigil207
+3/10/52,,0288abb6-633c-40c3-ba0c-66c7d957727e,a64c55df-b288-4f78-9996-d2ecf0b65c9d,419474003,Allergy to mould,,Keva141,Shanahan202
+3/10/52,,0288abb6-633c-40c3-ba0c-66c7d957727e,a64c55df-b288-4f78-9996-d2ecf0b65c9d,232350006,House dust mite allergy,,Keva141,Shanahan202
+3/10/52,,0288abb6-633c-40c3-ba0c-66c7d957727e,a64c55df-b288-4f78-9996-d2ecf0b65c9d,232347008,Dander (animal) allergy,,Keva141,Shanahan202
+3/10/52,,0288abb6-633c-40c3-ba0c-66c7d957727e,a64c55df-b288-4f78-9996-d2ecf0b65c9d,418689008,Allergy to grass pollen,,Keva141,Shanahan202
+3/10/52,,0288abb6-633c-40c3-ba0c-66c7d957727e,a64c55df-b288-4f78-9996-d2ecf0b65c9d,91935009,Allergy to peanuts,,Keva141,Shanahan202
+1/27/66,,5a1848d9-9b49-4529-94f1-e463b502c73b,04e5b80a-5df7-45f4-a245-a15632dd0fd7,419474003,Allergy to mould,,Harris789,Metz686
+1/27/66,,5a1848d9-9b49-4529-94f1-e463b502c73b,04e5b80a-5df7-45f4-a245-a15632dd0fd7,232347008,Dander (animal) allergy,,Harris789,Metz686
+1/27/66,,5a1848d9-9b49-4529-94f1-e463b502c73b,04e5b80a-5df7-45f4-a245-a15632dd0fd7,418689008,Allergy to grass pollen,,Harris789,Metz686
+1/27/66,,5a1848d9-9b49-4529-94f1-e463b502c73b,04e5b80a-5df7-45f4-a245-a15632dd0fd7,419263009,Allergy to tree pollen,,Harris789,Metz686
+1/27/66,,5a1848d9-9b49-4529-94f1-e463b502c73b,04e5b80a-5df7-45f4-a245-a15632dd0fd7,300913006,Shellfish allergy,,Harris789,Metz686
+6/7/58,,f504b982-e99b-4064-ad25-9e5480e769cd,fb994807-4ced-47c8-a0ca-7687d22ad182,417532002,Allergy to fish,,Jerrold404,Purdy2
+4/26/04,12/25/19,097079b1-ff8f-4ee0-8ce3-0ea744ecfa21,9c3c633f-c33c-426c-b771-b6117ba7d6fc,419474003,Allergy to mould,,Maribeth658,D'Amore443
+4/26/04,,097079b1-ff8f-4ee0-8ce3-0ea744ecfa21,9c3c633f-c33c-426c-b771-b6117ba7d6fc,232347008,Dander (animal) allergy,,Maribeth658,D'Amore443
+4/26/04,,097079b1-ff8f-4ee0-8ce3-0ea744ecfa21,9c3c633f-c33c-426c-b771-b6117ba7d6fc,418689008,Allergy to grass pollen,,Maribeth658,D'Amore443
+4/26/04,,097079b1-ff8f-4ee0-8ce3-0ea744ecfa21,9c3c633f-c33c-426c-b771-b6117ba7d6fc,419263009,Allergy to tree pollen,,Maribeth658,D'Amore443
+4/26/04,,097079b1-ff8f-4ee0-8ce3-0ea744ecfa21,9c3c633f-c33c-426c-b771-b6117ba7d6fc,425525006,Allergy to dairy product,,Maribeth658,D'Amore443
+4/26/04,,097079b1-ff8f-4ee0-8ce3-0ea744ecfa21,9c3c633f-c33c-426c-b771-b6117ba7d6fc,714035009,Allergy to soya,,Maribeth658,D'Amore443
+4/26/04,,097079b1-ff8f-4ee0-8ce3-0ea744ecfa21,9c3c633f-c33c-426c-b771-b6117ba7d6fc,91935009,Allergy to peanuts,,Maribeth658,D'Amore443
+9/20/09,,7ea0b41a-3459-4623-a288-0ac335319244,081cb7db-2fc7-4851-b425-dd6749cfa51d,424213003,Allergy to bee venom,,Asa127,Ortiz186
+7/21/59,,076688b0-f0d5-4c45-8bc6-b206684fa9ac,7b116d0a-949d-492f-9294-8a170f5018c3,424213003,Allergy to bee venom,,Manie910,Torp761
+7/21/59,,076688b0-f0d5-4c45-8bc6-b206684fa9ac,7b116d0a-949d-492f-9294-8a170f5018c3,232347008,Dander (animal) allergy,,Manie910,Torp761
+7/21/59,,076688b0-f0d5-4c45-8bc6-b206684fa9ac,7b116d0a-949d-492f-9294-8a170f5018c3,417532002,Allergy to fish,,Manie910,Torp761
+7/21/59,,076688b0-f0d5-4c45-8bc6-b206684fa9ac,7b116d0a-949d-492f-9294-8a170f5018c3,91934008,Allergy to nut,,Manie910,Torp761
+6/7/94,,78a9a8d6-b3b2-47dc-b4a0-867abec7c78f,7c0482a4-04fc-4cdc-9c2b-ff1f28f704db,424213003,Allergy to bee venom,,James276,Wyman904
+6/7/94,,78a9a8d6-b3b2-47dc-b4a0-867abec7c78f,7c0482a4-04fc-4cdc-9c2b-ff1f28f704db,419474003,Allergy to mould,,James276,Wyman904
+6/7/94,,78a9a8d6-b3b2-47dc-b4a0-867abec7c78f,7c0482a4-04fc-4cdc-9c2b-ff1f28f704db,232350006,House dust mite allergy,,James276,Wyman904
+6/7/94,,78a9a8d6-b3b2-47dc-b4a0-867abec7c78f,7c0482a4-04fc-4cdc-9c2b-ff1f28f704db,232347008,Dander (animal) allergy,,James276,Wyman904
+6/7/94,,78a9a8d6-b3b2-47dc-b4a0-867abec7c78f,7c0482a4-04fc-4cdc-9c2b-ff1f28f704db,419263009,Allergy to tree pollen,,James276,Wyman904
+6/7/94,3/9/11,78a9a8d6-b3b2-47dc-b4a0-867abec7c78f,7c0482a4-04fc-4cdc-9c2b-ff1f28f704db,425525006,Allergy to dairy product,,James276,Wyman904
+6/7/94,,78a9a8d6-b3b2-47dc-b4a0-867abec7c78f,7c0482a4-04fc-4cdc-9c2b-ff1f28f704db,91935009,Allergy to peanuts,,James276,Wyman904
+11/6/46,,380e2738-59f4-4f03-a9f7-11d73c648e34,8e21f52f-7c86-4f5f-8c15-ffae237e5dcc,91934008,Allergy to nut,,Lavern240,Kreiger457
+4/12/02,,7525003c-806f-401a-a6ae-751c39112c56,e020c56b-d3d9-46ed-a6c6-f8331cf3c920,419474003,Allergy to mould,,Arletta663,Fay398
+12/9/60,,756c201c-d61c-4495-afc0-09ca95c673a4,c426de30-d2ee-4a34-b3b7-83cf6c30d9c2,91930004,Allergy to eggs,,Annika454,Gutmann970
+5/10/89,,8aeeef59-43b3-4983-8f1d-54f3e8d5ea92,3f6184c9-cdf7-4dae-96e3-9de0f8e4e2c1,424213003,Allergy to bee venom,,Vaughn909,Beatty507
+5/10/89,,8aeeef59-43b3-4983-8f1d-54f3e8d5ea92,3f6184c9-cdf7-4dae-96e3-9de0f8e4e2c1,418689008,Allergy to grass pollen,,Vaughn909,Beatty507
+5/10/89,,8aeeef59-43b3-4983-8f1d-54f3e8d5ea92,3f6184c9-cdf7-4dae-96e3-9de0f8e4e2c1,417532002,Allergy to fish,,Vaughn909,Beatty507
+7/14/47,,13db4bb8-d1dc-4158-a820-d2d1b7084fc4,df30f405-c6e2-404b-8847-7c12f8aa46bf,300913006,Shellfish allergy,,Dulce933,Keebler762
+10/24/11,,c05478a7-a4df-4fd3-8d68-60b9452d4781,6dbce8d2-3bb0-4ff9-8e9b-7152ff03cc0c,300916003,Latex allergy,,Brandon214,Hagenes547
+10/24/11,,c05478a7-a4df-4fd3-8d68-60b9452d4781,6dbce8d2-3bb0-4ff9-8e9b-7152ff03cc0c,424213003,Allergy to bee venom,,Brandon214,Hagenes547
+10/24/11,,c05478a7-a4df-4fd3-8d68-60b9452d4781,6dbce8d2-3bb0-4ff9-8e9b-7152ff03cc0c,419474003,Allergy to mould,,Brandon214,Hagenes547
+10/24/11,,c05478a7-a4df-4fd3-8d68-60b9452d4781,6dbce8d2-3bb0-4ff9-8e9b-7152ff03cc0c,232350006,House dust mite allergy,,Brandon214,Hagenes547
+10/24/11,,c05478a7-a4df-4fd3-8d68-60b9452d4781,6dbce8d2-3bb0-4ff9-8e9b-7152ff03cc0c,232347008,Dander (animal) allergy,,Brandon214,Hagenes547
+10/24/11,,c05478a7-a4df-4fd3-8d68-60b9452d4781,6dbce8d2-3bb0-4ff9-8e9b-7152ff03cc0c,418689008,Allergy to grass pollen,,Brandon214,Hagenes547
+10/24/11,,c05478a7-a4df-4fd3-8d68-60b9452d4781,6dbce8d2-3bb0-4ff9-8e9b-7152ff03cc0c,419263009,Allergy to tree pollen,,Brandon214,Hagenes547
+10/24/11,,c05478a7-a4df-4fd3-8d68-60b9452d4781,6dbce8d2-3bb0-4ff9-8e9b-7152ff03cc0c,91930004,Allergy to eggs,,Brandon214,Hagenes547
+10/24/11,,c05478a7-a4df-4fd3-8d68-60b9452d4781,6dbce8d2-3bb0-4ff9-8e9b-7152ff03cc0c,91935009,Allergy to peanuts,,Brandon214,Hagenes547
+6/10/66,,5dccb2e6-668f-41b4-add4-4020617610b3,a5a24dea-1618-4011-9da4-fca04e50d284,419474003,Allergy to mould,,Pablo44,Lozada73
+6/10/66,,5dccb2e6-668f-41b4-add4-4020617610b3,a5a24dea-1618-4011-9da4-fca04e50d284,232350006,House dust mite allergy,,Pablo44,Lozada73
+6/10/66,,5dccb2e6-668f-41b4-add4-4020617610b3,a5a24dea-1618-4011-9da4-fca04e50d284,232347008,Dander (animal) allergy,,Pablo44,Lozada73
+6/10/66,,5dccb2e6-668f-41b4-add4-4020617610b3,a5a24dea-1618-4011-9da4-fca04e50d284,418689008,Allergy to grass pollen,,Pablo44,Lozada73
+6/10/66,,5dccb2e6-668f-41b4-add4-4020617610b3,a5a24dea-1618-4011-9da4-fca04e50d284,419263009,Allergy to tree pollen,,Pablo44,Lozada73
+6/10/66,,5dccb2e6-668f-41b4-add4-4020617610b3,a5a24dea-1618-4011-9da4-fca04e50d284,91934008,Allergy to nut,,Pablo44,Lozada73
+1/22/09,,e188fafe-c1bb-45dc-9627-4ff4e4bc0ec0,5e4a49f2-47e7-4b76-9120-276a79f1766f,419474003,Allergy to mould,,Frances376,Schumm995
+1/22/09,,e188fafe-c1bb-45dc-9627-4ff4e4bc0ec0,5e4a49f2-47e7-4b76-9120-276a79f1766f,232347008,Dander (animal) allergy,,Frances376,Schumm995
+1/22/09,,e188fafe-c1bb-45dc-9627-4ff4e4bc0ec0,5e4a49f2-47e7-4b76-9120-276a79f1766f,418689008,Allergy to grass pollen,,Frances376,Schumm995
+1/22/09,,e188fafe-c1bb-45dc-9627-4ff4e4bc0ec0,5e4a49f2-47e7-4b76-9120-276a79f1766f,419263009,Allergy to tree pollen,,Frances376,Schumm995
+1/22/09,,e188fafe-c1bb-45dc-9627-4ff4e4bc0ec0,5e4a49f2-47e7-4b76-9120-276a79f1766f,420174000,Allergy to wheat,,Frances376,Schumm995
+1/22/09,,e188fafe-c1bb-45dc-9627-4ff4e4bc0ec0,5e4a49f2-47e7-4b76-9120-276a79f1766f,417532002,Allergy to fish,,Frances376,Schumm995
+1/22/09,,e188fafe-c1bb-45dc-9627-4ff4e4bc0ec0,5e4a49f2-47e7-4b76-9120-276a79f1766f,91935009,Allergy to peanuts,,Frances376,Schumm995
+3/6/17,,a0a64d10-5b1e-4e17-953a-efccb0c860da,62389b17-3877-4f03-8a8a-54367c0237a1,420174000,Allergy to wheat,,Eugene421,Jerde200
+12/21/79,,f0f6572b-1588-4828-bb8b-e3148692e536,aec2f3bd-1530-4c10-852c-9614328ab978,420174000,Allergy to wheat,,Barney639,Huels583
+12/21/79,,f0f6572b-1588-4828-bb8b-e3148692e536,aec2f3bd-1530-4c10-852c-9614328ab978,91934008,Allergy to nut,,Barney639,Huels583
+10/19/13,,a0fa2ed6-1b9a-4e35-9126-7d8a5c891f42,4b64f056-bc75-473e-a392-2a348349a199,91934008,Allergy to nut,,Maegan141,Barrows492
+9/7/11,,b4d1167c-9adf-40e0-8295-4c3f25fdb3b4,1a2c3225-add3-422b-937b-0bf791e66bb4,419474003,Allergy to mould,,Yong583,Zulauf375
+9/7/11,,b4d1167c-9adf-40e0-8295-4c3f25fdb3b4,1a2c3225-add3-422b-937b-0bf791e66bb4,300913006,Shellfish allergy,,Yong583,Zulauf375
+8/26/64,,a4222dad-09bb-4049-b3dc-01b79f41012f,51f66013-e9ba-442b-b720-4aa68fba0a9c,419474003,Allergy to mould,,Colin861,Jacobson885
+8/26/64,,a4222dad-09bb-4049-b3dc-01b79f41012f,51f66013-e9ba-442b-b720-4aa68fba0a9c,419263009,Allergy to tree pollen,,Colin861,Jacobson885
+8/26/64,,a4222dad-09bb-4049-b3dc-01b79f41012f,51f66013-e9ba-442b-b720-4aa68fba0a9c,300913006,Shellfish allergy,,Colin861,Jacobson885
+8/26/64,,a4222dad-09bb-4049-b3dc-01b79f41012f,51f66013-e9ba-442b-b720-4aa68fba0a9c,417532002,Allergy to fish,,Colin861,Jacobson885
+4/9/38,,4f9dcdaa-fb47-412b-8288-03f8cbbc321e,860fcb5c-c0d0-4581-b586-54ffc68970c6,91934008,Allergy to nut,,Mahalia897,Wyman904
+10/2/90,,51ab042b-d75e-45f9-ad85-019be3a051bf,3b969776-f436-48ac-91fb-6502134fc01d,300916003,Latex allergy,,Teodoro374,Purdy2
+10/2/90,,51ab042b-d75e-45f9-ad85-019be3a051bf,3b969776-f436-48ac-91fb-6502134fc01d,424213003,Allergy to bee venom,,Teodoro374,Purdy2
+5/14/14,,b16ca449-bc14-4619-a936-07f6f3db7119,b2aba915-19b1-4ba8-a6a5-ec5346ceb2f0,300916003,Latex allergy,,Albert312,Kshlerin58
+5/14/14,,b16ca449-bc14-4619-a936-07f6f3db7119,b2aba915-19b1-4ba8-a6a5-ec5346ceb2f0,424213003,Allergy to bee venom,,Albert312,Kshlerin58
+5/14/14,,b16ca449-bc14-4619-a936-07f6f3db7119,b2aba915-19b1-4ba8-a6a5-ec5346ceb2f0,419474003,Allergy to mould,,Albert312,Kshlerin58
+5/14/14,,b16ca449-bc14-4619-a936-07f6f3db7119,b2aba915-19b1-4ba8-a6a5-ec5346ceb2f0,232350006,House dust mite allergy,,Albert312,Kshlerin58
+5/14/14,,b16ca449-bc14-4619-a936-07f6f3db7119,b2aba915-19b1-4ba8-a6a5-ec5346ceb2f0,232347008,Dander (animal) allergy,,Albert312,Kshlerin58
+5/14/14,,b16ca449-bc14-4619-a936-07f6f3db7119,b2aba915-19b1-4ba8-a6a5-ec5346ceb2f0,418689008,Allergy to grass pollen,,Albert312,Kshlerin58
+5/14/14,,b16ca449-bc14-4619-a936-07f6f3db7119,b2aba915-19b1-4ba8-a6a5-ec5346ceb2f0,419263009,Allergy to tree pollen,,Albert312,Kshlerin58
+5/14/14,,b16ca449-bc14-4619-a936-07f6f3db7119,b2aba915-19b1-4ba8-a6a5-ec5346ceb2f0,91930004,Allergy to eggs,,Albert312,Kshlerin58
+5/14/14,,b16ca449-bc14-4619-a936-07f6f3db7119,b2aba915-19b1-4ba8-a6a5-ec5346ceb2f0,420174000,Allergy to wheat,,Albert312,Kshlerin58
+3/17/98,2/5/14,0e1ad739-81d1-4170-841d-414ddc97c93a,99ff05be-e932-4a00-b691-b2d974bc5851,419474003,Allergy to mould,,Vanda440,Cruickshank494
+3/17/98,,0e1ad739-81d1-4170-841d-414ddc97c93a,99ff05be-e932-4a00-b691-b2d974bc5851,232350006,House dust mite allergy,,Vanda440,Cruickshank494
+3/17/98,,0e1ad739-81d1-4170-841d-414ddc97c93a,99ff05be-e932-4a00-b691-b2d974bc5851,232347008,Dander (animal) allergy,,Vanda440,Cruickshank494
+3/17/98,2/5/14,0e1ad739-81d1-4170-841d-414ddc97c93a,99ff05be-e932-4a00-b691-b2d974bc5851,418689008,Allergy to grass pollen,,Vanda440,Cruickshank494
+3/17/98,,0e1ad739-81d1-4170-841d-414ddc97c93a,99ff05be-e932-4a00-b691-b2d974bc5851,419263009,Allergy to tree pollen,,Vanda440,Cruickshank494
+3/17/98,10/5/15,0e1ad739-81d1-4170-841d-414ddc97c93a,99ff05be-e932-4a00-b691-b2d974bc5851,91930004,Allergy to eggs,,Vanda440,Cruickshank494
+3/17/98,,0e1ad739-81d1-4170-841d-414ddc97c93a,99ff05be-e932-4a00-b691-b2d974bc5851,300913006,Shellfish allergy,,Vanda440,Cruickshank494
+7/17/79,,13c98b78-98e9-41fb-a29a-686d005d98f7,ab874609-485e-43d3-a402-aaa88961445c,424213003,Allergy to bee venom,,Tommy814,Bechtelar572
+1/14/00,4/4/16,1e52e4fe-13c7-41ad-8b3e-5933fdd553c4,4dea508e-d815-4a83-8029-ddf9df30e97e,300916003,Latex allergy,,Phung894,Kihn564
+1/14/00,,1e52e4fe-13c7-41ad-8b3e-5933fdd553c4,4dea508e-d815-4a83-8029-ddf9df30e97e,424213003,Allergy to bee venom,,Phung894,Kihn564
+1/14/00,,1e52e4fe-13c7-41ad-8b3e-5933fdd553c4,4dea508e-d815-4a83-8029-ddf9df30e97e,419474003,Allergy to mould,,Phung894,Kihn564
+1/14/00,,1e52e4fe-13c7-41ad-8b3e-5933fdd553c4,4dea508e-d815-4a83-8029-ddf9df30e97e,232350006,House dust mite allergy,,Phung894,Kihn564
+1/14/00,6/13/15,1e52e4fe-13c7-41ad-8b3e-5933fdd553c4,4dea508e-d815-4a83-8029-ddf9df30e97e,232347008,Dander (animal) allergy,,Phung894,Kihn564
+1/14/00,6/13/15,1e52e4fe-13c7-41ad-8b3e-5933fdd553c4,4dea508e-d815-4a83-8029-ddf9df30e97e,418689008,Allergy to grass pollen,,Phung894,Kihn564
+1/14/00,6/13/15,1e52e4fe-13c7-41ad-8b3e-5933fdd553c4,4dea508e-d815-4a83-8029-ddf9df30e97e,419263009,Allergy to tree pollen,,Phung894,Kihn564
+1/14/00,,1e52e4fe-13c7-41ad-8b3e-5933fdd553c4,4dea508e-d815-4a83-8029-ddf9df30e97e,420174000,Allergy to wheat,,Phung894,Kihn564
+8/4/63,,92709d5b-63d2-4e47-b857-dccb09724ea3,3da0bdc7-2715-4b76-8cc4-2272a920eab3,419474003,Allergy to mould,,Diego848,Witting912
+8/4/63,,92709d5b-63d2-4e47-b857-dccb09724ea3,3da0bdc7-2715-4b76-8cc4-2272a920eab3,232350006,House dust mite allergy,,Diego848,Witting912
+8/4/63,,92709d5b-63d2-4e47-b857-dccb09724ea3,3da0bdc7-2715-4b76-8cc4-2272a920eab3,232347008,Dander (animal) allergy,,Diego848,Witting912
+8/4/63,,92709d5b-63d2-4e47-b857-dccb09724ea3,3da0bdc7-2715-4b76-8cc4-2272a920eab3,300913006,Shellfish allergy,,Diego848,Witting912
+7/17/19,,22415347-d2fb-4357-aaeb-ddba23e5cdf0,15951b86-bc15-4467-8d07-1f5177bfd59d,419474003,Allergy to mould,,Buford910,Schultz619
+7/17/19,,22415347-d2fb-4357-aaeb-ddba23e5cdf0,15951b86-bc15-4467-8d07-1f5177bfd59d,232350006,House dust mite allergy,,Buford910,Schultz619
+7/17/19,,22415347-d2fb-4357-aaeb-ddba23e5cdf0,15951b86-bc15-4467-8d07-1f5177bfd59d,232347008,Dander (animal) allergy,,Buford910,Schultz619
+7/17/19,,22415347-d2fb-4357-aaeb-ddba23e5cdf0,15951b86-bc15-4467-8d07-1f5177bfd59d,419263009,Allergy to tree pollen,,Buford910,Schultz619
+7/17/19,,22415347-d2fb-4357-aaeb-ddba23e5cdf0,15951b86-bc15-4467-8d07-1f5177bfd59d,425525006,Allergy to dairy product,,Buford910,Schultz619
+7/17/19,,22415347-d2fb-4357-aaeb-ddba23e5cdf0,15951b86-bc15-4467-8d07-1f5177bfd59d,91930004,Allergy to eggs,,Buford910,Schultz619
+7/17/19,,22415347-d2fb-4357-aaeb-ddba23e5cdf0,15951b86-bc15-4467-8d07-1f5177bfd59d,420174000,Allergy to wheat,,Buford910,Schultz619
+7/17/19,,22415347-d2fb-4357-aaeb-ddba23e5cdf0,15951b86-bc15-4467-8d07-1f5177bfd59d,300913006,Shellfish allergy,,Buford910,Schultz619
+6/13/03,9/8/18,8db0d104-4c3f-40d3-bcf5-f5eb81b7308f,e75460f0-5f5c-4aa2-ab0b-200310a96c63,419474003,Allergy to mould,,Essie785,Kutch271
+6/13/03,9/8/18,8db0d104-4c3f-40d3-bcf5-f5eb81b7308f,e75460f0-5f5c-4aa2-ab0b-200310a96c63,232350006,House dust mite allergy,,Essie785,Kutch271
+6/13/03,9/8/18,8db0d104-4c3f-40d3-bcf5-f5eb81b7308f,e75460f0-5f5c-4aa2-ab0b-200310a96c63,232347008,Dander (animal) allergy,,Essie785,Kutch271
+6/13/03,,8db0d104-4c3f-40d3-bcf5-f5eb81b7308f,e75460f0-5f5c-4aa2-ab0b-200310a96c63,418689008,Allergy to grass pollen,,Essie785,Kutch271
+6/13/03,,8db0d104-4c3f-40d3-bcf5-f5eb81b7308f,e75460f0-5f5c-4aa2-ab0b-200310a96c63,419263009,Allergy to tree pollen,,Essie785,Kutch271
+6/13/03,5/2/19,8db0d104-4c3f-40d3-bcf5-f5eb81b7308f,e75460f0-5f5c-4aa2-ab0b-200310a96c63,91930004,Allergy to eggs,,Essie785,Kutch271
+6/13/03,5/2/19,8db0d104-4c3f-40d3-bcf5-f5eb81b7308f,e75460f0-5f5c-4aa2-ab0b-200310a96c63,420174000,Allergy to wheat,,Essie785,Kutch271
+6/13/03,,8db0d104-4c3f-40d3-bcf5-f5eb81b7308f,e75460f0-5f5c-4aa2-ab0b-200310a96c63,91935009,Allergy to peanuts,,Essie785,Kutch271
+9/6/90,,1030d86d-86f5-4195-962a-48895ca085ab,019be3d9-186c-4870-8815-c8cba8be683e,424213003,Allergy to bee venom,,Orval846,Parisian75
+9/6/90,,1030d86d-86f5-4195-962a-48895ca085ab,019be3d9-186c-4870-8815-c8cba8be683e,419474003,Allergy to mould,,Orval846,Parisian75
+9/6/90,,1030d86d-86f5-4195-962a-48895ca085ab,019be3d9-186c-4870-8815-c8cba8be683e,232350006,House dust mite allergy,,Orval846,Parisian75
+9/6/90,,1030d86d-86f5-4195-962a-48895ca085ab,019be3d9-186c-4870-8815-c8cba8be683e,232347008,Dander (animal) allergy,,Orval846,Parisian75
+12/6/42,,703e4c46-ded2-4797-97fe-57fedda2825f,73cbbd1f-b1fa-44a8-90fd-af5d3bd17f4f,91934008,Allergy to nut,,Yuette836,Smitham825
+4/9/83,,b37c9b35-6fea-4570-b7f6-379baf4c9399,cc65c8d0-1e3b-4c47-aa9f-43bd15bb79c6,424213003,Allergy to bee venom,,Stephany248,Larson43
+4/9/83,,b37c9b35-6fea-4570-b7f6-379baf4c9399,cc65c8d0-1e3b-4c47-aa9f-43bd15bb79c6,419474003,Allergy to mould,,Stephany248,Larson43
+4/9/83,,b37c9b35-6fea-4570-b7f6-379baf4c9399,cc65c8d0-1e3b-4c47-aa9f-43bd15bb79c6,232350006,House dust mite allergy,,Stephany248,Larson43
+4/9/83,,b37c9b35-6fea-4570-b7f6-379baf4c9399,cc65c8d0-1e3b-4c47-aa9f-43bd15bb79c6,232347008,Dander (animal) allergy,,Stephany248,Larson43
+4/9/83,,b37c9b35-6fea-4570-b7f6-379baf4c9399,cc65c8d0-1e3b-4c47-aa9f-43bd15bb79c6,418689008,Allergy to grass pollen,,Stephany248,Larson43
+4/9/83,,b37c9b35-6fea-4570-b7f6-379baf4c9399,cc65c8d0-1e3b-4c47-aa9f-43bd15bb79c6,419263009,Allergy to tree pollen,,Stephany248,Larson43
+4/9/83,,b37c9b35-6fea-4570-b7f6-379baf4c9399,cc65c8d0-1e3b-4c47-aa9f-43bd15bb79c6,425525006,Allergy to dairy product,,Stephany248,Larson43
+4/9/83,,b37c9b35-6fea-4570-b7f6-379baf4c9399,cc65c8d0-1e3b-4c47-aa9f-43bd15bb79c6,300913006,Shellfish allergy,,Stephany248,Larson43
+4/9/83,,b37c9b35-6fea-4570-b7f6-379baf4c9399,cc65c8d0-1e3b-4c47-aa9f-43bd15bb79c6,417532002,Allergy to fish,,Stephany248,Larson43
+8/19/15,,b1b10f6e-e97a-426a-9581-f1a5c29b6e05,31953388-58de-49eb-af31-437b88156a9e,232347008,Dander (animal) allergy,,Richie600,Steuber698
+8/19/15,,b1b10f6e-e97a-426a-9581-f1a5c29b6e05,31953388-58de-49eb-af31-437b88156a9e,300913006,Shellfish allergy,,Richie600,Steuber698
+11/21/08,,0aaa2164-8de6-4152-8674-14d254aae13a,4c82c24d-7a02-49a9-ba7e-d1b002ab96dd,419474003,Allergy to mould,,Drew592,Kunze215
+11/21/08,,0aaa2164-8de6-4152-8674-14d254aae13a,4c82c24d-7a02-49a9-ba7e-d1b002ab96dd,232347008,Dander (animal) allergy,,Drew592,Kunze215
+11/21/08,,0aaa2164-8de6-4152-8674-14d254aae13a,4c82c24d-7a02-49a9-ba7e-d1b002ab96dd,418689008,Allergy to grass pollen,,Drew592,Kunze215
+11/21/08,,0aaa2164-8de6-4152-8674-14d254aae13a,4c82c24d-7a02-49a9-ba7e-d1b002ab96dd,419263009,Allergy to tree pollen,,Drew592,Kunze215
+11/21/08,,0aaa2164-8de6-4152-8674-14d254aae13a,4c82c24d-7a02-49a9-ba7e-d1b002ab96dd,425525006,Allergy to dairy product,,Drew592,Kunze215
+11/21/08,,0aaa2164-8de6-4152-8674-14d254aae13a,4c82c24d-7a02-49a9-ba7e-d1b002ab96dd,91930004,Allergy to eggs,,Drew592,Kunze215
+11/21/08,,0aaa2164-8de6-4152-8674-14d254aae13a,4c82c24d-7a02-49a9-ba7e-d1b002ab96dd,417532002,Allergy to fish,,Drew592,Kunze215
+4/11/02,,96942a16-75bc-4026-bd63-e985b0ca1d6d,ea307702-bc41-4f60-b662-f0b2d99553fc,424213003,Allergy to bee venom,,Lavern240,Koss676
+4/11/02,,96942a16-75bc-4026-bd63-e985b0ca1d6d,ea307702-bc41-4f60-b662-f0b2d99553fc,419474003,Allergy to mould,,Lavern240,Koss676
+4/11/02,9/18/16,96942a16-75bc-4026-bd63-e985b0ca1d6d,ea307702-bc41-4f60-b662-f0b2d99553fc,232350006,House dust mite allergy,,Lavern240,Koss676
+4/11/02,9/18/16,96942a16-75bc-4026-bd63-e985b0ca1d6d,ea307702-bc41-4f60-b662-f0b2d99553fc,232347008,Dander (animal) allergy,,Lavern240,Koss676
+4/11/02,9/18/16,96942a16-75bc-4026-bd63-e985b0ca1d6d,ea307702-bc41-4f60-b662-f0b2d99553fc,418689008,Allergy to grass pollen,,Lavern240,Koss676
+4/11/02,9/18/16,96942a16-75bc-4026-bd63-e985b0ca1d6d,ea307702-bc41-4f60-b662-f0b2d99553fc,419263009,Allergy to tree pollen,,Lavern240,Koss676
+6/27/71,,55506d51-2c6a-4608-aae3-7cb2f111c926,aad92a63-f088-40b9-9ff9-35f1d9b00b7e,300916003,Latex allergy,,Rosalind66,Torp761
+6/27/71,,55506d51-2c6a-4608-aae3-7cb2f111c926,aad92a63-f088-40b9-9ff9-35f1d9b00b7e,232347008,Dander (animal) allergy,,Rosalind66,Torp761
+1/29/81,,df7c1d66-eac2-49bd-9d12-ee17e8758f68,a232db22-565f-4559-bb56-edf9021b74b2,419474003,Allergy to mould,,Iraida50,Oberbrunner298
+1/29/81,,df7c1d66-eac2-49bd-9d12-ee17e8758f68,a232db22-565f-4559-bb56-edf9021b74b2,232347008,Dander (animal) allergy,,Iraida50,Oberbrunner298
+1/29/81,,df7c1d66-eac2-49bd-9d12-ee17e8758f68,a232db22-565f-4559-bb56-edf9021b74b2,418689008,Allergy to grass pollen,,Iraida50,Oberbrunner298
+1/29/81,,df7c1d66-eac2-49bd-9d12-ee17e8758f68,a232db22-565f-4559-bb56-edf9021b74b2,419263009,Allergy to tree pollen,,Iraida50,Oberbrunner298
+1/29/81,,df7c1d66-eac2-49bd-9d12-ee17e8758f68,a232db22-565f-4559-bb56-edf9021b74b2,91935009,Allergy to peanuts,,Iraida50,Oberbrunner298
+7/20/78,,68878f91-5962-4ef2-83e7-43b8298c1708,95099931-0042-4524-b808-dd6b6447fc0e,424213003,Allergy to bee venom,,Ali918,Maggio310
+7/20/78,,68878f91-5962-4ef2-83e7-43b8298c1708,95099931-0042-4524-b808-dd6b6447fc0e,419474003,Allergy to mould,,Ali918,Maggio310
+7/20/78,,68878f91-5962-4ef2-83e7-43b8298c1708,95099931-0042-4524-b808-dd6b6447fc0e,232350006,House dust mite allergy,,Ali918,Maggio310
+7/20/78,,68878f91-5962-4ef2-83e7-43b8298c1708,95099931-0042-4524-b808-dd6b6447fc0e,232347008,Dander (animal) allergy,,Ali918,Maggio310
+7/20/78,,68878f91-5962-4ef2-83e7-43b8298c1708,95099931-0042-4524-b808-dd6b6447fc0e,418689008,Allergy to grass pollen,,Ali918,Maggio310
+7/20/78,,68878f91-5962-4ef2-83e7-43b8298c1708,95099931-0042-4524-b808-dd6b6447fc0e,419263009,Allergy to tree pollen,,Ali918,Maggio310
+7/20/78,,68878f91-5962-4ef2-83e7-43b8298c1708,95099931-0042-4524-b808-dd6b6447fc0e,91935009,Allergy to peanuts,,Ali918,Maggio310
+7/16/70,,6c7a3894-fa93-418f-b086-4bf001b94a50,3de3842d-7760-4bda-a6bd-59f13d67af40,419474003,Allergy to mould,,Santo387,Casper496
+7/16/70,,6c7a3894-fa93-418f-b086-4bf001b94a50,3de3842d-7760-4bda-a6bd-59f13d67af40,232347008,Dander (animal) allergy,,Santo387,Casper496
+7/23/63,,1c2aa038-9366-4c7d-9a3e-52cb753a670f,c90b2536-b388-479c-aa7e-3406fe4c2211,300916003,Latex allergy,,Homero668,Carrillo204
+7/23/63,,1c2aa038-9366-4c7d-9a3e-52cb753a670f,c90b2536-b388-479c-aa7e-3406fe4c2211,424213003,Allergy to bee venom,,Homero668,Carrillo204
+7/23/63,,1c2aa038-9366-4c7d-9a3e-52cb753a670f,c90b2536-b388-479c-aa7e-3406fe4c2211,419474003,Allergy to mould,,Homero668,Carrillo204
+7/23/63,,1c2aa038-9366-4c7d-9a3e-52cb753a670f,c90b2536-b388-479c-aa7e-3406fe4c2211,232350006,House dust mite allergy,,Homero668,Carrillo204
+7/23/63,,1c2aa038-9366-4c7d-9a3e-52cb753a670f,c90b2536-b388-479c-aa7e-3406fe4c2211,232347008,Dander (animal) allergy,,Homero668,Carrillo204
+7/23/63,,1c2aa038-9366-4c7d-9a3e-52cb753a670f,c90b2536-b388-479c-aa7e-3406fe4c2211,418689008,Allergy to grass pollen,,Homero668,Carrillo204
+7/23/63,,1c2aa038-9366-4c7d-9a3e-52cb753a670f,c90b2536-b388-479c-aa7e-3406fe4c2211,419263009,Allergy to tree pollen,,Homero668,Carrillo204
+7/23/63,,1c2aa038-9366-4c7d-9a3e-52cb753a670f,c90b2536-b388-479c-aa7e-3406fe4c2211,300913006,Shellfish allergy,,Homero668,Carrillo204
+7/23/63,,1c2aa038-9366-4c7d-9a3e-52cb753a670f,c90b2536-b388-479c-aa7e-3406fe4c2211,417532002,Allergy to fish,,Homero668,Carrillo204
+7/23/63,,1c2aa038-9366-4c7d-9a3e-52cb753a670f,c90b2536-b388-479c-aa7e-3406fe4c2211,91935009,Allergy to peanuts,,Homero668,Carrillo204
+11/30/87,,8d202c65-427d-4190-8c28-3aa27e1a9f4c,16bc6376-a1cc-4d63-8307-c5d7479dc021,424213003,Allergy to bee venom,,Mariam937,Bogisich202
+11/30/87,,8d202c65-427d-4190-8c28-3aa27e1a9f4c,16bc6376-a1cc-4d63-8307-c5d7479dc021,419474003,Allergy to mould,,Mariam937,Bogisich202
+11/30/87,,8d202c65-427d-4190-8c28-3aa27e1a9f4c,16bc6376-a1cc-4d63-8307-c5d7479dc021,232350006,House dust mite allergy,,Mariam937,Bogisich202
+11/30/87,,8d202c65-427d-4190-8c28-3aa27e1a9f4c,16bc6376-a1cc-4d63-8307-c5d7479dc021,232347008,Dander (animal) allergy,,Mariam937,Bogisich202
+11/30/87,,8d202c65-427d-4190-8c28-3aa27e1a9f4c,16bc6376-a1cc-4d63-8307-c5d7479dc021,419263009,Allergy to tree pollen,,Mariam937,Bogisich202
+11/30/87,,8d202c65-427d-4190-8c28-3aa27e1a9f4c,16bc6376-a1cc-4d63-8307-c5d7479dc021,91934008,Allergy to nut,,Mariam937,Bogisich202
+11/30/87,,8d202c65-427d-4190-8c28-3aa27e1a9f4c,16bc6376-a1cc-4d63-8307-c5d7479dc021,91935009,Allergy to peanuts,,Mariam937,Bogisich202
+5/18/03,,8bf8631f-2fd4-4dc7-af2b-c400499fedfc,90ea604b-e2bf-4ca0-a46b-dc480f2f2a03,419474003,Allergy to mould,,Enriqueta274,Ferry570
+5/18/03,,8bf8631f-2fd4-4dc7-af2b-c400499fedfc,90ea604b-e2bf-4ca0-a46b-dc480f2f2a03,300913006,Shellfish allergy,,Enriqueta274,Ferry570
+7/10/79,,c5d6bdfa-5554-4927-8fa8-794e5514cb56,e42aa828-ad33-404f-af29-f1f9f17bd7f5,417532002,Allergy to fish,,Edmundo94,Romaguera67
+9/23/65,,2a6d1e58-88eb-4be0-b6b4-59a471257c2e,f7ff5032-50cc-480e-90ca-848c85d6d014,419474003,Allergy to mould,,Nikia872,Herzog843
+9/23/65,,2a6d1e58-88eb-4be0-b6b4-59a471257c2e,f7ff5032-50cc-480e-90ca-848c85d6d014,232347008,Dander (animal) allergy,,Nikia872,Herzog843
+9/23/65,,2a6d1e58-88eb-4be0-b6b4-59a471257c2e,f7ff5032-50cc-480e-90ca-848c85d6d014,418689008,Allergy to grass pollen,,Nikia872,Herzog843
+9/23/65,,2a6d1e58-88eb-4be0-b6b4-59a471257c2e,f7ff5032-50cc-480e-90ca-848c85d6d014,419263009,Allergy to tree pollen,,Nikia872,Herzog843
+9/23/65,,2a6d1e58-88eb-4be0-b6b4-59a471257c2e,f7ff5032-50cc-480e-90ca-848c85d6d014,420174000,Allergy to wheat,,Nikia872,Herzog843
+9/23/65,,2a6d1e58-88eb-4be0-b6b4-59a471257c2e,f7ff5032-50cc-480e-90ca-848c85d6d014,300913006,Shellfish allergy,,Nikia872,Herzog843
+9/23/65,,2a6d1e58-88eb-4be0-b6b4-59a471257c2e,f7ff5032-50cc-480e-90ca-848c85d6d014,91935009,Allergy to peanuts,,Nikia872,Herzog843
+1/3/00,6/25/16,e6ff4bf9-09c2-4976-aa84-cca142207cf8,6c760807-a6b7-4af4-8d50-f32325803448,300916003,Latex allergy,,Corie618,Howe413
+1/3/00,,e6ff4bf9-09c2-4976-aa84-cca142207cf8,6c760807-a6b7-4af4-8d50-f32325803448,419474003,Allergy to mould,,Corie618,Howe413
+1/3/00,,e6ff4bf9-09c2-4976-aa84-cca142207cf8,6c760807-a6b7-4af4-8d50-f32325803448,232350006,House dust mite allergy,,Corie618,Howe413
+1/3/00,,e6ff4bf9-09c2-4976-aa84-cca142207cf8,6c760807-a6b7-4af4-8d50-f32325803448,232347008,Dander (animal) allergy,,Corie618,Howe413
+1/3/00,,e6ff4bf9-09c2-4976-aa84-cca142207cf8,6c760807-a6b7-4af4-8d50-f32325803448,418689008,Allergy to grass pollen,,Corie618,Howe413
+1/3/00,,e6ff4bf9-09c2-4976-aa84-cca142207cf8,6c760807-a6b7-4af4-8d50-f32325803448,419263009,Allergy to tree pollen,,Corie618,Howe413
+1/3/00,,e6ff4bf9-09c2-4976-aa84-cca142207cf8,6c760807-a6b7-4af4-8d50-f32325803448,91930004,Allergy to eggs,,Corie618,Howe413
+1/3/00,,e6ff4bf9-09c2-4976-aa84-cca142207cf8,6c760807-a6b7-4af4-8d50-f32325803448,91935009,Allergy to peanuts,,Corie618,Howe413
+9/12/15,,13b9a676-7cfd-4b7c-bdb6-43ec52b7c919,bbd17366-0801-45ee-8589-0f3eb31c7d0d,419474003,Allergy to mould,,Karma832,Wolff180

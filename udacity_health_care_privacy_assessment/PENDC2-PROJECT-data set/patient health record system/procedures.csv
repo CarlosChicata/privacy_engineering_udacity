@@ -1,0 +1,387 @@
+﻿DATE,PATIENT,ENCOUNTER,CODE,DESCRIPTION,BASE_COST,REASONCODE,REASONDESCRIPTION
+2012-11-02T13:07:42Z,45c5c779-d2f9-4bf1-b6ff-deb7ff1fd54c,bd646a4f-1f33-41a0-9f58-84128ea18b99,430193006,Medication Reconciliation (procedure),708.11,,
+2015-11-06T13:07:42Z,45c5c779-d2f9-4bf1-b6ff-deb7ff1fd54c,8d480fd2-5716-430c-83ee-2745815123dd,430193006,Medication Reconciliation (procedure),518.54,,
+2012-04-25T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,19229005-b17d-4666-9a7b-c00696f4109b,269911007,Sputum examination (procedure),6951.45,10509002,Acute bronchitis (disorder)
+2014-07-25T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,87472dc6-c0e5-4a54-8eb5-6cf438061429,46706006,Replacement of contraceptive intrauterine device,11603.37,,
+2016-01-08T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,06518ed7-a5be-4ce6-bf80-4e29ad945551,241055006,Mammogram - symptomatic (procedure),516.65,,
+2016-01-08T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,06518ed7-a5be-4ce6-bf80-4e29ad945551,1.571E+12,Ultrasonography of bilateral breasts (procedure),516.65,,
+2016-01-08T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,06518ed7-a5be-4ce6-bf80-4e29ad945551,122548005,Biopsy of breast (procedure),516.65,,
+2016-01-08T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,06518ed7-a5be-4ce6-bf80-4e29ad945551,434363004,Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2016-01-08T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,06518ed7-a5be-4ce6-bf80-4e29ad945551,433114000,Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2016-01-15T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,464506ac-6794-4aaf-92bb-d8bd355d1311,396487001,Sentinel lymph node biopsy (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2016-01-15T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,464506ac-6794-4aaf-92bb-d8bd355d1311,443497002,Excision of sentinel lymph node (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2016-01-15T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,464506ac-6794-4aaf-92bb-d8bd355d1311,69031006,Excision of breast tissue (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2016-01-21T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,dfd39bd5-d3c6-49a1-b5e4-39f5528b380d,367336001,Chemotherapy (procedure),516.65,,
+2016-01-29T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,5ddddccd-87b4-43e1-9c62-52e29f57a9bc,430193006,Medication Reconciliation (procedure),673.7,,
+2016-02-11T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,692f8794-0f35-4a97-8d16-154ac69b248a,367336001,Chemotherapy (procedure),516.65,,
+2016-03-02T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,9b94617a-910b-4b7d-9997-ad07d2389280,367336001,Chemotherapy (procedure),516.65,,
+2016-03-24T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,63f840e6-ceb8-4975-800d-2ec59871deb5,367336001,Chemotherapy (procedure),516.65,,
+2016-04-12T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,a330dc13-c028-416b-bc97-befb6eac15c4,367336001,Chemotherapy (procedure),516.65,,
+2016-05-03T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,e4078b1f-ab1a-4f81-b669-85e1ccde6490,367336001,Chemotherapy (procedure),516.65,,
+2016-05-25T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,349e051b-df91-4fe9-9c10-dd03e05a5eda,367336001,Chemotherapy (procedure),516.65,,
+2016-06-14T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,dd1c59ce-5dfc-493e-a96a-17995c0486fb,367336001,Chemotherapy (procedure),516.65,,
+2017-06-09T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,306c361b-3ab2-4835-bd68-b4848ae084aa,71651007,Mammography (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2017-06-09T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,57451d5d-e6e1-43a4-8f12-ada0c1b0ce89,35025007,Manual pelvic examination (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2017-06-09T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,57451d5d-e6e1-43a4-8f12-ada0c1b0ce89,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),1834.43,254837009,Malignant neoplasm of breast (disorder)
+2017-06-12T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,440c9048-c324-4856-bf67-af1766e3984a,169553002,Insertion of subcutaneous contraceptive,10999.19,,
+2018-02-02T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,e9c1b585-c399-4694-a08f-ad8aac25b43a,430193006,Medication Reconciliation (procedure),418.53,,
+2018-05-11T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,47eaa7d3-9e53-45c9-a5c5-78bad72f541c,71651007,Mammography (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2018-05-11T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,f4b86986-dfbe-4c45-bb78-419793438148,35025007,Manual pelvic examination (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2018-05-11T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,f4b86986-dfbe-4c45-bb78-419793438148,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),3629.71,254837009,Malignant neoplasm of breast (disorder)
+2019-04-12T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,b616aae5-8431-4ea5-8605-2244a7f6cce6,71651007,Mammography (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2019-04-12T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,412ba6e6-1ab5-444f-aed4-73c6271dd556,35025007,Manual pelvic examination (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2019-04-12T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,412ba6e6-1ab5-444f-aed4-73c6271dd556,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2875.7,254837009,Malignant neoplasm of breast (disorder)
+2019-07-26T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,94b649f7-048a-4184-a720-3e8fb4868690,46706006,Replacement of contraceptive intrauterine device,14072.69,,
+2020-01-24T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,81cfb1c9-b3c8-4381-b05c-27d17dd166c7,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+2020-03-20T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,3725f3e9-21bf-4aa1-b7d9-5c6d0207e789,71651007,Mammography (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2020-03-20T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,4b02862c-db8d-41ea-8263-c8b0ed06cb9a,35025007,Manual pelvic examination (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2020-03-20T02:07:14Z,28f36cfa-7696-4f73-ac4f-427e802199d9,4b02862c-db8d-41ea-8263-c8b0ed06cb9a,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),1638.73,254837009,Malignant neoplasm of breast (disorder)
+2010-06-19T12:03:15Z,202b3372-a1d4-42bd-b4b7-b712bd24dc98,450a2b30-4cfb-4dca-80be-5ee3d6b91caf,169553002,Insertion of subcutaneous contraceptive,10389.63,,
+2010-08-01T12:03:15Z,202b3372-a1d4-42bd-b4b7-b712bd24dc98,3da49909-4e5e-4b25-ad74-ef8ab90a200d,76601001,Intramuscular injection,3653.93,,
+2010-10-31T12:03:15Z,202b3372-a1d4-42bd-b4b7-b712bd24dc98,802dccce-db0e-49cf-8827-6d28da29a03b,76601001,Intramuscular injection,2326.84,,
+2011-01-09T12:03:15Z,202b3372-a1d4-42bd-b4b7-b712bd24dc98,1f8bdfb0-8ea7-4290-8d70-8ada5608ab03,430193006,Medication Reconciliation (procedure),549.48,,
+2011-01-30T12:03:15Z,202b3372-a1d4-42bd-b4b7-b712bd24dc98,a6c2ff41-53ad-460a-bc7d-fe21974d7b1a,76601001,Intramuscular injection,2072.4,,
+2011-05-01T12:03:15Z,202b3372-a1d4-42bd-b4b7-b712bd24dc98,e7f36ce5-0b71-4bc5-b31e-c4323880bacf,76601001,Intramuscular injection,4557.33,,
+2011-06-14T12:03:15Z,202b3372-a1d4-42bd-b4b7-b712bd24dc98,5e487e72-326c-451c-9123-bdf52139a893,169553002,Insertion of subcutaneous contraceptive,11783.78,,
+2011-07-31T12:03:15Z,202b3372-a1d4-42bd-b4b7-b712bd24dc98,81b5fc39-39cf-460c-9aef-37b34ac2a0cf,76601001,Intramuscular injection,2493.35,,
+2011-10-30T12:03:15Z,202b3372-a1d4-42bd-b4b7-b712bd24dc98,550fc8ab-de56-4574-962a-b34047988551,76601001,Intramuscular injection,3797.72,,
+2011-11-13T12:03:15Z,202b3372-a1d4-42bd-b4b7-b712bd24dc98,74ca9f64-a720-446b-b5df-f6c6a6b37bf2,73761001,Colonoscopy,15322.39,,
+2012-01-29T12:03:15Z,202b3372-a1d4-42bd-b4b7-b712bd24dc98,57a1e129-a79c-4746-b811-94aedebfb6de,76601001,Intramuscular injection,2958.9,,
+2012-04-29T12:03:15Z,202b3372-a1d4-42bd-b4b7-b712bd24dc98,46486738-0171-467a-ad21-cf07dc8d778e,76601001,Intramuscular injection,2563.5,,
+2013-01-20T12:03:15Z,202b3372-a1d4-42bd-b4b7-b712bd24dc98,a2ff64c9-7790-47d6-9dc3-ae4091cdb1ec,430193006,Medication Reconciliation (procedure),844.68,,
+2016-11-11T12:03:15Z,202b3372-a1d4-42bd-b4b7-b712bd24dc98,794b3909-ef09-4946-b5ea-9b1c372e3c22,73761001,Colonoscopy,18413.24,,
+2018-02-18T12:03:15Z,202b3372-a1d4-42bd-b4b7-b712bd24dc98,ec7ccaf5-989a-4dba-9c64-c6f1513266f4,430193006,Medication Reconciliation (procedure),456.98,,
+2019-02-24T12:03:15Z,202b3372-a1d4-42bd-b4b7-b712bd24dc98,3261278b-4ac9-4001-a25b-f68a43444cce,430193006,Medication Reconciliation (procedure),512.54,,
+2010-06-25T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,1e68c9f3-6ef9-42ae-a946-ce05e34f8ed7,76601001,Intramuscular injection,1909.77,,
+2010-09-04T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,de0b51c3-b38f-4239-93a5-62830c26bad9,76601001,Intramuscular injection,2350.99,,
+2010-09-24T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,4265d814-5654-42dc-9ca3-f599987a629f,76601001,Intramuscular injection,3161.07,,
+2010-12-24T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,1a76fc81-d5c4-4d69-9b8f-945beb3380a9,76601001,Intramuscular injection,3385.19,,
+2011-03-25T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,24c59459-f228-4713-b57d-0c17c4ce30ae,76601001,Intramuscular injection,3894.59,,
+2011-06-24T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,2cb2b367-465d-42cb-afd4-ceb15c0ebca5,76601001,Intramuscular injection,3390.63,,
+2011-09-23T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,f2d6b185-0ae4-4c64-b17c-2f82ea40ed9b,76601001,Intramuscular injection,2052.92,,
+2011-12-23T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,fd86617e-e612-41f8-a41a-e7341551750f,76601001,Intramuscular injection,2717.85,,
+2012-02-03T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,ecada75d-41b2-48e1-a0fd-4664cc015053,430193006,Medication Reconciliation (procedure),637.11,,
+2012-03-23T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,4ecace00-ec54-4350-8b45-52f13756c266,76601001,Intramuscular injection,3205.55,,
+2012-06-22T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,105d6d8b-c217-4d3b-bd2d-2b9629b0c041,76601001,Intramuscular injection,4712.12,,
+2012-09-21T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,b8ad025c-8ae6-406f-809b-d50058ddf2f2,76601001,Intramuscular injection,5078.75,,
+2012-12-21T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,7ba7d822-10eb-4354-afba-4d6388ce37b1,76601001,Intramuscular injection,2718.01,,
+2013-03-22T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,a900ba90-3db0-403f-8e3f-54dee69c3cfd,76601001,Intramuscular injection,4127.6,,
+2013-06-21T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,4279aea7-41a2-4dbe-826d-4be8adf87768,76601001,Intramuscular injection,3754.77,,
+2013-09-20T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,6e953088-be96-454e-91c5-bf21348f4341,76601001,Intramuscular injection,2808.99,,
+2013-12-20T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,694ac6c3-299f-460b-a446-a4b18fbdbac5,76601001,Intramuscular injection,3715.67,,
+2014-03-21T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,2e6a89f6-9a12-40d9-9fe7-f94eae973307,76601001,Intramuscular injection,1804.24,,
+2014-06-13T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,8fbcb751-3469-4941-b39b-e1c86329c8c0,252160004,Standard pregnancy test,4985.6,72892002,Normal pregnancy
+2014-06-13T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,8fbcb751-3469-4941-b39b-e1c86329c8c0,169230002,Ultrasound scan for fetal viability,8775.6,72892002,Normal pregnancy
+2014-06-13T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,8fbcb751-3469-4941-b39b-e1c86329c8c0,274804006,Evaluation of uterine fundal height,8100.17,72892002,Normal pregnancy
+2014-06-13T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,8fbcb751-3469-4941-b39b-e1c86329c8c0,225158009,Auscultation of the fetal heart,8690.98,72892002,Normal pregnancy
+2014-06-13T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,8fbcb751-3469-4941-b39b-e1c86329c8c0,44608003,Blood typing  RH typing,1713.03,72892002,Normal pregnancy
+2014-06-13T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,8fbcb751-3469-4941-b39b-e1c86329c8c0,104091002,Hemoglobin / Hematocrit / Platelet count,3533.74,72892002,Normal pregnancy
+2014-06-13T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,8fbcb751-3469-4941-b39b-e1c86329c8c0,47758006,Hepatitis B Surface Antigen Measurement,3175.9,72892002,Normal pregnancy
+2014-06-13T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,8fbcb751-3469-4941-b39b-e1c86329c8c0,31676001,Human immunodeficiency virus antigen test,3182.31,72892002,Normal pregnancy
+2014-06-13T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,8fbcb751-3469-4941-b39b-e1c86329c8c0,310861008,Chlamydia antigen test,2296.87,72892002,Normal pregnancy
+2014-06-13T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,8fbcb751-3469-4941-b39b-e1c86329c8c0,165829005,Gonorrhea infection test,2152.52,72892002,Normal pregnancy
+2014-06-13T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,8fbcb751-3469-4941-b39b-e1c86329c8c0,269828009,Syphilis infection test,1746.8,72892002,Normal pregnancy
+2014-06-13T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,8fbcb751-3469-4941-b39b-e1c86329c8c0,117010004,Urine culture,2613.95,72892002,Normal pregnancy
+2014-06-13T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,8fbcb751-3469-4941-b39b-e1c86329c8c0,90226004,Cytopathology procedure  preparation of smear  genital source,2274.48,72892002,Normal pregnancy
+2014-06-13T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,8fbcb751-3469-4941-b39b-e1c86329c8c0,395123002,Urine screening test for diabetes,1451.19,72892002,Normal pregnancy
+2014-06-13T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,8fbcb751-3469-4941-b39b-e1c86329c8c0,104375008,Hepatitis C antibody test,2302.58,72892002,Normal pregnancy
+2014-06-13T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,8fbcb751-3469-4941-b39b-e1c86329c8c0,169690007,Rubella screening,2375.56,72892002,Normal pregnancy
+2014-06-13T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,8fbcb751-3469-4941-b39b-e1c86329c8c0,104326007,Measurement of Varicella-zoster virus antibody,1798.19,72892002,Normal pregnancy
+2014-06-13T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,8fbcb751-3469-4941-b39b-e1c86329c8c0,28163009,Skin test for tuberculosis,1812,72892002,Normal pregnancy
+2014-06-13T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,8fbcb751-3469-4941-b39b-e1c86329c8c0,167271000,Urine protein test,1553.08,72892002,Normal pregnancy
+2014-06-13T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,8fbcb751-3469-4941-b39b-e1c86329c8c0,5880005,Physical examination of mother,516.65,72892002,Normal pregnancy
+2014-07-11T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,8895b110-af78-44ac-b566-88b7f10ba296,274804006,Evaluation of uterine fundal height,7538.71,72892002,Normal pregnancy
+2014-07-11T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,8895b110-af78-44ac-b566-88b7f10ba296,225158009,Auscultation of the fetal heart,9120.71,72892002,Normal pregnancy
+2014-07-11T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,8895b110-af78-44ac-b566-88b7f10ba296,443529005,Screening for chromosomal aneuploidy in prenatal amniotic fluid,1303.15,72892002,Normal pregnancy
+2014-08-08T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,32598975-d3ff-4551-828b-70a25566c2c1,271442007,Fetal anatomy study,516.65,72892002,Normal pregnancy
+2014-08-08T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,32598975-d3ff-4551-828b-70a25566c2c1,275833003,Alpha-fetoprotein test,1707.01,72892002,Normal pregnancy
+2014-08-08T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,32598975-d3ff-4551-828b-70a25566c2c1,274804006,Evaluation of uterine fundal height,4734.59,72892002,Normal pregnancy
+2014-08-08T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,32598975-d3ff-4551-828b-70a25566c2c1,225158009,Auscultation of the fetal heart,7393.36,72892002,Normal pregnancy
+2014-09-05T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,f724167c-621f-4c5e-b7f4-bbf2773c35b1,274804006,Evaluation of uterine fundal height,9969.6,72892002,Normal pregnancy
+2014-09-05T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,f724167c-621f-4c5e-b7f4-bbf2773c35b1,225158009,Auscultation of the fetal heart,6213.04,72892002,Normal pregnancy
+2014-10-03T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,58804799-ea99-447e-adf1-08cb16c8cc22,274804006,Evaluation of uterine fundal height,6214.88,72892002,Normal pregnancy
+2014-10-03T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,58804799-ea99-447e-adf1-08cb16c8cc22,225158009,Auscultation of the fetal heart,7109.46,72892002,Normal pregnancy
+2014-10-31T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,835569d1-4cf5-4c7e-bc87-00269eb8abee,104091002,Hemoglobin / Hematocrit / Platelet count,3186.64,72892002,Normal pregnancy
+2014-10-31T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,835569d1-4cf5-4c7e-bc87-00269eb8abee,399014008,Vaccination for diphtheria  pertussis  and tetanus,2608.39,72892002,Normal pregnancy
+2014-10-31T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,835569d1-4cf5-4c7e-bc87-00269eb8abee,268556000,Urine screening for glucose,1971.02,72892002,Normal pregnancy
+2014-10-31T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,835569d1-4cf5-4c7e-bc87-00269eb8abee,274804006,Evaluation of uterine fundal height,7988.8,72892002,Normal pregnancy
+2014-10-31T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,835569d1-4cf5-4c7e-bc87-00269eb8abee,225158009,Auscultation of the fetal heart,7115.41,72892002,Normal pregnancy
+2014-11-28T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,727a4a8f-46f7-4788-b067-4e44c811afe4,274804006,Evaluation of uterine fundal height,4771.27,72892002,Normal pregnancy
+2014-11-28T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,727a4a8f-46f7-4788-b067-4e44c811afe4,225158009,Auscultation of the fetal heart,7574.99,72892002,Normal pregnancy
+2014-12-26T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,e8870332-4eec-44a2-a7a4-eec56f6eb9a6,118001005,Streptococcus pneumoniae group B antigen test,2825.25,72892002,Normal pregnancy
+2014-12-26T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,e8870332-4eec-44a2-a7a4-eec56f6eb9a6,274804006,Evaluation of uterine fundal height,8039.32,72892002,Normal pregnancy
+2014-12-26T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,e8870332-4eec-44a2-a7a4-eec56f6eb9a6,225158009,Auscultation of the fetal heart,5627.4,72892002,Normal pregnancy
+2015-01-09T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,dd187d0f-6299-432c-975f-e15c4e175bc4,274804006,Evaluation of uterine fundal height,6504.06,72892002,Normal pregnancy
+2015-01-09T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,dd187d0f-6299-432c-975f-e15c4e175bc4,225158009,Auscultation of the fetal heart,9538.33,72892002,Normal pregnancy
+2015-01-16T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,3c457974-1da3-40bb-8c3a-7f046a5aae9a,274804006,Evaluation of uterine fundal height,5708.59,72892002,Normal pregnancy
+2015-01-16T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,3c457974-1da3-40bb-8c3a-7f046a5aae9a,225158009,Auscultation of the fetal heart,7682.96,72892002,Normal pregnancy
+2015-01-23T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,d765bbd5-7a9c-488b-aca5-e8309c2bb5bb,85548006,Episiotomy,5337.95,72892002,Normal pregnancy
+2015-01-23T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,d765bbd5-7a9c-488b-aca5-e8309c2bb5bb,66348005,Childbirth,516.65,72892002,Normal pregnancy
+2015-02-20T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,28e42701-482a-45a2-8954-0b2774c53e0b,430193006,Medication Reconciliation (procedure),570.93,,
+2015-03-06T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,61843abe-1b59-4c8b-98f0-3d8777a1fc60,5880005,Physical examination following birth,516.65,,
+2015-03-06T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,61843abe-1b59-4c8b-98f0-3d8777a1fc60,171207006,Depression screening,516.65,,
+2016-02-26T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,7666ad61-6b4b-4651-94eb-2b0bc703d393,430193006,Medication Reconciliation (procedure),604.75,,
+2016-03-03T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,2f098840-c7af-4c91-be80-d8df73a8be34,65200003,Insertion of intrauterine contraceptive device,12636.79,,
+2017-07-14T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,bf152a32-e483-43b7-9e2a-44ac982ce9d4,73761001,Colonoscopy,7198.27,,
+2018-03-02T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,351e4729-7229-4855-b4f4-33dac9d2a0f2,68254000,Removal of intrauterine device,14159.59,,
+2019-03-15T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,ea0f6153-cb63-4708-94c3-7c65a1dd7832,430193006,Medication Reconciliation (procedure),325.47,,
+2020-03-20T21:26:16Z,0edbb001-5914-42b6-9194-0a3c753b5c25,56ba54b0-9270-4bc1-ae23-47efe74b932d,430193006,Medication Reconciliation (procedure),782.47,,
+1994-10-10T20:03:59Z,3886269a-5118-4f12-95fe-6c5440b53c0d,1d71c3af-f76f-46ad-b990-70bfa84d336a,430193006,Medication Reconciliation (procedure),621.7,,
+1996-10-07T20:03:59Z,3886269a-5118-4f12-95fe-6c5440b53c0d,8bc7e1e4-64aa-47f9-81bd-aa26e8eb5119,430193006,Medication Reconciliation (procedure),737.96,,
+2000-04-24T20:03:59Z,3886269a-5118-4f12-95fe-6c5440b53c0d,f248b8b9-d5aa-4edf-b450-16081774c8c5,430193006,Medication Reconciliation (procedure),513.03,,
+2003-05-12T20:03:59Z,3886269a-5118-4f12-95fe-6c5440b53c0d,cdb39d86-bf14-4269-8ef0-0a53b428bba5,430193006,Medication Reconciliation (procedure),645.86,,
+2004-05-17T20:03:59Z,3886269a-5118-4f12-95fe-6c5440b53c0d,5a4cf009-58cf-401e-a253-4fb4cd6428bd,430193006,Medication Reconciliation (procedure),535.99,,
+1988-08-11T16:22:51Z,2dc2c931-b06e-4249-8a39-c33bc60c0f03,064b783c-a7c2-4120-9d23-9f013611f703,430193006,Medication Reconciliation (procedure),804.49,,
+1990-08-16T16:22:51Z,2dc2c931-b06e-4249-8a39-c33bc60c0f03,0c165382-1aeb-4718-9cb7-2b427ded1e47,430193006,Medication Reconciliation (procedure),898.75,,
+1992-04-23T16:22:51Z,2dc2c931-b06e-4249-8a39-c33bc60c0f03,de177807-8c6d-4db9-8947-d7b192215558,252160004,Standard pregnancy test,6408.29,72892002,Normal pregnancy
+1992-04-23T16:22:51Z,2dc2c931-b06e-4249-8a39-c33bc60c0f03,de177807-8c6d-4db9-8947-d7b192215558,169230002,Ultrasound scan for fetal viability,8629.6,72892002,Normal pregnancy
+1992-04-30T16:22:51Z,2dc2c931-b06e-4249-8a39-c33bc60c0f03,2a3df963-1acf-4e8b-97db-3d293d444f8b,5880005,Physical examination,516.65,72892002,Normal pregnancy
+1992-04-30T16:22:51Z,2dc2c931-b06e-4249-8a39-c33bc60c0f03,2a3df963-1acf-4e8b-97db-3d293d444f8b,171207006,Depression screening,516.65,72892002,Normal pregnancy
+1992-07-23T16:22:51Z,2dc2c931-b06e-4249-8a39-c33bc60c0f03,d17d2ba3-9416-4fef-95ca-cbb2a711b95a,73761001,Colonoscopy,21610.04,,
+1992-07-23T16:22:51Z,2dc2c931-b06e-4249-8a39-c33bc60c0f03,d17d2ba3-9416-4fef-95ca-cbb2a711b95a,430193006,Medication Reconciliation (procedure),382.92,,
+1993-06-28T16:22:51Z,2dc2c931-b06e-4249-8a39-c33bc60c0f03,c404d001-6205-42dd-8d9c-e57ea50e9966,117015009,Throat culture (procedure),2019.16,43878008,Streptococcal sore throat (disorder)
+1995-08-10T16:22:51Z,2dc2c931-b06e-4249-8a39-c33bc60c0f03,bdaaf48c-9d7a-4b98-ab90-bd4d42ff8ce2,430193006,Medication Reconciliation (procedure),363.02,,
+1995-08-19T16:22:51Z,2dc2c931-b06e-4249-8a39-c33bc60c0f03,20628270-cd9b-4d6e-b4eb-c63a12245f49,434158009,Transthoracic three dimensional ultrasonography of heart (procedure),955.92,,
+1996-02-15T16:22:51Z,2dc2c931-b06e-4249-8a39-c33bc60c0f03,01eadb92-b94c-46f7-b679-37b655cbd04a,399208008,Plain chest X-ray (procedure),8438.12,,
+1996-07-07T16:22:51Z,2dc2c931-b06e-4249-8a39-c33bc60c0f03,e0998d8c-3fb2-4c76-8aa5-51930a0281f2,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+1997-02-09T16:22:51Z,2dc2c931-b06e-4249-8a39-c33bc60c0f03,ec43d40c-4b81-4ce1-a42d-56354ecdb7bc,434158009,Transthoracic three dimensional ultrasonography of heart (procedure),1579.83,,
+1997-07-22T16:22:51Z,2dc2c931-b06e-4249-8a39-c33bc60c0f03,fbafb8b6-1ff7-4fe3-afc0-d14231bb3310,73761001,Colonoscopy,16287.82,,
+1997-07-22T16:22:51Z,2dc2c931-b06e-4249-8a39-c33bc60c0f03,fbafb8b6-1ff7-4fe3-afc0-d14231bb3310,104435004,Screening for occult blood in feces (procedure),4789.85,68496003,Polyp of colon
+1997-07-22T16:22:51Z,2dc2c931-b06e-4249-8a39-c33bc60c0f03,fbafb8b6-1ff7-4fe3-afc0-d14231bb3310,274031008,Rectal polypectomy,8801.92,68496003,Polyp of colon
+1997-08-08T16:22:51Z,2dc2c931-b06e-4249-8a39-c33bc60c0f03,fd184afc-be59-43ae-b856-fdc3c5adb3e8,399208008,Plain chest X-ray (procedure),6779,,
+1997-08-08T16:22:51Z,2dc2c931-b06e-4249-8a39-c33bc60c0f03,26a09101-46b7-41cc-b70c-39e6e8e276f3,433236007,Transthoracic echocardiography,516.65,,
+1997-08-08T16:22:51Z,2dc2c931-b06e-4249-8a39-c33bc60c0f03,26a09101-46b7-41cc-b70c-39e6e8e276f3,399208008,Plain chest X-ray,7517.08,,
+2010-08-09T18:22:05Z,19ad9612-4b4d-4a82-a323-c07168ec4d85,edb738a8-15e1-4fc3-8f05-29d197df0c3d,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+2011-05-11T18:22:05Z,19ad9612-4b4d-4a82-a323-c07168ec4d85,b8c2a1be-7653-445f-a34a-13174d873b51,410006001,Digital examination of rectum,516.65,,
+2012-05-10T18:22:05Z,19ad9612-4b4d-4a82-a323-c07168ec4d85,15afe9b8-e05a-4e37-b563-02eba94c6274,410006001,Digital examination of rectum,516.65,,
+2013-05-22T18:22:05Z,19ad9612-4b4d-4a82-a323-c07168ec4d85,a02d0e6e-699d-4a1f-a535-ac545dd7eb73,410006001,Digital examination of rectum,516.65,,
+2013-05-22T18:22:05Z,19ad9612-4b4d-4a82-a323-c07168ec4d85,bf6ea91d-19a7-4159-9ec6-0afcde3ef1df,65575008,Biopsy of prostate,516.65,,
+2013-05-22T18:22:05Z,19ad9612-4b4d-4a82-a323-c07168ec4d85,93288b40-b52e-4a6d-9e60-17967a438092,90470006,Prostatectomy,516.65,126906006,Neoplasm of prostate
+2014-05-28T18:22:05Z,19ad9612-4b4d-4a82-a323-c07168ec4d85,2b7e80e4-9186-48f4-bb45-398e889cb466,430193006,Medication Reconciliation (procedure),965.99,,
+2017-12-06T18:22:05Z,19ad9612-4b4d-4a82-a323-c07168ec4d85,1d113c3c-43ab-4669-a99f-f2c4387fb0fc,430193006,Medication Reconciliation (procedure),625.57,,
+2018-06-20T18:22:05Z,19ad9612-4b4d-4a82-a323-c07168ec4d85,c48656d3-e522-4033-9f04-045f08b9d830,430193006,Medication Reconciliation (procedure),847.23,,
+2019-06-26T18:22:05Z,19ad9612-4b4d-4a82-a323-c07168ec4d85,c0d38063-5b8a-4789-be03-dc22340318c9,430193006,Medication Reconciliation (procedure),855.91,,
+2010-06-24T14:38:12Z,542a3d97-d840-4f63-9cc7-5110ce3f7e82,351c56b0-e43f-4a02-8bd0-4ee3877ba4e0,71651007,Mammography (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2010-06-24T14:38:12Z,542a3d97-d840-4f63-9cc7-5110ce3f7e82,410e0c17-64d6-4c19-bd36-43ce8f79b193,312681000,Bone density scan (procedure),13233.84,254837009,Malignant neoplasm of breast (disorder)
+2011-05-20T14:38:12Z,542a3d97-d840-4f63-9cc7-5110ce3f7e82,e06b92d8-9b83-461a-9ed4-e815fe18c342,71651007,Mammography (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2011-05-20T14:38:12Z,542a3d97-d840-4f63-9cc7-5110ce3f7e82,225b715c-1dd2-496f-b6ee-51d51f71167f,312681000,Bone density scan (procedure),10579.2,254837009,Malignant neoplasm of breast (disorder)
+2011-10-11T14:38:12Z,542a3d97-d840-4f63-9cc7-5110ce3f7e82,3028f77e-2c1d-4f4d-ae69-554bb5264852,73761001,Colonoscopy,13832.01,,
+2012-05-14T14:38:12Z,542a3d97-d840-4f63-9cc7-5110ce3f7e82,4cbc26fe-c8b2-4f75-9e08-c7c5e044585a,71651007,Mammography (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2012-05-14T14:38:12Z,542a3d97-d840-4f63-9cc7-5110ce3f7e82,aa2a09ea-ff32-4e68-97fb-7485014ed191,312681000,Bone density scan (procedure),17005.33,254837009,Malignant neoplasm of breast (disorder)
+2013-05-09T14:38:12Z,542a3d97-d840-4f63-9cc7-5110ce3f7e82,acdd7373-515e-451d-a8eb-4c29cbbd2f19,71651007,Mammography (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-05-09T14:38:12Z,542a3d97-d840-4f63-9cc7-5110ce3f7e82,bae14f16-2648-486b-a1b4-6726a40c71b3,312681000,Bone density scan (procedure),18169.9,254837009,Malignant neoplasm of breast (disorder)
+2013-11-21T14:38:12Z,542a3d97-d840-4f63-9cc7-5110ce3f7e82,9316a62d-a862-425d-8b39-69ad73a18c93,430193006,Medication Reconciliation (procedure),563.94,,
+2014-05-04T14:38:12Z,542a3d97-d840-4f63-9cc7-5110ce3f7e82,dcaf2502-5db6-411e-936f-1947671e58d2,71651007,Mammography (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2014-05-04T14:38:12Z,542a3d97-d840-4f63-9cc7-5110ce3f7e82,d7dbbb5b-8530-41d7-a45d-c2fa804c196e,312681000,Bone density scan (procedure),10540.7,254837009,Malignant neoplasm of breast (disorder)
+2015-03-30T14:38:12Z,542a3d97-d840-4f63-9cc7-5110ce3f7e82,075d94cc-54cc-4548-a166-784a24f66326,71651007,Mammography (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2015-03-30T14:38:12Z,542a3d97-d840-4f63-9cc7-5110ce3f7e82,0fae4036-3683-468b-be6b-44275d9a4281,312681000,Bone density scan (procedure),15083.34,254837009,Malignant neoplasm of breast (disorder)
+2015-12-03T14:38:12Z,542a3d97-d840-4f63-9cc7-5110ce3f7e82,3557c264-7519-4333-a4eb-d33570d5d1dc,430193006,Medication Reconciliation (procedure),576.13,,
+2016-02-23T14:38:12Z,542a3d97-d840-4f63-9cc7-5110ce3f7e82,6250091a-18ca-40b3-861e-baa1ff975ac6,71651007,Mammography (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2016-02-23T14:38:12Z,542a3d97-d840-4f63-9cc7-5110ce3f7e82,0a8eccb2-d7b7-425e-81f9-1b93ee5e8eca,312681000,Bone density scan (procedure),15860.98,254837009,Malignant neoplasm of breast (disorder)
+2016-10-09T14:38:12Z,542a3d97-d840-4f63-9cc7-5110ce3f7e82,44169421-9397-477d-a954-9ce1ffb2710f,73761001,Colonoscopy,14020.69,,
+2016-12-08T14:38:12Z,542a3d97-d840-4f63-9cc7-5110ce3f7e82,df16bd8b-c4ab-443e-ad65-04ece01a43df,430193006,Medication Reconciliation (procedure),664.35,,
+2017-01-18T14:38:12Z,542a3d97-d840-4f63-9cc7-5110ce3f7e82,60c22705-386a-4334-8bca-45f6bc784c3c,71651007,Mammography (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2017-01-18T14:38:12Z,542a3d97-d840-4f63-9cc7-5110ce3f7e82,061ade5e-c885-4a8b-b566-12cba54dfcd4,312681000,Bone density scan (procedure),11673.11,254837009,Malignant neoplasm of breast (disorder)
+2017-12-14T14:38:12Z,542a3d97-d840-4f63-9cc7-5110ce3f7e82,fb17555f-25ce-46d5-a0a4-e1b354285b95,430193006,Medication Reconciliation (procedure),708.89,,
+2018-01-13T14:38:12Z,542a3d97-d840-4f63-9cc7-5110ce3f7e82,b0a0c131-0262-4142-8852-7ce9b1bdef9c,71651007,Mammography (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2018-01-13T14:38:12Z,542a3d97-d840-4f63-9cc7-5110ce3f7e82,9cf8189a-b31b-466c-9972-0bf9eb280f2c,312681000,Bone density scan (procedure),13003.13,254837009,Malignant neoplasm of breast (disorder)
+2018-12-09T14:38:12Z,542a3d97-d840-4f63-9cc7-5110ce3f7e82,da174e68-2ed1-4d6b-97c7-e2041cfc8048,71651007,Mammography (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2018-12-09T14:38:12Z,542a3d97-d840-4f63-9cc7-5110ce3f7e82,cce1db80-fbcb-4bbd-aa08-39220b2e84e8,312681000,Bone density scan (procedure),6572.34,254837009,Malignant neoplasm of breast (disorder)
+2019-11-04T14:38:12Z,542a3d97-d840-4f63-9cc7-5110ce3f7e82,b0a5ed1b-6087-4fe1-8771-fe48d59c40a1,71651007,Mammography (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2019-11-04T14:38:12Z,542a3d97-d840-4f63-9cc7-5110ce3f7e82,28532a38-b53e-4681-a490-45e8a8532fea,312681000,Bone density scan (procedure),8478.81,254837009,Malignant neoplasm of breast (disorder)
+2016-01-02T15:28:58Z,0ac1bb9f-5fdd-45a5-9891-2f826d86dc17,f5b18427-c7cd-4732-aa26-02e3a0b3aa18,430193006,Medication Reconciliation (procedure),924.26,,
+2016-03-05T15:28:58Z,0ac1bb9f-5fdd-45a5-9891-2f826d86dc17,496f6e81-e17c-44fc-bae1-1ad769a9bd5f,430193006,Medication Reconciliation (procedure),525.56,,
+2016-05-07T15:28:58Z,0ac1bb9f-5fdd-45a5-9891-2f826d86dc17,384a36a0-4468-4d79-b052-63eb1bd11237,430193006,Medication Reconciliation (procedure),642.35,,
+2016-08-06T15:28:58Z,0ac1bb9f-5fdd-45a5-9891-2f826d86dc17,99f91ea8-ad0e-4c91-ac1f-19fdbc285153,430193006,Medication Reconciliation (procedure),916.31,,
+2018-05-05T15:28:58Z,0ac1bb9f-5fdd-45a5-9891-2f826d86dc17,622c2afc-6c31-4025-bc0c-001065d5668b,430193006,Medication Reconciliation (procedure),470.14,,
+2018-11-03T15:28:58Z,0ac1bb9f-5fdd-45a5-9891-2f826d86dc17,3449c0d6-8ad4-4a21-838b-5edb2ff033f7,430193006,Medication Reconciliation (procedure),630.82,,
+2018-11-27T15:28:58Z,0ac1bb9f-5fdd-45a5-9891-2f826d86dc17,f2019ed0-0ffa-4b2e-a6c5-ffb1587e77a1,14768001,Peripheral blood smear interpretation,516.65,,
+2018-11-27T15:28:58Z,0ac1bb9f-5fdd-45a5-9891-2f826d86dc17,f2019ed0-0ffa-4b2e-a6c5-ffb1587e77a1,415300000,Review of systems (procedure),516.65,,
+2018-11-27T15:28:58Z,0ac1bb9f-5fdd-45a5-9891-2f826d86dc17,f2019ed0-0ffa-4b2e-a6c5-ffb1587e77a1,430193006,Medication Reconciliation (procedure),399.31,,
+2018-11-27T15:28:58Z,0ac1bb9f-5fdd-45a5-9891-2f826d86dc17,f2019ed0-0ffa-4b2e-a6c5-ffb1587e77a1,162676008,Brief general examination (procedure),516.65,,
+2019-11-02T15:28:58Z,0ac1bb9f-5fdd-45a5-9891-2f826d86dc17,80429c87-bbcb-4db8-91f6-378558df2466,430193006,Medication Reconciliation (procedure),390.58,,
+2012-09-24T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,662eaec1-93a8-42a9-b864-f977f88644fb,430193006,Medication Reconciliation (procedure),326.37,,
+2015-10-24T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,5d934d5a-8f65-47f1-9016-49db796fcd04,228557008,Cognitive and behavioral therapy,10270.77,192127007,Child attention deficit disorder
+2015-11-21T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,284d1409-36dd-4fd8-b252-438316fa8c7b,228557008,Cognitive and behavioral therapy,8767.79,192127007,Child attention deficit disorder
+2015-12-19T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,b97a8070-c82f-4d7c-af03-60860fbfc1d2,228557008,Cognitive and behavioral therapy,15803.33,192127007,Child attention deficit disorder
+2016-01-23T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,cf577334-1fa6-40a0-aafe-545f4af5185d,228557008,Cognitive and behavioral therapy,8904.56,192127007,Child attention deficit disorder
+2016-02-20T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,64af5122-fdc4-4d74-a3ba-dd4bc84c8b7c,228557008,Cognitive and behavioral therapy,9303.2,192127007,Child attention deficit disorder
+2016-03-19T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,bf585de7-71c6-4f24-98dc-96cfc1c74506,228557008,Cognitive and behavioral therapy,12824.54,192127007,Child attention deficit disorder
+2016-04-23T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,e1c392ca-eb4f-44ea-b160-bd4216f4a32c,228557008,Cognitive and behavioral therapy,9699.19,192127007,Child attention deficit disorder
+2016-05-21T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,e8d30c1a-4c28-4119-81c6-f5805086085c,228557008,Cognitive and behavioral therapy,11916.8,192127007,Child attention deficit disorder
+2016-06-18T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,2d5f6c63-215f-4fc6-805f-63d75e68a783,228557008,Cognitive and behavioral therapy,9999.31,192127007,Child attention deficit disorder
+2016-07-16T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,c2a28d24-8fee-4195-9c14-b26819e2370e,228557008,Cognitive and behavioral therapy,11182.85,192127007,Child attention deficit disorder
+2016-08-13T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,6d673fc7-be03-4698-aa2f-faeae01cc727,228557008,Cognitive and behavioral therapy,7646.47,192127007,Child attention deficit disorder
+2016-09-10T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,78bfeeca-b169-4d59-a54f-b74bd9d7d5df,228557008,Cognitive and behavioral therapy,15031.28,192127007,Child attention deficit disorder
+2016-10-15T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,e32ddd4e-924f-48b2-828a-db162ddc3f4f,228557008,Cognitive and behavioral therapy,8211.49,192127007,Child attention deficit disorder
+2016-11-12T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,76f7ac87-712c-4f69-965d-ecb5a8010940,228557008,Cognitive and behavioral therapy,10424.1,192127007,Child attention deficit disorder
+2016-12-10T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,86b110e4-a0e3-4207-bcf3-a02a307b2df7,228557008,Cognitive and behavioral therapy,10015.02,192127007,Child attention deficit disorder
+2017-01-07T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,e8450b3f-7aeb-4bec-afd9-fcb2d576979e,228557008,Cognitive and behavioral therapy,12905.59,192127007,Child attention deficit disorder
+2017-02-11T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,5daa7b19-fa07-49c3-8e59-5791413ed0b9,228557008,Cognitive and behavioral therapy,11522.76,192127007,Child attention deficit disorder
+2017-03-18T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,3b061bc3-7c75-4f5d-abfc-9a7d0d7086bc,228557008,Cognitive and behavioral therapy,8111.85,192127007,Child attention deficit disorder
+2017-03-27T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,47de97b1-2399-4d63-ae5b-828b8727bf57,430193006,Medication Reconciliation (procedure),653.02,,
+2017-04-22T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,ecf2b395-d2fe-471d-894b-afefd1c3c941,228557008,Cognitive and behavioral therapy,12799.76,192127007,Child attention deficit disorder
+2017-05-20T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,eeaa4a27-6ac7-482d-834a-a58802d8776e,228557008,Cognitive and behavioral therapy,11616.27,192127007,Child attention deficit disorder
+2017-06-17T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,9768e52d-04fd-43a8-a635-91925532c6f3,228557008,Cognitive and behavioral therapy,14457.97,192127007,Child attention deficit disorder
+2017-07-15T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,e77fbc9f-7e35-46b1-b080-0e2f17a76288,228557008,Cognitive and behavioral therapy,16765.33,192127007,Child attention deficit disorder
+2017-08-12T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,6a176cc7-cbd7-4864-a257-c978a8be2024,228557008,Cognitive and behavioral therapy,12790.69,192127007,Child attention deficit disorder
+2017-09-09T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,a000b964-a5d2-4434-b436-5b8e7843992a,228557008,Cognitive and behavioral therapy,12127.83,192127007,Child attention deficit disorder
+2017-10-14T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,a7801c31-eb6d-48b4-badc-7df1970d5ea2,228557008,Cognitive and behavioral therapy,12700.12,192127007,Child attention deficit disorder
+2017-11-18T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,78007022-70df-4a09-a13c-8af44d0204c5,228557008,Cognitive and behavioral therapy,11426.69,192127007,Child attention deficit disorder
+2017-11-26T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,6a28c7db-82a7-408e-b086-17aef6967ab0,168594001,Clavicle X-ray,516.65,,
+2017-11-26T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,6a28c7db-82a7-408e-b086-17aef6967ab0,305428000,Admission to orthopedic department,516.65,58150001,Fracture of clavicle
+2017-12-23T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,ed18ba06-09ec-4931-ae81-9e06dc499de7,228557008,Cognitive and behavioral therapy,6822.04,192127007,Child attention deficit disorder
+2018-01-27T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,2038cfd6-85cf-4c2d-a3f1-ca7e944c4ddb,228557008,Cognitive and behavioral therapy,14591.65,192127007,Child attention deficit disorder
+2018-03-03T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,955533aa-8420-429b-bd5d-ce448c91a522,228557008,Cognitive and behavioral therapy,8126.5,192127007,Child attention deficit disorder
+2018-03-31T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,13b8c508-117a-4071-92af-de4c148b23d9,228557008,Cognitive and behavioral therapy,12331.81,192127007,Child attention deficit disorder
+2018-04-28T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,746472ac-7870-4383-a713-72a86e4bd6a5,228557008,Cognitive and behavioral therapy,19321.38,192127007,Child attention deficit disorder
+2018-05-26T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,26f8f983-1aee-4a93-8f2d-e9844ca667d2,228557008,Cognitive and behavioral therapy,8512.49,192127007,Child attention deficit disorder
+2018-06-30T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,94b8a69f-39cc-48ed-a684-6c88328002df,228557008,Cognitive and behavioral therapy,13832.61,192127007,Child attention deficit disorder
+2018-08-04T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,ef9613a6-1107-4275-9ce4-d6658a03d6ea,228557008,Cognitive and behavioral therapy,11793.8,192127007,Child attention deficit disorder
+2018-09-01T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,c074d7c6-517c-4e06-984a-4b95404ff249,228557008,Cognitive and behavioral therapy,10529.04,192127007,Child attention deficit disorder
+2018-09-29T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,72f16c94-707e-4dce-a0f7-40e5fade4e51,228557008,Cognitive and behavioral therapy,8363.8,192127007,Child attention deficit disorder
+2018-10-29T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,ced83807-9bc6-40fa-bc0d-a6b55831c13b,430193006,Medication Reconciliation (procedure),1015.18,,
+2018-10-27T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,60039b5d-8fe3-4597-a7e5-1377a3e8d5ac,228557008,Cognitive and behavioral therapy,11939.83,192127007,Child attention deficit disorder
+2018-12-01T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,c48f917b-2532-4bee-b188-dcbe1fdaae0f,228557008,Cognitive and behavioral therapy,9545.91,192127007,Child attention deficit disorder
+2020-01-13T19:49:00Z,11978d7a-93c0-4e8d-b4c6-320e6c07c5fc,d228e736-07f5-4d0a-a51b-d35f459d3697,117015009,Throat culture (procedure),2852.77,195662009,Acute viral pharyngitis (disorder)
+2012-06-23T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,43d5c89b-f3ef-4ad3-9226-f2fbb3ea4fc1,430193006,Medication Reconciliation (procedure),818.05,,
+2013-06-29T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,f4dc8f43-32a5-4c7a-8b4b-4407827a0a89,430193006,Medication Reconciliation (procedure),821.04,,
+2016-05-31T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,d28fe809-c75e-40ff-a117-ab68e8ca5bb4,76601001,Intramuscular injection,2819.61,,
+2016-09-10T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,25220161-70a8-46d3-be29-1bf4d68ee8f0,76601001,Intramuscular injection,3543.09,,
+2016-12-17T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,2cd064de-dadb-4e2a-812d-006272e56e07,252160004,Standard pregnancy test,4058.2,72892002,Normal pregnancy
+2016-12-17T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,2cd064de-dadb-4e2a-812d-006272e56e07,169230002,Ultrasound scan for fetal viability,11915.14,72892002,Normal pregnancy
+2016-12-17T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,2cd064de-dadb-4e2a-812d-006272e56e07,274804006,Evaluation of uterine fundal height,4504.1,72892002,Normal pregnancy
+2016-12-17T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,2cd064de-dadb-4e2a-812d-006272e56e07,225158009,Auscultation of the fetal heart,6128.67,72892002,Normal pregnancy
+2016-12-17T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,2cd064de-dadb-4e2a-812d-006272e56e07,44608003,Blood typing  RH typing,2253.59,72892002,Normal pregnancy
+2016-12-17T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,2cd064de-dadb-4e2a-812d-006272e56e07,104091002,Hemoglobin / Hematocrit / Platelet count,3171.46,72892002,Normal pregnancy
+2016-12-17T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,2cd064de-dadb-4e2a-812d-006272e56e07,47758006,Hepatitis B Surface Antigen Measurement,2669.21,72892002,Normal pregnancy
+2016-12-17T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,2cd064de-dadb-4e2a-812d-006272e56e07,31676001,Human immunodeficiency virus antigen test,3124.07,72892002,Normal pregnancy
+2016-12-17T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,2cd064de-dadb-4e2a-812d-006272e56e07,310861008,Chlamydia antigen test,1804.8,72892002,Normal pregnancy
+2016-12-17T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,2cd064de-dadb-4e2a-812d-006272e56e07,165829005,Gonorrhea infection test,2196.79,72892002,Normal pregnancy
+2016-12-17T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,2cd064de-dadb-4e2a-812d-006272e56e07,269828009,Syphilis infection test,2120.25,72892002,Normal pregnancy
+2016-12-17T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,2cd064de-dadb-4e2a-812d-006272e56e07,117010004,Urine culture,2943.38,72892002,Normal pregnancy
+2016-12-17T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,2cd064de-dadb-4e2a-812d-006272e56e07,90226004,Cytopathology procedure  preparation of smear  genital source,3087.88,72892002,Normal pregnancy
+2016-12-17T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,2cd064de-dadb-4e2a-812d-006272e56e07,395123002,Urine screening test for diabetes,3041.51,72892002,Normal pregnancy
+2016-12-17T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,2cd064de-dadb-4e2a-812d-006272e56e07,104375008,Hepatitis C antibody test,2976.86,72892002,Normal pregnancy
+2016-12-17T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,2cd064de-dadb-4e2a-812d-006272e56e07,169690007,Rubella screening,2674.97,72892002,Normal pregnancy
+2016-12-17T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,2cd064de-dadb-4e2a-812d-006272e56e07,104326007,Measurement of Varicella-zoster virus antibody,2193.95,72892002,Normal pregnancy
+2016-12-17T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,2cd064de-dadb-4e2a-812d-006272e56e07,28163009,Skin test for tuberculosis,2762.68,72892002,Normal pregnancy
+2016-12-17T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,2cd064de-dadb-4e2a-812d-006272e56e07,167271000,Urine protein test,1538.5,72892002,Normal pregnancy
+2016-12-17T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,2cd064de-dadb-4e2a-812d-006272e56e07,5880005,Physical examination of mother,516.65,72892002,Normal pregnancy
+2016-12-17T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,0638f07a-cdf5-4cd1-9fa3-02f32df2f1b7,14768001,Peripheral blood smear interpretation,516.65,,
+2016-12-17T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,0638f07a-cdf5-4cd1-9fa3-02f32df2f1b7,415300000,Review of systems (procedure),516.65,,
+2016-12-17T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,0638f07a-cdf5-4cd1-9fa3-02f32df2f1b7,430193006,Medication Reconciliation (procedure),351.53,,
+2016-12-17T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,0638f07a-cdf5-4cd1-9fa3-02f32df2f1b7,162676008,Brief general examination (procedure),516.65,,
+2017-01-14T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,e130b1f4-f51a-4c94-978e-09d920456722,274804006,Evaluation of uterine fundal height,5321.12,72892002,Normal pregnancy
+2017-01-14T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,e130b1f4-f51a-4c94-978e-09d920456722,225158009,Auscultation of the fetal heart,5510.93,72892002,Normal pregnancy
+2017-01-14T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,e130b1f4-f51a-4c94-978e-09d920456722,443529005,Screening for chromosomal aneuploidy in prenatal amniotic fluid,2498.75,72892002,Normal pregnancy
+2017-02-11T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,73094cf5-0d61-4252-8381-6f85952e087e,271442007,Fetal anatomy study,516.65,72892002,Normal pregnancy
+2017-02-11T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,73094cf5-0d61-4252-8381-6f85952e087e,275833003,Alpha-fetoprotein test,3178.08,72892002,Normal pregnancy
+2017-02-11T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,73094cf5-0d61-4252-8381-6f85952e087e,274804006,Evaluation of uterine fundal height,6038.88,72892002,Normal pregnancy
+2017-02-11T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,73094cf5-0d61-4252-8381-6f85952e087e,225158009,Auscultation of the fetal heart,5029,72892002,Normal pregnancy
+2017-03-11T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,130f6d88-9000-4a67-bdf6-b04a8d84d9c2,274804006,Evaluation of uterine fundal height,7400.21,72892002,Normal pregnancy
+2017-03-11T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,130f6d88-9000-4a67-bdf6-b04a8d84d9c2,225158009,Auscultation of the fetal heart,6176,72892002,Normal pregnancy
+2017-04-08T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,65890a25-af89-4934-98b6-06c1eb97f0c2,274804006,Evaluation of uterine fundal height,6292.59,72892002,Normal pregnancy
+2017-04-08T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,65890a25-af89-4934-98b6-06c1eb97f0c2,225158009,Auscultation of the fetal heart,5840,72892002,Normal pregnancy
+2017-05-06T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,9ec90edc-13f1-4606-b3d9-0fb8b5f4760d,104091002,Hemoglobin / Hematocrit / Platelet count,3990.87,72892002,Normal pregnancy
+2017-05-06T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,9ec90edc-13f1-4606-b3d9-0fb8b5f4760d,399014008,Vaccination for diphtheria  pertussis  and tetanus,3494.26,72892002,Normal pregnancy
+2017-05-06T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,9ec90edc-13f1-4606-b3d9-0fb8b5f4760d,268556000,Urine screening for glucose,2236,72892002,Normal pregnancy
+2017-05-06T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,9ec90edc-13f1-4606-b3d9-0fb8b5f4760d,274804006,Evaluation of uterine fundal height,5867.48,72892002,Normal pregnancy
+2017-05-06T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,9ec90edc-13f1-4606-b3d9-0fb8b5f4760d,225158009,Auscultation of the fetal heart,6749.58,72892002,Normal pregnancy
+2017-06-03T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,8d4c8fb0-2d9f-4171-8dea-609ac1b4bfcc,274804006,Evaluation of uterine fundal height,6531.38,72892002,Normal pregnancy
+2017-06-03T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,8d4c8fb0-2d9f-4171-8dea-609ac1b4bfcc,225158009,Auscultation of the fetal heart,3298.39,72892002,Normal pregnancy
+2017-07-01T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,a4dd862a-247d-4774-8d97-5664ef5e300a,118001005,Streptococcus pneumoniae group B antigen test,2454.55,72892002,Normal pregnancy
+2017-07-01T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,a4dd862a-247d-4774-8d97-5664ef5e300a,274804006,Evaluation of uterine fundal height,4862.36,72892002,Normal pregnancy
+2017-07-01T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,a4dd862a-247d-4774-8d97-5664ef5e300a,225158009,Auscultation of the fetal heart,10167.27,72892002,Normal pregnancy
+2017-07-15T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,6b5b16e0-19ea-4b37-a94e-811a7536bac4,274804006,Evaluation of uterine fundal height,4372.15,72892002,Normal pregnancy
+2017-07-15T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,6b5b16e0-19ea-4b37-a94e-811a7536bac4,225158009,Auscultation of the fetal heart,6379.51,72892002,Normal pregnancy
+2017-07-22T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,29bcbd1c-6d0a-4f01-a7c0-efb526200566,85548006,Episiotomy,7328.75,72892002,Normal pregnancy
+2017-07-22T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,29bcbd1c-6d0a-4f01-a7c0-efb526200566,66348005,Childbirth,516.65,72892002,Normal pregnancy
+2017-09-02T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,16f59329-f291-4d35-ab97-8c19960eff66,5880005,Physical examination following birth,516.65,,
+2017-09-02T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,16f59329-f291-4d35-ab97-8c19960eff66,171207006,Depression screening,516.65,,
+2018-07-28T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,208bb119-504a-476f-afd6-672b09317160,430193006,Medication Reconciliation (procedure),504.42,,
+2019-08-03T18:46:04Z,05bfc523-bd56-4474-a2bb-1b74a4c1087e,9b9dcff2-7c29-4f2f-b89c-8cf7038ab4bf,430193006,Medication Reconciliation (procedure),651.04,,
+1998-08-25T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,bf6e10e5-c52a-40b7-be8a-3567d2e412f1,127783003,Spirometry (procedure),5253.26,87433001,Pulmonary emphysema (disorder)
+1998-08-25T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,bf6e10e5-c52a-40b7-be8a-3567d2e412f1,430193006,Medication Reconciliation (procedure),548.97,,
+1999-08-31T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,8e815d2b-8406-43cd-b344-9080f1763540,127783003,Spirometry (procedure),9377.75,87433001,Pulmonary emphysema (disorder)
+1999-08-31T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,8e815d2b-8406-43cd-b344-9080f1763540,430193006,Medication Reconciliation (procedure),448.85,,
+2000-09-05T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,ce2b784e-32d4-4bce-a47e-2cbb33109f0c,127783003,Spirometry (procedure),6476.5,87433001,Pulmonary emphysema (disorder)
+2001-07-24T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,9bb5958f-e546-444c-82da-6f2e02c093d3,127783003,Spirometry (procedure),14379.29,87433001,Pulmonary emphysema (disorder)
+2001-07-24T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,9bb5958f-e546-444c-82da-6f2e02c093d3,15081005,Pulmonary rehabilitation (regime/therapy),516.65,87433001,Pulmonary emphysema (disorder)
+2001-07-24T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,9bb5958f-e546-444c-82da-6f2e02c093d3,430193006,Medication Reconciliation (procedure),696.61,,
+2001-09-11T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,60d860f7-40cc-4647-8c30-571fe9eb75c6,127783003,Spirometry (procedure),7408.18,87433001,Pulmonary emphysema (disorder)
+2001-09-11T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,60d860f7-40cc-4647-8c30-571fe9eb75c6,15081005,Pulmonary rehabilitation (regime/therapy),516.65,87433001,Pulmonary emphysema (disorder)
+2002-02-07T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,cb1e577b-a7ad-471c-a9ae-0d3f33ac7d4b,73761001,Colonoscopy,16214.71,,
+2002-02-19T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,9d836125-96d5-43d2-8f98-553471d122ac,127783003,Spirometry (procedure),8586.76,87433001,Pulmonary emphysema (disorder)
+2002-02-19T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,9d836125-96d5-43d2-8f98-553471d122ac,15081005,Pulmonary rehabilitation (regime/therapy),516.65,87433001,Pulmonary emphysema (disorder)
+2002-04-23T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,035b34b3-55a6-4844-a7c0-d1d5b07f2fb2,127783003,Spirometry (procedure),9433.8,87433001,Pulmonary emphysema (disorder)
+2002-04-23T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,035b34b3-55a6-4844-a7c0-d1d5b07f2fb2,15081005,Pulmonary rehabilitation (regime/therapy),516.65,87433001,Pulmonary emphysema (disorder)
+2002-04-23T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,035b34b3-55a6-4844-a7c0-d1d5b07f2fb2,430193006,Medication Reconciliation (procedure),587.92,,
+2002-08-20T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,69ba6101-27ea-4e27-bfc4-c71916480eed,127783003,Spirometry (procedure),9848.38,87433001,Pulmonary emphysema (disorder)
+2002-08-20T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,69ba6101-27ea-4e27-bfc4-c71916480eed,15081005,Pulmonary rehabilitation (regime/therapy),516.65,87433001,Pulmonary emphysema (disorder)
+2002-09-17T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,c75d1f3a-9d9a-4c92-97c3-87e4856a3169,127783003,Spirometry (procedure),12693.71,87433001,Pulmonary emphysema (disorder)
+2002-09-17T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,c75d1f3a-9d9a-4c92-97c3-87e4856a3169,15081005,Pulmonary rehabilitation (regime/therapy),516.65,87433001,Pulmonary emphysema (disorder)
+2003-08-12T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,34b49909-4eb9-47b4-bfe5-f1cb3dda3c36,127783003,Spirometry (procedure),10698.26,87433001,Pulmonary emphysema (disorder)
+2003-08-12T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,34b49909-4eb9-47b4-bfe5-f1cb3dda3c36,15081005,Pulmonary rehabilitation (regime/therapy),516.65,87433001,Pulmonary emphysema (disorder)
+2003-08-12T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,34b49909-4eb9-47b4-bfe5-f1cb3dda3c36,430193006,Medication Reconciliation (procedure),485.47,,
+2003-09-23T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,85a84d9f-22b9-446d-a3e0-6c2460fba381,127783003,Spirometry (procedure),8545.63,87433001,Pulmonary emphysema (disorder)
+2003-09-23T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,85a84d9f-22b9-446d-a3e0-6c2460fba381,15081005,Pulmonary rehabilitation (regime/therapy),516.65,87433001,Pulmonary emphysema (disorder)
+2003-10-14T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,415f7d5d-6b67-4d48-883d-a2c261627841,127783003,Spirometry (procedure),11305.96,87433001,Pulmonary emphysema (disorder)
+2003-10-14T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,415f7d5d-6b67-4d48-883d-a2c261627841,15081005,Pulmonary rehabilitation (regime/therapy),516.65,87433001,Pulmonary emphysema (disorder)
+2003-12-09T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,4d339b6d-4daf-41c8-b6bc-9ba95830d719,127783003,Spirometry (procedure),6427.65,87433001,Pulmonary emphysema (disorder)
+2003-12-09T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,4d339b6d-4daf-41c8-b6bc-9ba95830d719,15081005,Pulmonary rehabilitation (regime/therapy),516.65,87433001,Pulmonary emphysema (disorder)
+2004-01-13T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,9a13f4ad-7871-4e23-b12e-af39754ac251,127783003,Spirometry (procedure),4911.78,87433001,Pulmonary emphysema (disorder)
+2004-01-13T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,9a13f4ad-7871-4e23-b12e-af39754ac251,15081005,Pulmonary rehabilitation (regime/therapy),516.65,87433001,Pulmonary emphysema (disorder)
+2011-09-06T00:15:54Z,0047123f-12e7-486c-82df-53b3a450e365,fe1124fe-729e-4a05-8486-b931533dc47a,269911007,Sputum examination (procedure),7454.27,10509002,Acute bronchitis (disorder)
+2004-07-06T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,866818a5-830c-4c84-8df8-7554ef4c06a9,127783003,Spirometry (procedure),9481.27,87433001,Pulmonary emphysema (disorder)
+2004-07-06T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,866818a5-830c-4c84-8df8-7554ef4c06a9,15081005,Pulmonary rehabilitation (regime/therapy),516.65,87433001,Pulmonary emphysema (disorder)
+2004-07-06T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,866818a5-830c-4c84-8df8-7554ef4c06a9,430193006,Medication Reconciliation (procedure),739.32,,
+2011-09-22T00:15:54Z,0047123f-12e7-486c-82df-53b3a450e365,92c05fba-fde4-4323-b7cc-cf4d5daf2dfe,430193006,Medication Reconciliation (procedure),965.3,,
+2004-08-10T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,bda5868a-6739-4067-a40f-1e25e06f7593,127783003,Spirometry (procedure),9389.44,87433001,Pulmonary emphysema (disorder)
+2004-08-10T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,bda5868a-6739-4067-a40f-1e25e06f7593,15081005,Pulmonary rehabilitation (regime/therapy),516.65,87433001,Pulmonary emphysema (disorder)
+2004-09-28T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,5cbfb88e-821c-4549-8a7d-1e754739ed3d,127783003,Spirometry (procedure),9301.9,87433001,Pulmonary emphysema (disorder)
+2004-09-28T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,5cbfb88e-821c-4549-8a7d-1e754739ed3d,15081005,Pulmonary rehabilitation (regime/therapy),516.65,87433001,Pulmonary emphysema (disorder)
+2013-01-09T00:15:54Z,0047123f-12e7-486c-82df-53b3a450e365,6f133e61-f78b-4801-adc7-f9c3b25b0126,80146002,Appendectomy,11837.25,74400008,Appendicitis
+2013-02-07T00:15:54Z,0047123f-12e7-486c-82df-53b3a450e365,ac648c8e-010b-4021-a291-f2cace5ec9b5,430193006,Medication Reconciliation (procedure),587.38,,
+2015-01-20T00:15:54Z,0047123f-12e7-486c-82df-53b3a450e365,e5615b34-7d9b-4465-bebc-74f4b907ed86,73761001,Colonoscopy,17847.25,,
+2020-01-19T00:15:54Z,0047123f-12e7-486c-82df-53b3a450e365,dc9e1c27-bb1f-495f-a206-44d9193c19b4,73761001,Colonoscopy,19233.8,,
+2020-03-19T00:15:54Z,0047123f-12e7-486c-82df-53b3a450e365,f6deb924-8c7d-49f1-b836-efb0c3ea11b8,430193006,Medication Reconciliation (procedure),618.72,,
+2004-11-23T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,1af97dde-da9a-4b22-bac5-804ee6d8d674,127783003,Spirometry (procedure),11178.15,87433001,Pulmonary emphysema (disorder)
+2004-11-23T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,1af97dde-da9a-4b22-bac5-804ee6d8d674,15081005,Pulmonary rehabilitation (regime/therapy),516.65,87433001,Pulmonary emphysema (disorder)
+2004-11-23T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,1af97dde-da9a-4b22-bac5-804ee6d8d674,430193006,Medication Reconciliation (procedure),331.4,,
+2005-04-05T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,6d9e9add-8772-45c8-a4d4-9626e44de961,127783003,Spirometry (procedure),12026.51,87433001,Pulmonary emphysema (disorder)
+2005-04-05T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,6d9e9add-8772-45c8-a4d4-9626e44de961,15081005,Pulmonary rehabilitation (regime/therapy),516.65,87433001,Pulmonary emphysema (disorder)
+2005-10-04T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,ec76e791-6cb1-4b95-a0c4-e45f5849c21b,127783003,Spirometry (procedure),7173.27,87433001,Pulmonary emphysema (disorder)
+2005-10-04T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,ec76e791-6cb1-4b95-a0c4-e45f5849c21b,15081005,Pulmonary rehabilitation (regime/therapy),516.65,87433001,Pulmonary emphysema (disorder)
+2005-10-04T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,ec76e791-6cb1-4b95-a0c4-e45f5849c21b,430193006,Medication Reconciliation (procedure),462.27,,
+2005-10-11T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,c2a1e224-6dd0-4932-8c8a-ef400bde4559,127783003,Spirometry (procedure),9432.67,87433001,Pulmonary emphysema (disorder)
+2005-10-11T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,c2a1e224-6dd0-4932-8c8a-ef400bde4559,15081005,Pulmonary rehabilitation (regime/therapy),516.65,87433001,Pulmonary emphysema (disorder)
+2005-12-27T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,669c6ad0-31c4-4823-b936-80d2c86b9089,127783003,Spirometry (procedure),5469.05,87433001,Pulmonary emphysema (disorder)
+2005-12-27T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,669c6ad0-31c4-4823-b936-80d2c86b9089,15081005,Pulmonary rehabilitation (regime/therapy),516.65,87433001,Pulmonary emphysema (disorder)
+2006-02-28T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,b30d5738-5c9d-41a5-a1d3-99e5cb1926f1,127783003,Spirometry (procedure),10264.83,87433001,Pulmonary emphysema (disorder)
+2006-02-28T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,b30d5738-5c9d-41a5-a1d3-99e5cb1926f1,15081005,Pulmonary rehabilitation (regime/therapy),516.65,87433001,Pulmonary emphysema (disorder)
+2006-02-28T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,b30d5738-5c9d-41a5-a1d3-99e5cb1926f1,430193006,Medication Reconciliation (procedure),508.11,,
+2006-07-04T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,cbbc6517-a0df-4f17-b52c-eb4c63138f9d,127783003,Spirometry (procedure),9569.26,87433001,Pulmonary emphysema (disorder)
+2006-07-04T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,cbbc6517-a0df-4f17-b52c-eb4c63138f9d,15081005,Pulmonary rehabilitation (regime/therapy),516.65,87433001,Pulmonary emphysema (disorder)
+2006-07-04T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,cbbc6517-a0df-4f17-b52c-eb4c63138f9d,430193006,Medication Reconciliation (procedure),496.05,,
+2006-10-10T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,7af26bab-f55c-4bd6-b006-61195a17c892,127783003,Spirometry (procedure),8776.69,87433001,Pulmonary emphysema (disorder)
+2006-10-10T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,7af26bab-f55c-4bd6-b006-61195a17c892,15081005,Pulmonary rehabilitation (regime/therapy),516.65,87433001,Pulmonary emphysema (disorder)
+2006-12-26T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,f57e9d64-c8a2-4ebe-b883-6c7f374b8b15,127783003,Spirometry (procedure),7144.4,87433001,Pulmonary emphysema (disorder)
+2006-12-26T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,f57e9d64-c8a2-4ebe-b883-6c7f374b8b15,15081005,Pulmonary rehabilitation (regime/therapy),516.65,87433001,Pulmonary emphysema (disorder)
+2007-02-20T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,995be495-d775-48af-a955-6e1b8791346c,127783003,Spirometry (procedure),13943.49,87433001,Pulmonary emphysema (disorder)
+2007-02-20T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,995be495-d775-48af-a955-6e1b8791346c,15081005,Pulmonary rehabilitation (regime/therapy),516.65,87433001,Pulmonary emphysema (disorder)
+2007-03-05T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,b39fe737-567c-4b40-953a-230cc7e1917a,434158009,Transthoracic three dimensional ultrasonography of heart (procedure),710.42,,
+2007-05-22T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,4f97d302-eee2-4e13-910d-89b259d507e0,127783003,Spirometry (procedure),11506.34,87433001,Pulmonary emphysema (disorder)
+2007-05-22T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,4f97d302-eee2-4e13-910d-89b259d507e0,15081005,Pulmonary rehabilitation (regime/therapy),516.65,87433001,Pulmonary emphysema (disorder)
+2007-06-26T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,e28c1ba7-dc88-4792-b6da-11fa008c5c00,127783003,Spirometry (procedure),11707.74,87433001,Pulmonary emphysema (disorder)
+2007-06-26T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,e28c1ba7-dc88-4792-b6da-11fa008c5c00,15081005,Pulmonary rehabilitation (regime/therapy),516.65,87433001,Pulmonary emphysema (disorder)
+2007-06-26T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,e28c1ba7-dc88-4792-b6da-11fa008c5c00,430193006,Medication Reconciliation (procedure),469.41,,
+2007-09-01T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,c79c083a-0426-454b-b75e-f62dfe8bafa9,399208008,Plain chest X-ray (procedure),7640.05,,
+2007-09-01T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,3d024a3e-5f99-423b-abc8-1d8d4881afda,433236007,Transthoracic echocardiography,516.65,,
+2007-09-01T13:04:22Z,0325261f-61eb-46f8-acc6-89d15053fecd,3d024a3e-5f99-423b-abc8-1d8d4881afda,399208008,Plain chest X-ray,12645.79,,
+2012-09-13T15:56:00Z,1c2aa038-9366-4c7d-9a3e-52cb753a670f,f80983ac-0040-4e13-8e20-5c37814ce831,430193006,Medication Reconciliation (procedure),604.87,,
+2016-10-06T15:56:00Z,1c2aa038-9366-4c7d-9a3e-52cb753a670f,8f8ef900-8489-4313-ba04-db16bbe7fe68,430193006,Medication Reconciliation (procedure),332.04,,
+2019-10-24T15:56:00Z,1c2aa038-9366-4c7d-9a3e-52cb753a670f,696a0fa7-f05d-4d4c-8563-b07db9955e5b,430193006,Medication Reconciliation (procedure),618.62,,
+2016-10-04T04:39:39Z,16aea213-825e-4d66-a68c-a2757658673e,6585c680-1f5d-4d0b-b6cf-f0fd5779628f,269911007,Sputum examination (procedure),10338.77,10509002,Acute bronchitis (disorder)
+2016-10-16T04:39:39Z,16aea213-825e-4d66-a68c-a2757658673e,2862a9df-67ec-436e-9012-8c1af76b15fb,430193006,Medication Reconciliation (procedure),514.81,,
+2017-05-28T04:39:39Z,16aea213-825e-4d66-a68c-a2757658673e,2a11ffaf-aa2d-4fda-bf8c-dd7502bf5b5a,430193006,Medication Reconciliation (procedure),403.59,,
