@@ -9,7 +9,7 @@ This repository was updated in 20 may 2022 in evening.
 ### Atlantis privacy-protected voting app
 **General description**
 
-This is project associate with _"Implementing privacy in software engineering"_ section. You need to finish a voting app for atlantis city, but you need to add in this app privacy features to achieve the agreement and generate a safed voting in this city.
+This is project associated with _"Implementing privacy in software engineering"_ section. You need to finish a voting app for atlantis city, but you need to add in this app privacy features to achieve the agreement and generate a safed voting in this city.
 
 **Points to highlight**
 
@@ -28,5 +28,20 @@ This is project associate with _"Implementing privacy in software engineering"_ 
 **Status** : Completed
 
 ### Udacity health care privacy assessment
+**General description**
+This is project associated with _"Organizational privacy engineering"_ section. You need to check a sample of dataset and specification document of udacity health app; find privacy faults and document those points with recommendations of safeguard to improve this app. 
 
-**Status** : In progress
+**Points to highlight**
+
+1. Find privacy faults in app based in regulations.
+2. Give improved recommendations based in faults of app.
+3. Create and apply anonymized methods by script to sample database.
+
+**Better skills**
+
+- Analyze features of app.
+- Implement anonymized methods.
+- Get basic knowledges about common regulations in several topics of sensitive data.
+- Write documentations of improved recommendations.
+
+**Status** : Completed
